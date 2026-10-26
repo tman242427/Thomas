@@ -21,7 +21,7 @@
  * page source can see it. Don't put private information in this app.)
  */
 window.APP_CONFIG = {
-  password: "mazie6",
+  password: "thomas6",
   gateKey: "thomas_lab_unlocked_v1",
   title: "Thomas's Science Lab",
   subtitle: "6th Grade Test Prep",
