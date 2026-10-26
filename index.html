@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Thomas's Science Lab" />
+  <meta name="theme-color" content="#0a1628" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Thomas's Science Lab</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Password Gate -->
+  <div id="gate" class="gate">
+    <div class="gate-card">
+      <div class="gate-icon">🔬</div>
+      <h1>Thomas's Science Lab</h1>
+      <p class="gate-sub">Enter the password to start studying</p>
+      <form id="gate-form" autocomplete="off">
+        <input type="password" id="gate-pw" placeholder="Password" inputmode="text" autocapitalize="off" autocorrect="off" aria-label="Password" />
+        <button type="submit" class="btn btn-primary btn-block">Unlock</button>
+      </form>
+      <p id="gate-error" class="gate-error hidden">Hmm, that password isn't right. Try again!</p>
+    </div>
+  </div>
+
+  <!-- App Shell -->
+  <div id="app" class="app hidden">
+    <header class="topbar">
+      <button id="btn-home" class="btn-icon hidden" aria-label="Back">←</button>
+      <div class="topbar-titles">
+        <h1 class="brand" id="brand">Thomas's Science Lab</h1>
+        <p class="subtitle" id="subtitle">6th Grade Test Prep</p>
+      </div>
+    </header>
+
+    <!-- Subject picker (only shown when there are 2+ subjects) -->
+    <main id="view-subjects" class="view hidden">
+      <p class="welcome" id="subjects-welcome">Hey Thomas! Pick a subject to study. 💪</p>
+      <div class="mode-grid" id="subject-grid"></div>
+    </main>
+
+    <!-- Home -->
+    <main id="view-home" class="view hidden">
+      <p class="welcome" id="home-welcome">Hey Thomas! Pick a mode to get ready for your test. You've got this! 💪</p>
+      <div class="mode-grid">
+        <button class="mode-card" data-mode="study">
+          <span class="mode-emoji">📖</span>
+          <span class="mode-title">Study Guide</span>
+          <span class="mode-desc">Read lessons & key terms</span>
+        </button>
+        <button class="mode-card" data-mode="flash">
+          <span class="mode-emoji">🃏</span>
+          <span class="mode-title">Flashcards</span>
+          <span class="mode-desc">Tap to flip · Know / Still learning</span>
+        </button>
+        <button class="mode-card" data-mode="quiz">
+          <span class="mode-emoji">✅</span>
+          <span class="mode-title">Quiz</span>
+          <span class="mode-desc">Practice tests · Check your score</span>
+        </button>
+      </div>
+    </main>
+
+    <!-- Study Guide -->
+    <main id="view-study" class="view hidden">
+      <div class="section-nav" id="study-nav"></div>
+      <div id="study-content" class="study-content"></div>
+    </main>
+
+    <!-- Flashcards -->
+    <main id="view-flash" class="view hidden">
+      <div class="flash-filter" id="flash-filter"></div>
+      <p id="flash-empty" class="flash-empty hidden">No flashcards yet.</p>
+      <div id="flash-body">
+        <div class="flash-toolbar">
+          <span id="flash-progress" class="progress-label">1 / 1</span>
+          <button id="btn-shuffle" class="btn btn-secondary btn-sm">🔀 Shuffle</button>
+        </div>
+        <div id="flashcard" class="flashcard" tabindex="0" role="button" aria-label="Tap to flip card">
+          <div class="flash-inner">
+            <div class="flash-front">
+              <p class="flash-label">Term</p>
+              <p id="flash-term" class="flash-text"></p>
+              <p class="flash-hint">Tap to flip</p>
+            </div>
+            <div class="flash-back">
+              <p class="flash-label">Definition</p>
+              <p id="flash-def" class="flash-text"></p>
+              <p class="flash-hint">Tap to flip back</p>
+            </div>
+          </div>
+        </div>
+        <div class="flash-actions">
+          <button id="btn-learning" class="btn btn-amber">Still learning</button>
+          <button id="btn-know" class="btn btn-teal">Know it! ✓</button>
+        </div>
+        <div class="flash-stats">
+          <span>Still learning: <strong id="stat-learning">0</strong></span>
+          <span>Know: <strong id="stat-know">0</strong></span>
+        </div>
+        <div class="flash-nav">
+          <button id="btn-prev" class="btn btn-secondary">← Prev</button>
+          <button id="btn-next" class="btn btn-secondary">Next →</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- Quiz -->
+    <main id="view-quiz" class="view hidden">
+      <div id="quiz-start" class="quiz-panel">
+        <div class="quiz-head">
+          <span class="mode-emoji big">🧪</span>
+          <h2 id="quiz-title">Science Quiz</h2>
+          <p>Pick a quiz. You'll see right or wrong after every answer, then a score and a review of what you missed.</p>
+        </div>
+        <div id="quiz-menu"></div>
+      </div>
+      <div id="quiz-play" class="quiz-panel hidden">
+        <p id="quiz-name" class="quiz-name"></p>
+        <div class="quiz-progress-bar"><div id="quiz-bar" class="quiz-bar-fill"></div></div>
+        <p id="quiz-num" class="progress-label"></p>
+        <div id="quiz-question" class="quiz-q"></div>
+        <div id="quiz-choices" class="quiz-choices"></div>
+        <p id="quiz-feedback" class="quiz-feedback hidden"></p>
+        <button id="btn-submit-q" class="btn btn-primary btn-block">Check Answer</button>
+        <button id="btn-next-q" class="btn btn-teal btn-block hidden">Next Question →</button>
+      </div>
+      <div id="quiz-results" class="quiz-panel hidden">
+        <div class="results-hero">
+          <span id="results-emoji" class="mode-emoji big">🌟</span>
+          <h2 id="results-title">Great job!</h2>
+          <p id="results-score" class="results-score"></p>
+          <p id="results-msg" class="results-msg"></p>
+        </div>
+        <div id="results-review" class="results-review"></div>
+        <button id="btn-retry" class="btn btn-primary btn-block">Try Again</button>
+        <button id="btn-quiz-menu" class="btn btn-secondary btn-block">Choose Another Quiz</button>
+        <button id="btn-quiz-home" class="btn btn-secondary btn-block">Back to Home</button>
+      </div>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
