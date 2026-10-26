@@ -514,6 +514,19 @@ body {
 .choice.multi .marker { border-radius: 6px; }
 .choice span:last-child { flex: 1; }
 
+/* True / False quiz: two big side-by-side buttons */
+.quiz-choices.tf { flex-direction: row; gap: 12px; }
+.choice.tf-choice {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  min-height: 88px;
+  font-size: 1.35rem;
+  font-weight: 700;
+  text-align: center;
+}
+.choice.tf-choice span:last-child { flex: 0 1 auto; }
+
 .quiz-feedback {
   padding: 14px;
   border-radius: 12px;
@@ -626,3 +639,7 @@ body {
 .flash-front, .flash-back { overflow-y: auto; }
 .practice-box ul { margin-bottom: 0; }
 .footer-note { text-align: center; color: var(--text-muted); font-size: 0.8rem; margin-top: 26px; }
+
+/* Taller flashcards for long answers (e.g. ELA short-answer model answers) */
+.flashcard.tall, .flashcard.tall .flash-inner { min-height: 440px; }
+.flashcard.tall .flash-front, .flashcard.tall .flash-back { padding-bottom: 44px; }

@@ -201,8 +201,11 @@
     const t = $("#flash-term"), d = $("#flash-def");
     t.textContent = card.term;
     d.textContent = card.def;
+    $("#flash-label-front").textContent = card.front || "Term";
+    $("#flash-label-back").textContent = card.back || "Definition";
     t.classList.toggle("long", card.term.length > 24);
     d.classList.toggle("long", card.def.length > 110);
+    $("#flashcard").classList.toggle("tall", Math.max(card.term.length, card.def.length) > 220);
     $("#flashcard").classList.toggle("flipped", flashFlipped);
     $("#flash-progress").textContent = (flashIndex + 1) + " / " + flashOrder.length;
     $("#stat-know").textContent = knowSet.size;
@@ -254,11 +257,11 @@
 
   function quizDefinitions(s) {
     const pool = uniqueQuestions(s);
-    const defs = { tests: [], mixed: [], lessons: [] };
+    const defs = { tests: [], mixed: [], lessons: [], tf: [] };
     (s.tests || []).forEach((t) => {
       defs.tests.push({
         emoji: "📝", name: t.name, desc: t.desc || (t.questions.length + " questions"),
-        build: () => t.questions.slice()
+        build: () => (t.shuffle ? shuffle(t.questions).map(withShuffledChoices) : t.questions.slice())
       });
     });
     const n = Math.min(25, pool.length);
@@ -276,6 +279,22 @@
         build: () => shuffle(qs).map(withShuffledChoices)
       });
     });
+    // True / False concept quizzes (optional: subject.trueFalse). Not mixed into the multiple-choice pools.
+    const tfAll = s.trueFalse || [];
+    if (tfAll.length) {
+      (s.lessons || []).forEach((l) => {
+        const ts = tfAll.filter((q) => String(q.lesson) === String(l.id));
+        if (!ts.length) return;
+        defs.tf.push({
+          emoji: "✔️", name: l.name + " · T/F", desc: ts.length + " true/false statements · shuffled",
+          build: () => shuffle(ts)
+        });
+      });
+      defs.tf.push({
+        emoji: "🧠", name: "All concepts · T/F", desc: "All " + tfAll.length + " true/false statements · shuffled",
+        build: () => shuffle(tfAll)
+      });
+    }
     if (pool.length) {
       defs.lessons.push({
         emoji: "🏆", name: "Everything", desc: "All " + pool.length + " different questions · shuffled",
@@ -312,6 +331,7 @@
     group("Practice tests", defs.tests);
     group("Mixed", defs.mixed);
     group("By lesson", defs.lessons);
+    group("True / False", defs.tf);
     showQuizPanel("start");
   }
 
@@ -339,17 +359,20 @@
     quizLocked = false;
     $("#quiz-bar").style.width = (quizIndex / quizList.length) * 100 + "%";
     $("#quiz-num").textContent = "Question " + (quizIndex + 1) + " of " + quizList.length;
-    const typeLabel = multi ? "Multi-select — pick all that apply" : "Multiple choice";
+    const typeLabel = q.tf ? "True or False?" : (multi ? "Multi-select — pick all that apply" : "Multiple choice");
     $("#quiz-question").innerHTML = '<span class="q-type">' + typeLabel + "</span><br>" + escapeHtml(q.q);
 
     const box = $("#quiz-choices");
     box.innerHTML = "";
+    box.classList.toggle("tf", !!q.tf);
     q.choices.forEach((c, i) => {
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "choice" + (multi ? " multi" : "");
+      btn.className = "choice" + (multi ? " multi" : "") + (q.tf ? " tf-choice" : "");
       btn.dataset.idx = i;
-      btn.innerHTML = '<span class="marker">' + (multi ? "☐" : String.fromCharCode(65 + i)) + "</span><span>" + escapeHtml(c) + "</span>";
+      btn.innerHTML = q.tf
+        ? "<span>" + (i === 0 ? "✓ " : "✗ ") + escapeHtml(c) + "</span>"
+        : '<span class="marker">' + (multi ? "☐" : String.fromCharCode(65 + i)) + "</span><span>" + escapeHtml(c) + "</span>";
       btn.addEventListener("click", () => onChoice(i, btn));
       box.appendChild(btn);
     });

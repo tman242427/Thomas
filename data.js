@@ -1,7 +1,7 @@
 /*
  * data.js — ALL of the content for Thomas's Science Lab lives in this file.
  *
- * To add a new SUBJECT (e.g. Math, Social Studies), copy the "science" object
+ * To add a new SUBJECT (e.g. Math, Social Studies), copy the "science" or "ela" object
  * inside SUBJECTS and change the fields. When there are 2+ subjects the home
  * screen shows a subject picker automatically.
  *
@@ -9,7 +9,10 @@
  *   lessons    – [{ id, name }]           used for "quiz by lesson" and tagging
  *   notes      – [{ id, short, title, html }]   study guide sections (HTML allowed)
  *   flashcards – [{ term, def, lesson }]  lesson = a lessons[].id
- *   tests      – [{ id, name, desc, questions: [...] }]  fixed practice tests
+ *   tests      – [{ id, name, desc, questions: [...], shuffle? }]  fixed practice tests
+ *                (shuffle: true = question order AND answer order are shuffled each time)
+ *   flashcards can also have optional  front / back  labels (default "Term" / "Definition")
+ *                e.g. front: "Question", back: "Model answer".
  *
  * Each question: { id, lesson, q, choices: [..], answer: <index>, explain }
  *   - "id" must be unique within the subject. If the same id appears in several
@@ -1570,6 +1573,550 @@ window.SUBJECTS = [
             ],
             "answer": 2,
             "explain": "8.0 (great) is the highest magnitude listed."
+          }
+        ]
+      }
+    ],
+    // True / False concept statements (Science). Shown as the "True / False" group in the Quiz menu.
+    // Same shape as a question, plus tf:true and choices ["True","False"] (answer 0 = True, 1 = False).
+    trueFalse: [
+      {"id": "tf3_1", "lesson": 3, "tf": true, "q": "Folded mountains are built by compression, because two plates collide and squeeze and buckle the crust.", "choices": ["True", "False"], "answer": 0, "explain": "True. Colliding plates squeeze (compression) and buckle the crust into folded mountains, like pushing a rug into folds."},
+      {"id": "tf3_2", "lesson": 3, "tf": true, "q": "Fault-block mountains form when two plates are squeezed together and the crust buckles into folds.", "choices": ["True", "False"], "answer": 1, "explain": "False. Fault-block mountains form when forces PULL the crust apart (tension) and break it into blocks. Squeezing and buckling makes folded mountains."},
+      {"id": "tf3_3", "lesson": 3, "tf": true, "q": "Most of Earth's largest mountains form where plates collide at convergent boundaries.", "choices": ["True", "False"], "answer": 0, "explain": "True. Plates pushing together at convergent boundaries build most of Earth's largest mountains."},
+      {"id": "tf3_4", "lesson": 3, "tf": true, "q": "Shear stress pulls rock apart until it stretches, like pulling on taffy.", "choices": ["True", "False"], "answer": 1, "explain": "False. Tension pulls rock apart like taffy. Shear pushes in opposite directions so rock slides past, like rubbing your palms."},
+      {"id": "tf3_5", "lesson": 3, "tf": true, "q": "If strain is strong enough to break a rock, a fault forms.", "choices": ["True", "False"], "answer": 0, "explain": "True. Stress changes a rock's shape (strain). When strain breaks the rock instead of just bending it, a fault forms."},
+      {"id": "tf3_6", "lesson": 3, "tf": true, "q": "Strain is the force acting on a rock, and stress is the change in the rock's shape.", "choices": ["True", "False"], "answer": 1, "explain": "False. It is the other way around: stress is the force acting on a surface, and strain is the change in shape the stress causes."},
+      {"id": "tf3_7", "lesson": 3, "tf": true, "q": "When stress changes a rock's shape, the change is not always permanent. It can be temporary.", "choices": ["True", "False"], "answer": 0, "explain": "True. Strain, the change in a rock's shape, can be temporary or permanent."},
+      {"id": "tf3_8", "lesson": 3, "tf": true, "q": "Volcanic mountains form when two plates collide and squeeze the crust into folds.", "choices": ["True", "False"], "answer": 1, "explain": "False. Volcanic mountains are built when magma breaks through at the surface, erupts, and cools. Colliding plates that squeeze and buckle the crust make folded mountains."},
+      {"id": "tf3_9", "lesson": 3, "tf": true, "q": "When forces pull the crust apart into blocks, the ground on the sides of a block can drop down to form a fault-block mountain.", "choices": ["True", "False"], "answer": 0, "explain": "True. Tension pulls the crust apart and breaks it into blocks, and the ground on the sides drops down."},
+      {"id": "tf3_10", "lesson": 3, "tf": true, "q": "A volcanic mountain is built up by one single eruption.", "choices": ["True", "False"], "answer": 1, "explain": "False. A volcanic mountain grows after many eruptions, as erupted material cools and builds up over time."},
+      {"id": "tf4_1", "lesson": 4, "tf": true, "q": "Volcanoes can only form where two plates collide.", "choices": ["True", "False"], "answer": 1, "explain": "False. Volcanoes commonly form at convergent AND divergent boundaries, and some form over hotspots away from any boundary."},
+      {"id": "tf4_2", "lesson": 4, "tf": true, "q": "A volcano can form far from a plate boundary if it sits over a hotspot, a very hot area under a plate.", "choices": ["True", "False"], "answer": 0, "explain": "True. Hotspots are very hot areas under a plate where volcanoes can form away from plate boundaries."},
+      {"id": "tf4_3", "lesson": 4, "tf": true, "q": "Shield volcanoes are the most likely to make a pyroclastic flow because their thick, sticky lava erupts explosively.", "choices": ["True", "False"], "answer": 1, "explain": "False. Shield volcanoes have gentle, nonexplosive eruptions. Composite volcanoes, with thick sticky lava plus ash and rocks, are the most likely to make a pyroclastic flow."},
+      {"id": "tf4_4", "lesson": 4, "tf": true, "q": "Composite volcanoes erupt explosively, and they are the type most likely to produce a pyroclastic flow.", "choices": ["True", "False"], "answer": 0, "explain": "True. Thick, sticky lava plus ash and rocks make composite (stratovolcano) eruptions explosive, and they are most likely to make a fast-moving cloud of hot ash, gas, and rock."},
+      {"id": "tf4_5", "lesson": 4, "tf": true, "q": "Shield volcanoes are relatively safe because their eruptions are gentle and nonexplosive.", "choices": ["True", "False"], "answer": 0, "explain": "True. Shield volcanoes are tall and wide with gently sloping sides, and their gentle eruptions make them relatively safe."},
+      {"id": "tf4_6", "lesson": 4, "tf": true, "q": "An extinct volcano is just \"sleeping\" and could erupt again at any time.", "choices": ["True", "False"], "answer": 1, "explain": "False. That describes a dormant volcano. An extinct volcano is not expected to ever erupt again."},
+      {"id": "tf4_7", "lesson": 4, "tf": true, "q": "Swarms of small earthquakes near a volcano are a sign that magma is moving down and the volcano is calming.", "choices": ["True", "False"], "answer": 1, "explain": "False. Swarms of small earthquakes are a warning sign that magma is moving UP, so scientists use them to predict an eruption."},
+      {"id": "tf4_8", "lesson": 4, "tf": true, "q": "Volcanoes can both help and harm: broken-down rock and ash make fertile soil and cooled lava makes new land, but ash can block the sun and cause breathing problems.", "choices": ["True", "False"], "answer": 0, "explain": "True. Positive effects include fertile soil, valuable minerals, and new land. Negative effects include destruction, ash that blocks the sun and affects climate, and respiratory problems."},
+      {"id": "tf4_9", "lesson": 4, "tf": true, "q": "Earthquakes are spread evenly around the world, so the Ring of Fire is no more active than anywhere else.", "choices": ["True", "False"], "answer": 1, "explain": "False. The Ring of Fire, around the edge of the Pacific plate, is where about 90% of earthquakes and most volcanoes happen."},
+      {"id": "tf4_10", "lesson": 4, "tf": true, "q": "Changes in the acid levels of nearby rivers and lakes can be one clue that a volcano may erupt.", "choices": ["True", "False"], "answer": 0, "explain": "True. Scientists predict eruptions by watching for swarms of small earthquakes, gases escaping the mountain, and changing acid levels in nearby rivers and lakes."},
+      {"id": "tf5_1", "lesson": 5, "tf": true, "q": "An earthquake happens when the edges of plates get stuck, stress builds up, and then they break free and release energy.", "choices": ["True", "False"], "answer": 0, "explain": "True. Stuck plate edges build up stress until they break free, and the released energy makes the ground shake."},
+      {"id": "tf5_2", "lesson": 5, "tf": true, "q": "Earthquakes happen when plates slide smoothly past each other with nothing getting stuck.", "choices": ["True", "False"], "answer": 1, "explain": "False. Earthquakes happen because the plate edges GET STUCK. Stress builds up until they break free and release energy."},
+      {"id": "tf5_3", "lesson": 5, "tf": true, "q": "P-waves are detected before S-waves because P-waves are the fastest seismic waves.", "choices": ["True", "False"], "answer": 0, "explain": "True. P-waves (Primary) are fastest, so they arrive and are detected first. S-waves arrive second."},
+      {"id": "tf5_4", "lesson": 5, "tf": true, "q": "S-waves are the fastest seismic waves, so a seismograph records them first.", "choices": ["True", "False"], "answer": 1, "explain": "False. P-waves are the fastest and arrive first. S-waves (Secondary) arrive second."},
+      {"id": "tf5_5", "lesson": 5, "tf": true, "q": "A P-wave pushes and pulls rock in the same direction the wave travels, while an S-wave moves rock up and down or side to side.", "choices": ["True", "False"], "answer": 0, "explain": "True. P-waves are push-pull in the direction of travel. S-waves move rock up and down or side to side, which does more damage to structures."},
+      {"id": "tf5_6", "lesson": 5, "tf": true, "q": "Surface waves travel deep inside Earth and cause the least damage.", "choices": ["True", "False"], "answer": 1, "explain": "False. Surface waves travel along the surface, not inside Earth, and usually cause the most deaths and damage. P-waves cause the least damage."},
+      {"id": "tf5_7", "lesson": 5, "tf": true, "q": "Even though surface waves arrive after P-waves and S-waves, they usually cause the most deaths and damage.", "choices": ["True", "False"], "answer": 0, "explain": "True. Surface waves arrive last but usually do the most harm because they travel along the surface where people and buildings are."},
+      {"id": "tf5_8", "lesson": 5, "tf": true, "q": "Seismic waves only travel in the direction the plates were moving.", "choices": ["True", "False"], "answer": 1, "explain": "False. Seismic waves move outward in all directions from the starting point of the earthquake."},
+      {"id": "tf5_9", "lesson": 5, "tf": true, "q": "Scientists switched from the Richter scale to the Moment Magnitude scale because the Moment Magnitude scale is more accurate.", "choices": ["True", "False"], "answer": 0, "explain": "True. The Richter scale was the first measuring tool, but today scientists use the more accurate Moment Magnitude scale."},
+      {"id": "tf5_10", "lesson": 5, "tf": true, "q": "Most of the thousands of earthquakes that happen every day are strong enough to feel.", "choices": ["True", "False"], "answer": 1, "explain": "False. Thousands of earthquakes happen every day, but most are too weak to feel."}
+    ]
+  },
+  {
+    "id": "ela",
+    "name": "ELA",
+    "emoji": "📚",
+    "tagline": "The Jungle Book: vocabulary & short answers",
+    "intro": "Pick a mode to get ready for your ELA test on three Jungle Book stories. You've got this! 💪",
+    "lessons": [
+      {
+        "id": "vocab",
+        "name": "Vocabulary"
+      },
+      {
+        "id": "sa",
+        "name": "Short Answer"
+      }
+    ],
+    "notes": [
+      {
+        "id": "vocab",
+        "short": "Vocabulary",
+        "title": "Jungle Book Vocabulary",
+        "html": "\n        <h2>Jungle Book Vocabulary</h2>\n        <p>These 20 words come from <em>Kaa's Hunting</em>, <em>Tiger! Tiger!</em> and <em>The White Seal</em>. Learn each meaning, then try the flashcards and the Vocabulary quiz.</p>\n        <div class=\"key-terms\">\n          <h3>20 words</h3>\n          <p class=\"term-row\"><strong>1. Outcast</strong> — Someone or something that is cast out or rejected, as from home or society.</p>\n          <p class=\"term-row\"><strong>2. Ankus</strong> — An elephant goad of India with a spike and a hook at one end.</p>\n          <p class=\"term-row\"><strong>3. Covert</strong> — Concealed or disguised; secret.</p>\n          <p class=\"term-row\"><strong>4. Straggle</strong> — To spread or be spread in a scattered fashion or at irregular intervals.</p>\n          <p class=\"term-row\"><strong>5. Careen</strong> — To lean, sway, or tip to one side while in motion.</p>\n          <p class=\"term-row\"><strong>6. Lamentation</strong> — The act of expressing grief.</p>\n          <p class=\"term-row\"><strong>7. Incursion</strong> — A hostile entrance into or invasion of a place or territory, especially a sudden one.</p>\n          <p class=\"term-row\"><strong>8. Ravine</strong> — A narrow, steep-sided valley, commonly eroded by running water.</p>\n          <p class=\"term-row\"><strong>9. Sullen</strong> — Showing irritation or ill humor by gloomy silence or reserve.</p>\n          <p class=\"term-row\"><strong>10. Herd</strong> — A number of animals kept feeding together; a drove or flock.</p>\n          <p class=\"term-row\"><strong>11. Famine</strong> — An extreme and general scarcity of food, as in a country or a large geographical area.</p>\n          <p class=\"term-row\"><strong>12. Scour</strong> — To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material.</p>\n          <p class=\"term-row\"><strong>13. Delusion</strong> — A false belief or opinion.</p>\n          <p class=\"term-row\"><strong>14. Zenith</strong> — The point on the celestial sphere vertically above a given position.</p>\n          <p class=\"term-row\"><strong>15. Rookery</strong> — A breeding place or colony of gregarious birds or animals, such as penguins and seals.</p>\n          <p class=\"term-row\"><strong>16. Beachmaster</strong> — A bull fur seal that has its own territory in the breeding grounds.</p>\n          <p class=\"term-row\"><strong>17. Flipper</strong> — A broad, flat limb, as of a seal or whale, especially adapted for swimming.</p>\n          <p class=\"term-row\"><strong>18. Shoal</strong> — A place where the sea, a river, or another body of water is shallow.</p>\n          <p class=\"term-row\"><strong>19. Vagabond</strong> — Wandering from place to place without any settled home; nomadic.</p>\n          <p class=\"term-row\"><strong>20. Gregarious</strong> — Living in a flock or herd, as animals.</p>\n        </div>\n      "
+      },
+      {
+        "id": "short",
+        "short": "Short Answer",
+        "title": "Short Answer Questions",
+        "html": "\n        <h2>Short Answer Questions</h2>\n        <p>Three questions, one for each story. Read the model answers and practice saying them in your own words.</p>\n        <div class=\"callout\">\n          <p><strong>How to write a good short answer</strong></p>\n          <ul>\n            <li>Restate the question in your first sentence.</li>\n            <li>Answer every part of the question (if it asks two things, answer both).</li>\n            <li>Use specific details from the story, not general guesses.</li>\n            <li>Write 2–4 clear sentences, then re-read for spelling.</li>\n          </ul>\n        </div>\n        <h3>Kaa's Hunting</h3>\n        <p><strong>Why do the Bandar-log (the Monkey-People) kidnap Mowgli, and why do Baloo and Bagheera seek Kaa's help to rescue him?</strong></p>\n        <div class=\"callout\"><p>The Bandar-log kidnap Mowgli because they want him in their tribe to teach them how to weave twigs together and because they crave the attention and status of having a human in their pack. Baloo and Bagheera seek out Kaa because the monkeys are terrified of the rock python, as he is the only creature in the jungle who can outmaneuver them in the trees and hypnotize them with his dance.</p></div>\n        <h3>Tiger! Tiger!</h3>\n        <p><strong>How does Mowgli successfully defeat and kill Shere Khan the tiger?</strong></p>\n        <div class=\"callout\"><p>Mowgli uses his knowledge of the village's herd of buffaloes to trap Shere Khan. With the help of Akela and the Lone Wolf, Mowgli divides the herd into two groups. They trap Shere Khan at the bottom of a steep ravine, forcing the buffaloes to stampede through it from both ends, which tramples the tiger to death.</p></div>\n        <h3>The White Seal</h3>\n        <p><strong>What motivates Kotick to spend years searching the oceans, and what does he ultimately discover?</strong></p>\n        <div class=\"callout\"><p>Kotick is motivated by the horror of witnessing human sealers slaughter a group of young seals. He vows to find a safe island where humans cannot go so his people can live in peace. After years of searching, he discovers hidden beaches protected by a treacherous, underwater wall of rock that humans cannot navigate.</p></div>\n      "
+      }
+    ],
+    "flashcards": [
+      {
+        "term": "Outcast",
+        "def": "Someone or something that is cast out or rejected, as from home or society.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Ankus",
+        "def": "An elephant goad of India with a spike and a hook at one end.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Covert",
+        "def": "Concealed or disguised; secret.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Straggle",
+        "def": "To spread or be spread in a scattered fashion or at irregular intervals.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Careen",
+        "def": "To lean, sway, or tip to one side while in motion.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Lamentation",
+        "def": "The act of expressing grief.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Incursion",
+        "def": "A hostile entrance into or invasion of a place or territory, especially a sudden one.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Ravine",
+        "def": "A narrow, steep-sided valley, commonly eroded by running water.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Sullen",
+        "def": "Showing irritation or ill humor by gloomy silence or reserve.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Herd",
+        "def": "A number of animals kept feeding together; a drove or flock.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Famine",
+        "def": "An extreme and general scarcity of food, as in a country or a large geographical area.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Scour",
+        "def": "To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Delusion",
+        "def": "A false belief or opinion.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Zenith",
+        "def": "The point on the celestial sphere vertically above a given position.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Rookery",
+        "def": "A breeding place or colony of gregarious birds or animals, such as penguins and seals.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Beachmaster",
+        "def": "A bull fur seal that has its own territory in the breeding grounds.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Flipper",
+        "def": "A broad, flat limb, as of a seal or whale, especially adapted for swimming.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Shoal",
+        "def": "A place where the sea, a river, or another body of water is shallow.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Vagabond",
+        "def": "Wandering from place to place without any settled home; nomadic.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Gregarious",
+        "def": "Living in a flock or herd, as animals.",
+        "lesson": "vocab"
+      },
+      {
+        "term": "Why do the Bandar-log (the Monkey-People) kidnap Mowgli, and why do Baloo and Bagheera seek Kaa's help to rescue him?",
+        "def": "The Bandar-log kidnap Mowgli because they want him in their tribe to teach them how to weave twigs together and because they crave the attention and status of having a human in their pack. Baloo and Bagheera seek out Kaa because the monkeys are terrified of the rock python, as he is the only creature in the jungle who can outmaneuver them in the trees and hypnotize them with his dance.",
+        "lesson": "sa",
+        "front": "Question · Kaa's Hunting",
+        "back": "Model answer"
+      },
+      {
+        "term": "How does Mowgli successfully defeat and kill Shere Khan the tiger?",
+        "def": "Mowgli uses his knowledge of the village's herd of buffaloes to trap Shere Khan. With the help of Akela and the Lone Wolf, Mowgli divides the herd into two groups. They trap Shere Khan at the bottom of a steep ravine, forcing the buffaloes to stampede through it from both ends, which tramples the tiger to death.",
+        "lesson": "sa",
+        "front": "Question · Tiger! Tiger!",
+        "back": "Model answer"
+      },
+      {
+        "term": "What motivates Kotick to spend years searching the oceans, and what does he ultimately discover?",
+        "def": "Kotick is motivated by the horror of witnessing human sealers slaughter a group of young seals. He vows to find a safe island where humans cannot go so his people can live in peace. After years of searching, he discovers hidden beaches protected by a treacherous, underwater wall of rock that humans cannot navigate.",
+        "lesson": "sa",
+        "front": "Question · The White Seal",
+        "back": "Model answer"
+      }
+    ],
+    "tests": [
+      {
+        "id": "vocab",
+        "name": "Vocabulary Quiz",
+        "desc": "All 20 words · 4 choices each · shuffled",
+        "shuffle": true,
+        "questions": [
+          {
+            "id": "v01",
+            "lesson": "vocab",
+            "q": "What does the word \"Outcast\" mean?",
+            "choices": [
+              "To spread or be spread in a scattered fashion or at irregular intervals.",
+              "A broad, flat limb, as of a seal or whale, especially adapted for swimming.",
+              "A number of animals kept feeding together; a drove or flock.",
+              "Someone or something that is cast out or rejected, as from home or society."
+            ],
+            "answer": 3,
+            "explain": "Outcast: Someone or something that is cast out or rejected, as from home or society."
+          },
+          {
+            "id": "v02",
+            "lesson": "vocab",
+            "q": "What does the word \"Ankus\" mean?",
+            "choices": [
+              "A false belief or opinion.",
+              "Living in a flock or herd, as animals.",
+              "An elephant goad of India with a spike and a hook at one end.",
+              "A broad, flat limb, as of a seal or whale, especially adapted for swimming."
+            ],
+            "answer": 2,
+            "explain": "Ankus: An elephant goad of India with a spike and a hook at one end."
+          },
+          {
+            "id": "v03",
+            "lesson": "vocab",
+            "q": "What does the word \"Covert\" mean?",
+            "choices": [
+              "A narrow, steep-sided valley, commonly eroded by running water.",
+              "A broad, flat limb, as of a seal or whale, especially adapted for swimming.",
+              "A breeding place or colony of gregarious birds or animals, such as penguins and seals.",
+              "Concealed or disguised; secret."
+            ],
+            "answer": 3,
+            "explain": "Covert: Concealed or disguised; secret."
+          },
+          {
+            "id": "v04",
+            "lesson": "vocab",
+            "q": "What does the word \"Straggle\" mean?",
+            "choices": [
+              "To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material.",
+              "A breeding place or colony of gregarious birds or animals, such as penguins and seals.",
+              "Concealed or disguised; secret.",
+              "To spread or be spread in a scattered fashion or at irregular intervals."
+            ],
+            "answer": 3,
+            "explain": "Straggle: To spread or be spread in a scattered fashion or at irregular intervals."
+          },
+          {
+            "id": "v05",
+            "lesson": "vocab",
+            "q": "What does the word \"Careen\" mean?",
+            "choices": [
+              "To lean, sway, or tip to one side while in motion.",
+              "To spread or be spread in a scattered fashion or at irregular intervals.",
+              "A bull fur seal that has its own territory in the breeding grounds.",
+              "A number of animals kept feeding together; a drove or flock."
+            ],
+            "answer": 0,
+            "explain": "Careen: To lean, sway, or tip to one side while in motion."
+          },
+          {
+            "id": "v06",
+            "lesson": "vocab",
+            "q": "What does the word \"Lamentation\" mean?",
+            "choices": [
+              "A narrow, steep-sided valley, commonly eroded by running water.",
+              "The act of expressing grief.",
+              "To spread or be spread in a scattered fashion or at irregular intervals.",
+              "An elephant goad of India with a spike and a hook at one end."
+            ],
+            "answer": 1,
+            "explain": "Lamentation: The act of expressing grief."
+          },
+          {
+            "id": "v07",
+            "lesson": "vocab",
+            "q": "What does the word \"Incursion\" mean?",
+            "choices": [
+              "Someone or something that is cast out or rejected, as from home or society.",
+              "A place where the sea, a river, or another body of water is shallow.",
+              "A hostile entrance into or invasion of a place or territory, especially a sudden one.",
+              "Living in a flock or herd, as animals."
+            ],
+            "answer": 2,
+            "explain": "Incursion: A hostile entrance into or invasion of a place or territory, especially a sudden one."
+          },
+          {
+            "id": "v08",
+            "lesson": "vocab",
+            "q": "What does the word \"Ravine\" mean?",
+            "choices": [
+              "An extreme and general scarcity of food, as in a country or a large geographical area.",
+              "To spread or be spread in a scattered fashion or at irregular intervals.",
+              "A false belief or opinion.",
+              "A narrow, steep-sided valley, commonly eroded by running water."
+            ],
+            "answer": 3,
+            "explain": "Ravine: A narrow, steep-sided valley, commonly eroded by running water."
+          },
+          {
+            "id": "v09",
+            "lesson": "vocab",
+            "q": "What does the word \"Sullen\" mean?",
+            "choices": [
+              "Showing irritation or ill humor by gloomy silence or reserve.",
+              "A number of animals kept feeding together; a drove or flock.",
+              "An extreme and general scarcity of food, as in a country or a large geographical area.",
+              "To spread or be spread in a scattered fashion or at irregular intervals."
+            ],
+            "answer": 0,
+            "explain": "Sullen: Showing irritation or ill humor by gloomy silence or reserve."
+          },
+          {
+            "id": "v10",
+            "lesson": "vocab",
+            "q": "What does the word \"Herd\" mean?",
+            "choices": [
+              "An extreme and general scarcity of food, as in a country or a large geographical area.",
+              "A number of animals kept feeding together; a drove or flock.",
+              "To lean, sway, or tip to one side while in motion.",
+              "A narrow, steep-sided valley, commonly eroded by running water."
+            ],
+            "answer": 1,
+            "explain": "Herd: A number of animals kept feeding together; a drove or flock."
+          },
+          {
+            "id": "v11",
+            "lesson": "vocab",
+            "q": "What does the word \"Famine\" mean?",
+            "choices": [
+              "An extreme and general scarcity of food, as in a country or a large geographical area.",
+              "A hostile entrance into or invasion of a place or territory, especially a sudden one.",
+              "Someone or something that is cast out or rejected, as from home or society.",
+              "The act of expressing grief."
+            ],
+            "answer": 0,
+            "explain": "Famine: An extreme and general scarcity of food, as in a country or a large geographical area."
+          },
+          {
+            "id": "v12",
+            "lesson": "vocab",
+            "q": "What does the word \"Scour\" mean?",
+            "choices": [
+              "The point on the celestial sphere vertically above a given position.",
+              "To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material.",
+              "A false belief or opinion.",
+              "A place where the sea, a river, or another body of water is shallow."
+            ],
+            "answer": 1,
+            "explain": "Scour: To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material."
+          },
+          {
+            "id": "v13",
+            "lesson": "vocab",
+            "q": "What does the word \"Delusion\" mean?",
+            "choices": [
+              "A false belief or opinion.",
+              "A broad, flat limb, as of a seal or whale, especially adapted for swimming.",
+              "An elephant goad of India with a spike and a hook at one end.",
+              "The act of expressing grief."
+            ],
+            "answer": 0,
+            "explain": "Delusion: A false belief or opinion."
+          },
+          {
+            "id": "v14",
+            "lesson": "vocab",
+            "q": "What does the word \"Zenith\" mean?",
+            "choices": [
+              "A narrow, steep-sided valley, commonly eroded by running water.",
+              "To spread or be spread in a scattered fashion or at irregular intervals.",
+              "A bull fur seal that has its own territory in the breeding grounds.",
+              "The point on the celestial sphere vertically above a given position."
+            ],
+            "answer": 3,
+            "explain": "Zenith: The point on the celestial sphere vertically above a given position."
+          },
+          {
+            "id": "v15",
+            "lesson": "vocab",
+            "q": "What does the word \"Rookery\" mean?",
+            "choices": [
+              "The point on the celestial sphere vertically above a given position.",
+              "A place where the sea, a river, or another body of water is shallow.",
+              "A breeding place or colony of gregarious birds or animals, such as penguins and seals.",
+              "A broad, flat limb, as of a seal or whale, especially adapted for swimming."
+            ],
+            "answer": 2,
+            "explain": "Rookery: A breeding place or colony of gregarious birds or animals, such as penguins and seals."
+          },
+          {
+            "id": "v16",
+            "lesson": "vocab",
+            "q": "What does the word \"Beachmaster\" mean?",
+            "choices": [
+              "Wandering from place to place without any settled home; nomadic.",
+              "A number of animals kept feeding together; a drove or flock.",
+              "A bull fur seal that has its own territory in the breeding grounds.",
+              "To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material."
+            ],
+            "answer": 2,
+            "explain": "Beachmaster: A bull fur seal that has its own territory in the breeding grounds."
+          },
+          {
+            "id": "v17",
+            "lesson": "vocab",
+            "q": "What does the word \"Flipper\" mean?",
+            "choices": [
+              "A place where the sea, a river, or another body of water is shallow.",
+              "A breeding place or colony of gregarious birds or animals, such as penguins and seals.",
+              "A broad, flat limb, as of a seal or whale, especially adapted for swimming.",
+              "Showing irritation or ill humor by gloomy silence or reserve."
+            ],
+            "answer": 2,
+            "explain": "Flipper: A broad, flat limb, as of a seal or whale, especially adapted for swimming."
+          },
+          {
+            "id": "v18",
+            "lesson": "vocab",
+            "q": "What does the word \"Shoal\" mean?",
+            "choices": [
+              "A number of animals kept feeding together; a drove or flock.",
+              "Living in a flock or herd, as animals.",
+              "A place where the sea, a river, or another body of water is shallow.",
+              "To spread or be spread in a scattered fashion or at irregular intervals."
+            ],
+            "answer": 2,
+            "explain": "Shoal: A place where the sea, a river, or another body of water is shallow."
+          },
+          {
+            "id": "v19",
+            "lesson": "vocab",
+            "q": "What does the word \"Vagabond\" mean?",
+            "choices": [
+              "Wandering from place to place without any settled home; nomadic.",
+              "To remove dirt, grease, etc., or to cleanse or polish by hard rubbing, as with a rough or abrasive material.",
+              "A place where the sea, a river, or another body of water is shallow.",
+              "A bull fur seal that has its own territory in the breeding grounds."
+            ],
+            "answer": 0,
+            "explain": "Vagabond: Wandering from place to place without any settled home; nomadic."
+          },
+          {
+            "id": "v20",
+            "lesson": "vocab",
+            "q": "What does the word \"Gregarious\" mean?",
+            "choices": [
+              "Living in a flock or herd, as animals.",
+              "A place where the sea, a river, or another body of water is shallow.",
+              "Showing irritation or ill humor by gloomy silence or reserve.",
+              "An extreme and general scarcity of food, as in a country or a large geographical area."
+            ],
+            "answer": 0,
+            "explain": "Gregarious: Living in a flock or herd, as animals."
+          }
+        ]
+      },
+      {
+        "id": "sa",
+        "name": "Short Answer Review",
+        "desc": "6 questions on the three short-answer prompts · shuffled",
+        "shuffle": true,
+        "questions": [
+          {
+            "id": "sa1",
+            "lesson": "sa",
+            "q": "Why do the Bandar-log (the Monkey-People) kidnap Mowgli?",
+            "choices": [
+              "They want him in their tribe to teach them how to weave twigs together, and they crave the attention and status of having a human in their pack.",
+              "They saw human sealers slaughter young seals and want Mowgli to help them find a safe island.",
+              "They want Mowgli to help them trap a tiger at the bottom of a steep ravine.",
+              "They want Mowgli to hypnotize the rock python with a dance."
+            ],
+            "answer": 0,
+            "explain": "The Bandar-log want him in their tribe to teach them to weave twigs together, and they crave the attention and status of having a human in their pack."
+          },
+          {
+            "id": "sa2",
+            "lesson": "sa",
+            "q": "Why do Baloo and Bagheera seek Kaa's help to rescue Mowgli?",
+            "choices": [
+              "Kaa is the only creature in the jungle who can teach the monkeys to weave twigs together.",
+              "Kaa knows the village's herd of buffaloes and can divide it into two groups.",
+              "The monkeys are terrified of the rock python, the only creature in the jungle who can outmaneuver them in the trees and hypnotize them with his dance.",
+              "Kaa can lead them to a safe island where humans cannot go."
+            ],
+            "answer": 2,
+            "explain": "The monkeys are terrified of Kaa, the rock python, who can outmaneuver them in the trees and hypnotize them with his dance."
+          },
+          {
+            "id": "sa3",
+            "lesson": "sa",
+            "q": "What does Mowgli use to trap Shere Khan the tiger?",
+            "choices": [
+              "A hypnotic dance that puts the tiger under a spell.",
+              "His knowledge of the village's herd of buffaloes.",
+              "A treacherous, underwater wall of rock that cannot be navigated.",
+              "His skill at weaving twigs together into a trap."
+            ],
+            "answer": 1,
+            "explain": "Mowgli uses his knowledge of the village's herd of buffaloes to trap Shere Khan."
+          },
+          {
+            "id": "sa4",
+            "lesson": "sa",
+            "q": "How is Shere Khan finally killed?",
+            "choices": [
+              "Kaa hypnotizes Shere Khan with his dance, and the tiger can no longer move.",
+              "Human sealers slaughter Shere Khan on the beach.",
+              "Shere Khan is trapped behind a wall of rock under the ocean.",
+              "With help from Akela and the Lone Wolf, Mowgli divides the buffalo herd into two groups, traps Shere Khan at the bottom of a steep ravine, and the buffaloes stampede through from both ends and trample him."
+            ],
+            "answer": 3,
+            "explain": "Mowgli, Akela and the Lone Wolf divide the herd into two groups and trap Shere Khan at the bottom of a steep ravine. The buffaloes stampede through it from both ends and trample the tiger to death."
+          },
+          {
+            "id": "sa5",
+            "lesson": "sa",
+            "q": "What motivates Kotick to spend years searching the oceans?",
+            "choices": [
+              "He wants to teach the other seals how to weave twigs together.",
+              "He is horrified by the sight of human sealers slaughtering a group of young seals, and he vows to find a safe island where humans cannot go so his people can live in peace.",
+              "He wants the attention and status of having a human in his pack.",
+              "He wants to trap Shere Khan with a herd of buffaloes."
+            ],
+            "answer": 1,
+            "explain": "Kotick is motivated by the horror of witnessing human sealers slaughter young seals. He vows to find a safe island where humans cannot go so his people can live in peace."
+          },
+          {
+            "id": "sa6",
+            "lesson": "sa",
+            "q": "After years of searching, what does Kotick ultimately discover?",
+            "choices": [
+              "A steep ravine where humans cannot follow.",
+              "A village with a herd of buffaloes.",
+              "Hidden beaches protected by a treacherous, underwater wall of rock that humans cannot navigate.",
+              "A tribe of monkeys who crave the attention of humans."
+            ],
+            "answer": 2,
+            "explain": "After years of searching, Kotick discovers hidden beaches protected by a treacherous, underwater wall of rock that humans cannot navigate."
           }
         ]
       }
