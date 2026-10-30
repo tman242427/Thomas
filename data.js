@@ -2121,5 +2121,852 @@ window.SUBJECTS = [
         ]
       }
     ]
+  },
+  {
+    "id": "religion",
+    "name": "Elizabeth's Religion test",
+    "emoji": "🕊️",
+    "tagline": "Unit 2: Pentecost & Confirmation (Lessons 6–7)",
+    "intro": "Pick a mode to get ready for the Religion test on Pentecost and Confirmation. You've got this! 💪",
+    "lessons": [
+      {
+        "id": 6,
+        "name": "Lesson 6 · Pentecost"
+      },
+      {
+        "id": 7,
+        "name": "Lesson 7 · Confirmation"
+      }
+    ],
+    "notes": [
+      {
+        "id": "l6",
+        "short": "L6 Pentecost",
+        "title": "Lesson 6: Pentecost, The Day Everything Changed",
+        "html": "<h2>Lesson 6: Pentecost, The Day Everything Changed</h2>\n<h3>1. The Story Before Pentecost</h3>\n<ul>\n<li>The <strong>Resurrection</strong> is when Jesus rose from the dead <strong>three days</strong> after His death.</li>\n<li>After His Resurrection, Jesus <strong>appeared to His followers</strong> and showed them that He was truly alive.</li>\n<li>The <strong>Ascension</strong> is when Jesus <strong>returned to Heaven</strong> after giving His followers a mission.</li>\n<li>Jesus promised that the <strong>Holy Spirit</strong> would give His followers <strong>power</strong> to carry out His mission.</li>\n<li>A <strong>witness</strong> tells others what they have seen, heard, or experienced.</li>\n<li>The <strong>Apostles</strong> were called to share what they knew and believed about Jesus.</li>\n<li><em>Why might the Apostles have needed help?</em> They needed <strong>courage and strength</strong> to share their faith because they were <strong>ordinary people</strong>.</li>\n</ul>\n<h3>2. The Jewish Feast of Pentecost</h3>\n<ul>\n<li>Pentecost was already a <strong>Jewish harvest festival</strong>.</li>\n<li>It was celebrated <strong>50 days after Passover</strong>.</li>\n<li>People from <strong>different places</strong> gathered in <strong>Jerusalem</strong>.</li>\n<li>They could hear the Apostles' message and <strong>share it when they returned home</strong>.</li>\n</ul>\n<h3>3. What Happened at Pentecost?</h3>\n<ul>\n<li>A sound like a <strong>strong, rushing wind</strong> was heard.</li>\n<li>What seemed like <strong>tongues of fire</strong> rested on the Apostles.</li>\n<li>The Apostles <strong>spoke in different languages</strong>, so people from different places could understand the message.</li>\n<li><strong>Peter</strong> proclaimed the Good News about Jesus, and about <strong>3,000 people</strong> believed and were baptized that day.</li>\n</ul>\n<h3>4. Before, During, and After Pentecost</h3>\n<ul>\n<li><strong>Before:</strong> Jesus gave His followers a mission and promised the Holy Spirit.</li>\n<li><strong>At Pentecost:</strong> The Holy Spirit strengthened the Apostles, who proclaimed Jesus' message (the Good News).</li>\n<li><strong>After:</strong> Many people believed and were baptized.</li>\n</ul>\n<h3>5. Understanding Pentecost</h3>\n<ul>\n<li>Pentecost is often called the <strong>birthday of the Church</strong> because the Holy Spirit strengthened the Apostles to proclaim the Good News <strong>publicly</strong>.</li>\n<li>Christians continue Jesus' mission by sharing the Good News through their <strong>words and actions</strong>.</li>\n<li>The authority to teach and lead the Church continues today through the ministry of <strong>bishops and priests</strong>.</li>\n<li>The Apostles needed the Holy Spirit to give them <strong>courage and strength</strong> to share their faith.</li>\n</ul>\n<div class=\"key-terms\">\n<h3>6. Vocabulary</h3>\n<p class=\"term-row\"><strong>Witness</strong> — someone who shares what he or she has seen, heard, or experienced.</p>\n<p class=\"term-row\">Christians witness to Jesus through their <strong>words and actions</strong>.</p>\n</div>"
+      },
+      {
+        "id": "l7",
+        "short": "L7 Confirmation",
+        "title": "Lesson 7: Confirmation, From Sacrament to Mission",
+        "html": "<h2>Lesson 7: Confirmation, From Sacrament to Mission</h2>\n<h3>1. What Is Confirmation?</h3>\n<ul>\n<li>Confirmation is one of the <strong>seven sacraments</strong>.</li>\n<li>Confirmation <strong>deepens the grace received in Baptism</strong> and strengthens our relationship with God and the Church.</li>\n<li><strong>Baptism, Confirmation, and the Eucharist</strong> are the three <strong>Sacraments of Christian Initiation</strong>.</li>\n<li>Confirmation strengthens Christians to be <strong>witnesses to Jesus</strong> through their words and actions.</li>\n</ul>\n<h3>2. Signs and Symbols of Confirmation</h3>\n<ul>\n<li><strong>Laying on of hands</strong> — a sign of blessing and the giving of the Holy Spirit.</li>\n<li><strong>Sacred Chrism</strong> — the blessed oil used to anoint the person being confirmed.</li>\n<li><strong>Sponsor</strong> — offers support and encouragement in living the Christian faith.</li>\n<li><strong>Bishop</strong> — the ordinary minister of Confirmation. A <strong>priest</strong> may also confirm in certain circumstances.</li>\n</ul>\n<div class=\"key-terms\">\n<h3>3. The Seven Gifts of the Holy Spirit</h3>\n<p class=\"term-row\"><strong>1. Wisdom</strong> — helps us see what is truly good and make good choices.</p>\n<p class=\"term-row\"><strong>2. Understanding</strong> — helps us understand our faith more deeply.</p>\n<p class=\"term-row\"><strong>3. Counsel (Right Judgment)</strong> — helps us choose what we should do.</p>\n<p class=\"term-row\"><strong>4. Fortitude (Courage)</strong> — helps us do what is right even when it is difficult.</p>\n<p class=\"term-row\"><strong>5. Knowledge</strong> — helps us recognize God's truth and plan.</p>\n<p class=\"term-row\"><strong>6. Piety (Reverence)</strong> — helps us love and worship God and treat others with respect.</p>\n<p class=\"term-row\"><strong>7. Fear of the Lord (Wonder and Awe)</strong> — helps us recognize God's greatness and respond with wonder and awe.</p>\n</div>\n<h3>4. Confirmation and Our Mission</h3>\n<ul>\n<li>At Pentecost, the Holy Spirit strengthened the Apostles for their mission.</li>\n<li>Confirmation strengthens the grace of Baptism and helps Christians live as <strong>witnesses to Jesus</strong>.</li>\n<li><strong>Christian witness</strong> means showing and sharing faith in Jesus through words and actions.</li>\n<li>The Holy Spirit's gifts help us <strong>put our faith into action</strong>.</li>\n</ul>\n<h3>5. Christian Witness</h3>\n<ul>\n<li>Being a Christian witness means <strong>living in a way that reflects Jesus</strong>.</li>\n<li>A fifth grader can witness to Jesus at school by <strong>helping people feel included and loved</strong>.</li>\n<li>One way to show faith through actions is by using <strong>kind words and kind actions</strong>.</li>\n</ul>"
+      },
+      {
+        "id": "review",
+        "short": "Review",
+        "title": "Review: Big Ideas & Short Answers",
+        "html": "<h2>Review: Big Ideas</h2>\n<ul>\n<li><strong>Why Pentecost matters:</strong> the Holy Spirit came upon the Apostles and strengthened them to proclaim the Good News.</li>\n<li>Pentecost is the <strong>birthday of the Church</strong>.</li>\n<li>The Apostles shared the <strong>Good News</strong> about Jesus.</li>\n<li>Confirmation <strong>strengthens the grace received in Baptism</strong>.</li>\n<li>The ordinary minister of Confirmation is the <strong>bishop</strong>.</li>\n<li>The Sacraments of Initiation: <strong>Baptism, Confirmation, and Eucharist</strong>.</li>\n<li>The seven gifts: <strong>Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, Fear of the Lord</strong>.</li>\n<li>Christians continue Jesus' mission and witness through <strong>words and actions</strong>.</li>\n</ul>\n<h3>Short answers</h3>\n<p><strong>Why is Pentecost called the birthday of the Church?</strong><br>The Holy Spirit strengthened the Apostles to proclaim the Good News publicly. (Jesus already had followers before Pentecost.)</p>\n<p><strong>How does Confirmation help Christians live out their faith?</strong><br>It helps us put our faith into action by helping us be witnesses to Jesus.</p>\n<p><strong>One way to be a witness at school:</strong><br>Be welcoming to a new student, be a friend, and help them feel loved and included.</p>"
+      }
+    ],
+    "flashcards": [
+      {
+        "term": "Resurrection",
+        "def": "When Jesus rose from the dead three days after His death.",
+        "lesson": 6
+      },
+      {
+        "term": "What did Jesus do after His Resurrection?",
+        "def": "He appeared to His followers and showed them that He was truly alive.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Ascension",
+        "def": "When Jesus returned to Heaven after giving His followers a mission.",
+        "lesson": 6
+      },
+      {
+        "term": "What did Jesus promise His followers before the Ascension?",
+        "def": "That the Holy Spirit would give them power to carry out His mission.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Witness",
+        "def": "Someone who tells others what he or she has seen, heard, or experienced.",
+        "lesson": 6
+      },
+      {
+        "term": "What were the Apostles called to do?",
+        "def": "Share what they knew and believed about Jesus.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Why did the Apostles need help with their mission?",
+        "def": "They were ordinary people, so they needed courage and strength to share their faith.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "What was Pentecost before the Church?",
+        "def": "A Jewish harvest festival.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "When was the Jewish Pentecost celebrated?",
+        "def": "50 days after Passover.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Where did people gather for Pentecost?",
+        "def": "In Jerusalem, coming from many different places.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Why did it matter that visitors came from many places?",
+        "def": "They heard the Apostles' message and could share it when they returned home.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "What sound was heard at Pentecost?",
+        "def": "A sound like a strong, rushing wind.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "What rested on the Apostles at Pentecost?",
+        "def": "What seemed like tongues of fire.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Why did the Apostles speak in different languages?",
+        "def": "So people from different places could understand the message.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Who proclaimed the Good News at Pentecost?",
+        "def": "Peter.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How many people believed and were baptized at Pentecost?",
+        "def": "About 3,000.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Before Pentecost",
+        "def": "Jesus gave His followers a mission and promised the Holy Spirit.",
+        "lesson": 6
+      },
+      {
+        "term": "At Pentecost",
+        "def": "The Holy Spirit strengthened the Apostles, who proclaimed Jesus' message (the Good News).",
+        "lesson": 6
+      },
+      {
+        "term": "After Pentecost",
+        "def": "Many people believed and were baptized.",
+        "lesson": 6
+      },
+      {
+        "term": "Birthday of the Church",
+        "def": "Pentecost. The Holy Spirit strengthened the Apostles to proclaim the Good News publicly.",
+        "lesson": 6
+      },
+      {
+        "term": "How do Christians continue Jesus' mission?",
+        "def": "By sharing the Good News through their words and actions.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Who continues the authority to teach and lead the Church today?",
+        "def": "Bishops and priests, through their ministry.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How do Christians witness to Jesus?",
+        "def": "Through their words and actions.",
+        "lesson": 6,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Confirmation",
+        "def": "One of the seven sacraments. It deepens the grace received in Baptism and strengthens our relationship with God and the Church.",
+        "lesson": 7
+      },
+      {
+        "term": "Sacraments of Christian Initiation",
+        "def": "Baptism, Confirmation, and the Eucharist.",
+        "lesson": 7
+      },
+      {
+        "term": "What does Confirmation strengthen Christians to be?",
+        "def": "Witnesses to Jesus through their words and actions.",
+        "lesson": 7,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Laying on of hands",
+        "def": "A sign of blessing and the giving of the Holy Spirit.",
+        "lesson": 7
+      },
+      {
+        "term": "Sacred Chrism",
+        "def": "The blessed oil used to anoint the person being confirmed.",
+        "lesson": 7
+      },
+      {
+        "term": "Sponsor",
+        "def": "A person who offers support and encouragement in living the Christian faith.",
+        "lesson": 7
+      },
+      {
+        "term": "Ordinary minister of Confirmation",
+        "def": "The bishop. A priest may also confirm in certain circumstances.",
+        "lesson": 7
+      },
+      {
+        "term": "Wisdom",
+        "def": "Helps us see what is truly good and make good choices.",
+        "lesson": 7
+      },
+      {
+        "term": "Understanding",
+        "def": "Helps us understand our faith more deeply.",
+        "lesson": 7
+      },
+      {
+        "term": "Counsel (Right Judgment)",
+        "def": "Helps us choose what we should do.",
+        "lesson": 7
+      },
+      {
+        "term": "Fortitude (Courage)",
+        "def": "Helps us do what is right even when it is difficult.",
+        "lesson": 7
+      },
+      {
+        "term": "Knowledge",
+        "def": "Helps us recognize God's truth and plan.",
+        "lesson": 7
+      },
+      {
+        "term": "Piety (Reverence)",
+        "def": "Helps us love and worship God and treat others with respect.",
+        "lesson": 7
+      },
+      {
+        "term": "Fear of the Lord (Wonder and Awe)",
+        "def": "Helps us recognize God's greatness and respond with wonder and awe.",
+        "lesson": 7
+      },
+      {
+        "term": "Name the Seven Gifts of the Holy Spirit",
+        "def": "Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, Fear of the Lord.",
+        "lesson": 7,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Christian witness",
+        "def": "Showing and sharing faith in Jesus through words and actions; living in a way that reflects Jesus.",
+        "lesson": 7
+      },
+      {
+        "term": "How do the Holy Spirit's gifts help us?",
+        "def": "They help us put our faith into action.",
+        "lesson": 7,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How can a 5th grader witness to Jesus at school?",
+        "def": "Help people feel included and loved, like welcoming a new student and being a friend.",
+        "lesson": 7,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How does Confirmation help Christians live out their faith?",
+        "def": "It helps us put faith into action by helping us be witnesses to Jesus.",
+        "lesson": 7,
+        "front": "Question",
+        "back": "Answer"
+      }
+    ],
+    "tests": [
+      {
+        "id": "practice",
+        "name": "Practice Test",
+        "desc": "All 42 questions · 4 choices each · shuffled",
+        "shuffle": true,
+        "questions": [
+          {
+            "id": "r6_1",
+            "lesson": 6,
+            "q": "What is the Resurrection?",
+            "choices": [
+              "Jesus returning to Heaven",
+              "The Holy Spirit coming upon the Apostles",
+              "Jesus being baptized in the Jordan River",
+              "Jesus rising from the dead three days after His death"
+            ],
+            "answer": 3,
+            "explain": "The Resurrection is when Jesus rose from the dead three days after His death."
+          },
+          {
+            "id": "r6_2",
+            "lesson": 6,
+            "q": "What did Jesus do after His Resurrection?",
+            "choices": [
+              "Went straight back to Heaven without seeing anyone",
+              "Hid from His followers until Pentecost",
+              "Wrote letters to the Apostles",
+              "Appeared to His followers and showed them He was truly alive"
+            ],
+            "answer": 3,
+            "explain": "After His Resurrection, Jesus appeared to His followers and showed them that He was truly alive."
+          },
+          {
+            "id": "r6_3",
+            "lesson": 6,
+            "q": "What is the Ascension?",
+            "choices": [
+              "When Jesus rose from the dead",
+              "When the Holy Spirit came as tongues of fire",
+              "When Jesus returned to Heaven after giving His followers a mission",
+              "When Peter baptized 3,000 people"
+            ],
+            "answer": 2,
+            "explain": "The Ascension is when Jesus returned to Heaven after giving His followers a mission."
+          },
+          {
+            "id": "r6_4",
+            "lesson": 6,
+            "q": "What did Jesus promise would give His followers power to carry out His mission?",
+            "choices": [
+              "A great army",
+              "Gold and silver",
+              "The Holy Spirit",
+              "The Roman emperor"
+            ],
+            "answer": 2,
+            "explain": "Jesus promised that the Holy Spirit would give His followers power to carry out His mission."
+          },
+          {
+            "id": "r6_5",
+            "lesson": 6,
+            "q": "What does a witness do?",
+            "choices": [
+              "Keeps what he or she saw a secret",
+              "Writes the laws of the Church",
+              "Tells others what he or she has seen, heard, or experienced",
+              "Only listens and never speaks"
+            ],
+            "answer": 2,
+            "explain": "A witness tells others what they have seen, heard, or experienced."
+          },
+          {
+            "id": "r6_6",
+            "lesson": 6,
+            "q": "What were the Apostles called to do?",
+            "choices": [
+              "Build a temple in Jerusalem",
+              "Stay quiet and wait in hiding",
+              "Share what they knew and believed about Jesus",
+              "Become kings and rulers"
+            ],
+            "answer": 2,
+            "explain": "The Apostles were called to share what they knew and believed about Jesus."
+          },
+          {
+            "id": "r6_7",
+            "lesson": 6,
+            "q": "Why might the Apostles have needed help carrying out their mission?",
+            "choices": [
+              "They did not know who Jesus was",
+              "They were ordinary people who needed courage and strength",
+              "They did not want to share their faith",
+              "They were too busy with the harvest"
+            ],
+            "answer": 1,
+            "explain": "The Apostles were ordinary people, so they needed courage and strength to share their faith."
+          },
+          {
+            "id": "r6_8",
+            "lesson": 6,
+            "q": "Before it was a Christian feast, what was Pentecost?",
+            "choices": [
+              "A Roman holiday",
+              "A winter festival of lights",
+              "A Jewish harvest festival",
+              "The day Jesus was born"
+            ],
+            "answer": 2,
+            "explain": "Pentecost was already a Jewish harvest festival."
+          },
+          {
+            "id": "r6_9",
+            "lesson": 6,
+            "q": "When was the Jewish feast of Pentecost celebrated?",
+            "choices": [
+              "50 days after Passover",
+              "3 days after Passover",
+              "40 days before Passover",
+              "On Christmas Day"
+            ],
+            "answer": 0,
+            "explain": "Pentecost was celebrated 50 days after Passover."
+          },
+          {
+            "id": "r6_10",
+            "lesson": 6,
+            "q": "Where did people from many different places gather for Pentecost?",
+            "choices": [
+              "Bethlehem",
+              "Jerusalem",
+              "Rome",
+              "Nazareth"
+            ],
+            "answer": 1,
+            "explain": "People from different places gathered in Jerusalem."
+          },
+          {
+            "id": "r6_11",
+            "lesson": 6,
+            "q": "Why was it important that people from many places were in Jerusalem at Pentecost?",
+            "choices": [
+              "They could hear the Apostles' message and share it when they returned home",
+              "They could buy food for the harvest",
+              "They could vote for a new king",
+              "They could build a new city"
+            ],
+            "answer": 0,
+            "explain": "Visitors heard the Apostles' message and could share it when they returned home."
+          },
+          {
+            "id": "r6_12",
+            "lesson": 6,
+            "q": "What sound was heard at Pentecost?",
+            "choices": [
+              "A trumpet blast",
+              "A sound like a strong, rushing wind",
+              "Church bells ringing",
+              "Thunder and rain"
+            ],
+            "answer": 1,
+            "explain": "A sound like a strong, rushing wind was heard."
+          },
+          {
+            "id": "r6_13",
+            "lesson": 6,
+            "q": "What seemed to rest on the Apostles at Pentecost?",
+            "choices": [
+              "White doves",
+              "Golden crowns",
+              "Tongues of fire",
+              "Drops of water"
+            ],
+            "answer": 2,
+            "explain": "What seemed like tongues of fire rested on the Apostles."
+          },
+          {
+            "id": "r6_14",
+            "lesson": 6,
+            "q": "Why did the Apostles speak in different languages at Pentecost?",
+            "choices": [
+              "To confuse the crowd",
+              "Because they forgot their own language",
+              "So people from different places could understand the message",
+              "To keep the message a secret"
+            ],
+            "answer": 2,
+            "explain": "The Apostles spoke in different languages so people from different places could understand the message."
+          },
+          {
+            "id": "r6_15",
+            "lesson": 6,
+            "q": "Who proclaimed the Good News about Jesus at Pentecost?",
+            "choices": [
+              "Pontius Pilate",
+              "Peter",
+              "King Herod",
+              "Moses"
+            ],
+            "answer": 1,
+            "explain": "Peter proclaimed the Good News about Jesus at Pentecost."
+          },
+          {
+            "id": "r6_16",
+            "lesson": 6,
+            "q": "About how many people believed and were baptized on Pentecost?",
+            "choices": [
+              "About 12",
+              "About 50",
+              "About 3,000",
+              "About 300"
+            ],
+            "answer": 2,
+            "explain": "About 3,000 people believed and were baptized that day."
+          },
+          {
+            "id": "r6_17",
+            "lesson": 6,
+            "q": "What happened BEFORE Pentecost?",
+            "choices": [
+              "Jesus gave His followers a mission and promised the Holy Spirit",
+              "3,000 people were baptized",
+              "The Apostles spoke in many languages",
+              "Tongues of fire rested on the Apostles"
+            ],
+            "answer": 0,
+            "explain": "Before Pentecost, Jesus gave His followers a mission and promised the Holy Spirit."
+          },
+          {
+            "id": "r6_18",
+            "lesson": 6,
+            "q": "What happened AFTER Pentecost?",
+            "choices": [
+              "Many people believed and were baptized",
+              "Jesus rose from the dead",
+              "Jesus promised to send the Holy Spirit",
+              "The Apostles stopped preaching"
+            ],
+            "answer": 0,
+            "explain": "After Pentecost, many people believed and were baptized."
+          },
+          {
+            "id": "r6_19",
+            "lesson": 6,
+            "q": "Why is Pentecost often called the birthday of the Church?",
+            "choices": [
+              "It was the first time Jesus had any followers",
+              "It is the day Jesus was born",
+              "The Holy Spirit strengthened the Apostles to proclaim the Good News publicly",
+              "It is the day the first church building was finished"
+            ],
+            "answer": 2,
+            "explain": "The Holy Spirit strengthened the Apostles to proclaim the Good News publicly. Jesus already had followers before Pentecost."
+          },
+          {
+            "id": "r6_20",
+            "lesson": 6,
+            "q": "How do Christians continue Jesus' mission today?",
+            "choices": [
+              "By keeping their faith to themselves",
+              "Only by reading books",
+              "By sharing the Good News through their words and actions",
+              "By waiting for another Pentecost"
+            ],
+            "answer": 2,
+            "explain": "Christians continue Jesus' mission by sharing the Good News through their words and actions."
+          },
+          {
+            "id": "r6_21",
+            "lesson": 6,
+            "q": "Through whose ministry does the authority to teach and lead the Church continue today?",
+            "choices": [
+              "Kings and queens",
+              "Bishops and priests",
+              "Teachers and coaches",
+              "Mayors and governors"
+            ],
+            "answer": 1,
+            "explain": "The authority to teach and lead the Church continues today through the ministry of bishops and priests."
+          },
+          {
+            "id": "r6_22",
+            "lesson": 6,
+            "q": "Why did the Apostles need the Holy Spirit?",
+            "choices": [
+              "To make them rich",
+              "To help them win battles",
+              "To give them courage and strength to share their faith",
+              "To help them bring in the harvest"
+            ],
+            "answer": 2,
+            "explain": "The Apostles needed the Holy Spirit to give them courage and strength to share their faith."
+          },
+          {
+            "id": "r7_23",
+            "lesson": 7,
+            "q": "Confirmation is one of how many sacraments?",
+            "choices": [
+              "Seven",
+              "Three",
+              "Five",
+              "Twelve"
+            ],
+            "answer": 0,
+            "explain": "Confirmation is one of the seven sacraments."
+          },
+          {
+            "id": "r7_24",
+            "lesson": 7,
+            "q": "What does Confirmation do for the grace we received in Baptism?",
+            "choices": [
+              "Deepens it and strengthens our relationship with God and the Church",
+              "Replaces it",
+              "Takes it away",
+              "Has nothing to do with it"
+            ],
+            "answer": 0,
+            "explain": "Confirmation deepens the grace received in Baptism and strengthens our relationship with God and the Church."
+          },
+          {
+            "id": "r7_25",
+            "lesson": 7,
+            "q": "Which are the three Sacraments of Christian Initiation?",
+            "choices": [
+              "Baptism, Marriage, and Holy Orders",
+              "Reconciliation, Confirmation, and Anointing of the Sick",
+              "Eucharist, Marriage, and Reconciliation",
+              "Baptism, Confirmation, and the Eucharist"
+            ],
+            "answer": 3,
+            "explain": "Baptism, Confirmation, and the Eucharist are the three Sacraments of Christian Initiation."
+          },
+          {
+            "id": "r7_26",
+            "lesson": 7,
+            "q": "Confirmation strengthens Christians to be what?",
+            "choices": [
+              "Kings and rulers",
+              "Silent about their faith",
+              "Witnesses to Jesus through their words and actions",
+              "Only church builders"
+            ],
+            "answer": 2,
+            "explain": "Confirmation strengthens Christians to be witnesses to Jesus through their words and actions."
+          },
+          {
+            "id": "r7_27",
+            "lesson": 7,
+            "q": "What is the laying on of hands a sign of?",
+            "choices": [
+              "Blessing and the giving of the Holy Spirit",
+              "Saying goodbye",
+              "Being punished",
+              "Winning a contest"
+            ],
+            "answer": 0,
+            "explain": "Laying on of hands is a sign of blessing and the giving of the Holy Spirit."
+          },
+          {
+            "id": "r7_28",
+            "lesson": 7,
+            "q": "What is Sacred Chrism?",
+            "choices": [
+              "The water used in Baptism",
+              "The bread used at Mass",
+              "A candle lit at Easter",
+              "The blessed oil used to anoint the person being confirmed"
+            ],
+            "answer": 3,
+            "explain": "Sacred Chrism is the blessed oil used to anoint the person being confirmed."
+          },
+          {
+            "id": "r7_29",
+            "lesson": 7,
+            "q": "What does a Confirmation sponsor do?",
+            "choices": [
+              "Performs the sacrament instead of the bishop",
+              "Makes the Sacred Chrism",
+              "Offers support and encouragement in living the Christian faith",
+              "Writes the Bible readings"
+            ],
+            "answer": 2,
+            "explain": "A sponsor offers support and encouragement in living the Christian faith."
+          },
+          {
+            "id": "r7_30",
+            "lesson": 7,
+            "q": "Who is the ordinary minister of Confirmation?",
+            "choices": [
+              "The sponsor",
+              "The bishop",
+              "The parents",
+              "Any member of the parish"
+            ],
+            "answer": 1,
+            "explain": "The bishop is the ordinary minister of Confirmation. A priest may also confirm in certain circumstances."
+          },
+          {
+            "id": "r7_31",
+            "lesson": 7,
+            "q": "Which gift of the Holy Spirit helps us see what is truly good and make good choices?",
+            "choices": [
+              "Wisdom",
+              "Fortitude",
+              "Piety",
+              "Fear of the Lord"
+            ],
+            "answer": 0,
+            "explain": "Wisdom helps us see what is truly good and make good choices."
+          },
+          {
+            "id": "r7_32",
+            "lesson": 7,
+            "q": "Which gift helps us understand our faith more deeply?",
+            "choices": [
+              "Counsel",
+              "Fortitude",
+              "Piety",
+              "Understanding"
+            ],
+            "answer": 3,
+            "explain": "Understanding helps us understand our faith more deeply."
+          },
+          {
+            "id": "r7_33",
+            "lesson": 7,
+            "q": "Which gift, also called Right Judgment, helps us choose what we should do?",
+            "choices": [
+              "Knowledge",
+              "Counsel",
+              "Fear of the Lord",
+              "Piety"
+            ],
+            "answer": 1,
+            "explain": "Counsel (Right Judgment) helps us choose what we should do."
+          },
+          {
+            "id": "r7_34",
+            "lesson": 7,
+            "q": "Which gift, also called Courage, helps us do what is right even when it is difficult?",
+            "choices": [
+              "Fortitude",
+              "Wisdom",
+              "Understanding",
+              "Knowledge"
+            ],
+            "answer": 0,
+            "explain": "Fortitude (Courage) helps us do what is right even when it is difficult."
+          },
+          {
+            "id": "r7_35",
+            "lesson": 7,
+            "q": "Which gift helps us recognize God's truth and plan?",
+            "choices": [
+              "Knowledge",
+              "Fortitude",
+              "Piety",
+              "Counsel"
+            ],
+            "answer": 0,
+            "explain": "Knowledge helps us recognize God's truth and plan."
+          },
+          {
+            "id": "r7_36",
+            "lesson": 7,
+            "q": "Which gift, also called Reverence, helps us love and worship God and treat others with respect?",
+            "choices": [
+              "Wisdom",
+              "Piety",
+              "Fortitude",
+              "Counsel"
+            ],
+            "answer": 1,
+            "explain": "Piety (Reverence) helps us love and worship God and treat others with respect."
+          },
+          {
+            "id": "r7_37",
+            "lesson": 7,
+            "q": "Which gift, also called Wonder and Awe, helps us recognize God's greatness?",
+            "choices": [
+              "Understanding",
+              "Fear of the Lord",
+              "Counsel",
+              "Knowledge"
+            ],
+            "answer": 1,
+            "explain": "Fear of the Lord (Wonder and Awe) helps us recognize God's greatness and respond with wonder and awe."
+          },
+          {
+            "id": "r7_38",
+            "lesson": 7,
+            "q": "Which of these is NOT one of the Seven Gifts of the Holy Spirit?",
+            "choices": [
+              "Wisdom",
+              "Wealth",
+              "Fortitude",
+              "Piety"
+            ],
+            "answer": 1,
+            "explain": "The seven gifts are Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, and Fear of the Lord. Wealth is not one of them."
+          },
+          {
+            "id": "r7_39",
+            "lesson": 7,
+            "q": "What does Christian witness mean?",
+            "choices": [
+              "Watching a baseball game",
+              "Showing and sharing faith in Jesus through words and actions",
+              "Keeping your faith a secret",
+              "Only going to church on holidays"
+            ],
+            "answer": 1,
+            "explain": "Christian witness means showing and sharing faith in Jesus through words and actions. It means living in a way that reflects Jesus."
+          },
+          {
+            "id": "r7_40",
+            "lesson": 7,
+            "q": "How do the gifts of the Holy Spirit help us?",
+            "choices": [
+              "They make us better than other people",
+              "They help us win games",
+              "They take the place of prayer",
+              "They help us put our faith into action"
+            ],
+            "answer": 3,
+            "explain": "The Holy Spirit's gifts help us put our faith into action."
+          },
+          {
+            "id": "r7_41",
+            "lesson": 7,
+            "q": "Which is the BEST way a fifth grader can witness to Jesus at school?",
+            "choices": [
+              "Leave a new student out at lunch",
+              "Tease classmates who are different",
+              "Keep to yourself and ignore others",
+              "Welcome a new student and help them feel included and loved"
+            ],
+            "answer": 3,
+            "explain": "A fifth grader can witness to Jesus at school by helping people feel included and loved, like welcoming a new student and being a friend."
+          },
+          {
+            "id": "r7_42",
+            "lesson": 7,
+            "q": "How does Confirmation connect to Pentecost?",
+            "choices": [
+              "Just as the Holy Spirit strengthened the Apostles at Pentecost, Confirmation strengthens us to be witnesses",
+              "Confirmation is only celebrated on Passover",
+              "Confirmation is when Jesus rose from the dead",
+              "They are not connected at all"
+            ],
+            "answer": 0,
+            "explain": "At Pentecost the Holy Spirit strengthened the Apostles for their mission. Confirmation strengthens the grace of Baptism and helps us live as witnesses to Jesus."
+          }
+        ]
+      }
+    ]
   }
 ];
