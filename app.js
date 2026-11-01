@@ -247,6 +247,7 @@
   }
   // Copy of a question with its choices shuffled (answer index remapped).
   function withShuffledChoices(q) {
+    if (!q.choices || q.keepOrder) return q;
     const order = shuffle(q.choices.map((_, i) => i));
     const ans = answerList(q).map((a) => order.indexOf(a));
     return Object.assign({}, q, {
@@ -340,6 +341,99 @@
     window.scrollTo(0, 0);
   }
 
+  // ——— Typed answers (optional: q.type === "input") ———
+  // q.fields: [{ label, kind: "number"|"ratio", value: n | [a,b,...], unit, equivalent, alsoAccept }]
+  function isTyped(q) { return q.type === "input"; }
+  function cleanText(s) {
+    return String(s || "").toLowerCase().replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim();
+  }
+  // "5", "5.5", "$8", "8.00", "5 1/2", "11/2", "5½", ".5", "10 miles", "8 per burger"
+  function parseNumber(raw) {
+    let s = cleanText(raw).replace(/\u00bd/g, " 1/2").replace(/\u00bc/g, " 1/4").replace(/\u00be/g, " 3/4");
+    s = s.replace(/\bper\b.*$/, "").replace(/\/\s*[a-z].*$/, "").replace(/\beach\b.*$/, "");
+    s = s.replace(/[$,]/g, "").replace(/[a-z]+\.?/g, " ").replace(/\s+/g, " ").trim();
+    let m;
+    if ((m = s.match(/^(-?\d+)\s+(\d+)\s*\/\s*(\d+)$/))) return +m[1] + (+m[2]) / (+m[3]);
+    if ((m = s.match(/^(-?\d*\.?\d+)\s*\/\s*(\d*\.?\d+)$/))) return +m[2] ? (+m[1]) / (+m[2]) : NaN;
+    if ((m = s.match(/^-?\d*\.?\d+$/))) return +m[0];
+    return NaN;
+  }
+  // "4:8", "4 : 8", "4 to 8", "4/8", "4 apples to 8 bananas", "4, 7, 9"
+  function parseRatio(raw) {
+    let s = cleanText(raw).replace(/\bto\b/g, ":").replace(/[\/,;\-]/g, ":").replace(/[$]/g, "");
+    s = s.replace(/[a-z]+/g, " ");
+    let parts = s.split(":").map((x) => x.trim()).filter((x) => x.length);
+    if (parts.length === 1) parts = parts[0].split(" ").filter((x) => x.length);
+    const nums = parts.map(parseNumber);
+    return nums.length && nums.every((n) => isFinite(n)) ? nums : null;
+  }
+  function near(a, b) { return Math.abs(a - b) < 1e-6; }
+  function checkField(f, raw) {
+    const alt = (f.alsoAccept || []).map(cleanText);
+    if (alt.indexOf(cleanText(raw)) >= 0) return { ok: true };
+    if (f.kind === "ratio") {
+      const got = parseRatio(raw), want = f.value;
+      if (!got || got.length !== want.length) return { ok: false };
+      const same = (g) => g.every((n, i) => near(n, want[i]));
+      const equiv = (g) => g[0] > 0 && g.every((n, i) => near(n * (want[0] / g[0]), want[i]));
+      if (same(got) || (f.equivalent !== false && equiv(got))) return { ok: true };
+      const rev = got.slice().reverse();
+      if (same(rev) || (f.equivalent !== false && equiv(rev)))
+        return { ok: false, hint: "Check the order — the first number goes with the first thing named." };
+      return { ok: false };
+    }
+    const n = parseNumber(raw);
+    return { ok: isFinite(n) && near(n, f.value) };
+  }
+
+  function renderTyped(q, box) {
+    box.classList.add("typed");
+    q.fields.forEach((f, i) => {
+      const row = document.createElement("label");
+      row.className = "typed-row";
+      row.innerHTML = (f.label ? '<span class="typed-label">' + escapeHtml(f.label) + "</span>" : "") +
+        '<span class="typed-wrap">' + (f.prefix ? '<span class="typed-unit">' + escapeHtml(f.prefix) + "</span>" : "") +
+        '<input class="typed-input" type="text" inputmode="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" data-idx="' + i + '" placeholder="' +
+        escapeHtml(f.placeholder || (f.kind === "ratio" ? "e.g. 2:3" : "Type a number")) + '" />' +
+        (f.unit ? '<span class="typed-unit">' + escapeHtml(f.unit) + "</span>" : "") + "</span>";
+      box.appendChild(row);
+    });
+    box.querySelectorAll(".typed-input").forEach((inp) => {
+      inp.addEventListener("keydown", (e) => {
+        if (e.key !== "Enter") return;
+        e.preventDefault();
+        const all = Array.from(box.querySelectorAll(".typed-input"));
+        const next = all[all.indexOf(inp) + 1];
+        if (next && !next.value.trim()) next.focus(); else $("#btn-submit-q").click();
+      });
+    });
+  }
+  function submitTyped(q, fb) {
+    const inputs = Array.from($("#quiz-choices").querySelectorAll(".typed-input"));
+    const vals = inputs.map((i) => i.value.trim());
+    if (vals.some((v) => !v)) {
+      fb.textContent = vals.length > 1 ? "Fill in every box first — you've got this!" : "Type an answer first — you've got this!";
+      fb.className = "quiz-feedback no";
+      return;
+    }
+    quizLocked = true;
+    const results = q.fields.map((f, i) => checkField(f, vals[i]));
+    const isCorrect = results.every((r) => r.ok);
+    inputs.forEach((inp, i) => {
+      inp.readOnly = true;
+      inp.closest(".typed-row").classList.add(results[i].ok ? "correct" : "wrong");
+    });
+    const hint = results.map((r) => r.hint).filter(Boolean)[0];
+    fb.className = "quiz-feedback " + (isCorrect ? "ok" : "no");
+    fb.innerHTML = (isCorrect ? "<strong>Correct! ✓</strong> " : "<strong>Not quite ✗</strong> " + (hint ? escapeHtml(hint) + " " : "")) +
+      '<span class="fb-answer">Answer: ' + escapeHtml(q.answerText) + "</span> " + escapeHtml(q.explain);
+    quizAnswers.push({ q: q, typed: vals, correct: isCorrect });
+    $("#btn-submit-q").classList.add("hidden");
+    $("#btn-next-q").classList.remove("hidden");
+    $("#btn-next-q").textContent = quizIndex + 1 >= quizList.length ? "See Results →" : "Next Question →";
+    $("#btn-next-q").focus();
+  }
+
   // ——— Quiz: playing ———
   function startQuiz(def) {
     quizDef = def;
@@ -359,16 +453,22 @@
     quizLocked = false;
     $("#quiz-bar").style.width = (quizIndex / quizList.length) * 100 + "%";
     $("#quiz-num").textContent = "Question " + (quizIndex + 1) + " of " + quizList.length;
-    const typeLabel = q.tf ? "True or False?" : (multi ? "Multi-select — pick all that apply" : "Multiple choice");
-    $("#quiz-question").innerHTML = '<span class="q-type">' + typeLabel + "</span><br>" + escapeHtml(q.q);
+    const typeLabel = q.label || (isTyped(q) ? "Type your answer" : q.tf ? "True or False?" : (multi ? "Multi-select — pick all that apply" : "Multiple choice"));
+    $("#quiz-question").innerHTML = '<span class="q-type">' + typeLabel + "</span><br>" + escapeHtml(q.q) +
+      (q.visual ? '<div class="q-visual">' + q.visual + "</div>" : "");
 
     const box = $("#quiz-choices");
     box.innerHTML = "";
-    box.classList.toggle("tf", !!q.tf);
+    box.classList.toggle("tf", !!(q.tf || q.yn));
+    box.classList.remove("typed");
+    $("#quiz-feedback").classList.add("hidden");
+    $("#btn-submit-q").classList.remove("hidden");
+    $("#btn-next-q").classList.add("hidden");
+    if (isTyped(q)) { renderTyped(q, box); return; }
     q.choices.forEach((c, i) => {
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "choice" + (multi ? " multi" : "") + (q.tf ? " tf-choice" : "");
+      btn.className = "choice" + (multi ? " multi" : "") + (q.tf || q.yn ? " tf-choice" : "");
       btn.dataset.idx = i;
       btn.innerHTML = q.tf
         ? "<span>" + (i === 0 ? "✓ " : "✗ ") + escapeHtml(c) + "</span>"
@@ -406,6 +506,7 @@
     if (quizLocked) return;
     const q = currentQ();
     const fb = $("#quiz-feedback");
+    if (isTyped(q)) { submitTyped(q, fb); return; }
     if (quizSelected.length === 0) {
       fb.textContent = "Pick an answer first — you've got this!";
       fb.className = "quiz-feedback no";
@@ -474,8 +575,8 @@
       review.appendChild(h);
       wrong.forEach((a) => {
         const q = a.q;
-        const yours = a.selected.map((i) => q.choices[i]).join("; ");
-        const correct = answerList(q).map((i) => q.choices[i]).join("; ");
+        const yours = a.typed ? a.typed.join("; ") : a.selected.map((i) => q.choices[i]).join("; ");
+        const correct = isTyped(q) ? q.answerText : answerList(q).map((i) => q.choices[i]).join("; ");
         const div = document.createElement("div");
         div.className = "review-item";
         div.innerHTML = "<h4>" + escapeHtml(q.q) + "</h4>" +

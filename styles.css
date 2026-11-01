@@ -643,3 +643,56 @@ body {
 /* Taller flashcards for long answers (e.g. ELA short-answer model answers) */
 .flashcard.tall, .flashcard.tall .flash-inner { min-height: 440px; }
 .flashcard.tall .flash-front, .flashcard.tall .flash-back { padding-bottom: 44px; }
+
+/* ——— Typed-answer questions (Math) ——— */
+.quiz-choices.typed { gap: 12px; }
+.typed-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 12px 14px;
+  background: var(--navy-card);
+  border: 2px solid rgba(168,184,200,0.25);
+  border-radius: 14px;
+}
+.typed-row.correct { border-color: var(--success); background: rgba(93,202,138,0.18); }
+.typed-row.wrong { border-color: var(--danger); background: rgba(232,122,107,0.15); }
+.typed-label { font-size: 0.95rem; font-weight: 600; color: var(--text-muted); }
+.typed-wrap { display: flex; align-items: center; gap: 8px; }
+.typed-input {
+  flex: 1;
+  min-width: 0;
+  font-size: 1.25rem; /* ≥16px so iOS doesn't zoom */
+  font-family: inherit;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 2px solid rgba(168,184,200,0.35);
+  background: var(--navy);
+  color: var(--text);
+  outline: none;
+}
+.typed-input:focus { border-color: var(--teal); box-shadow: 0 0 0 3px var(--teal-glow); }
+.typed-unit { font-size: 1.05rem; font-weight: 600; color: var(--sand); white-space: nowrap; }
+.quiz-feedback .fb-answer { display: block; font-weight: 700; margin: 4px 0; }
+
+/* Question pictures: emoji rows and double number lines */
+.q-visual { margin-top: 14px; font-weight: 400; }
+.q-visual .emoji-row {
+  display: flex; flex-wrap: wrap; gap: 4px 6px;
+  font-size: clamp(1.2rem, 5.6vw, 2rem); line-height: 1.2;
+  padding: 10px 12px; background: rgba(255,255,255,0.06); border-radius: 12px;
+  column-gap: 14px;
+}
+.q-visual .emoji-row .grp { display: inline-flex; gap: 2px; white-space: nowrap; }
+.q-visual svg.dnl { width: 100%; height: auto; display: block; background: rgba(255,255,255,0.06); border-radius: 12px; }
+.q-visual svg.dnl .ln { stroke: var(--text); stroke-width: 2; fill: none; }
+.q-visual svg.dnl .tk { stroke: var(--text); stroke-width: 2; }
+.q-visual svg.dnl .lb { fill: var(--text-muted); font-size: 13px; font-family: inherit; }
+.q-visual svg.dnl .nm { fill: var(--sand); font-size: 16px; font-weight: 700; font-family: inherit; }
+.q-visual .juice { display: flex; flex-wrap: wrap; gap: 8px; font-size: 1rem; }
+.q-visual .juice span { padding: 6px 10px; border-radius: 10px; background: rgba(255,255,255,0.06); }
+.study-content svg.dnl { width: 100%; height: auto; display: block; background: rgba(255,255,255,0.06); border-radius: 12px; margin: 8px 0; }
+.study-content svg.dnl .ln { stroke: var(--text); stroke-width: 2; fill: none; }
+.study-content svg.dnl .tk { stroke: var(--text); stroke-width: 2; }
+.study-content svg.dnl .lb { fill: var(--text-muted); font-size: 13px; }
+.study-content svg.dnl .nm { fill: var(--sand); font-size: 16px; font-weight: 700; }

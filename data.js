@@ -2968,5 +2968,384 @@ window.SUBJECTS = [
         ]
       }
     ]
+  },
+  {
+    "id": "math",
+    "name": "Math",
+    "emoji": "➗",
+    "tagline": "Mid-Mission 2 Review (Ratios)",
+    "intro": "Pick a mode to get ready for the Math Mid-Mission 2 Review on ratios. Type your answers and see right away if you got them! 💪",
+    "lessons": [
+      {
+        "id": "A",
+        "name": "Topic A · What are Ratios?"
+      },
+      {
+        "id": "B",
+        "name": "Topic B · Equivalent Ratios"
+      },
+      {
+        "id": "C",
+        "name": "Topic C · Representing Equivalent Ratios"
+      }
+    ],
+    "notes": [
+      {
+        "id": "a",
+        "short": "A · Ratios",
+        "title": "Topic A: What are Ratios?",
+        "html": "\n<h2>Topic A: What are Ratios?</h2>\n<ul>\n<li>A <strong>ratio</strong> compares two (or more) amounts.</li>\n<li>You can write it 3 ways: <strong>4:8</strong>, <strong>4 to 8</strong>, or <strong>4/8</strong>.</li>\n<li><strong>Order matters!</strong> “Apples to bananas” means the apples number goes <em>first</em>. 4 apples to 8 bananas is 4:8, but bananas to apples is 8:4.</li>\n<li>A ratio can compare 3 things too: 4 L orange to 7 L strawberry to 9 L apple is <strong>4:7:9</strong>.</li>\n<li>Many ratios can be <strong>simplified</strong> by dividing both numbers by the same number: 4:8 ÷ 4 = <strong>1:2</strong>.</li>\n</ul>\n<h3>Tip for typing answers</h3>\n<ul><li>Type a ratio like <strong>4:8</strong>, <strong>4 to 8</strong>, or <strong>4/8</strong>. A simplified ratio like 1:2 counts too.</li>\n<li>Numbers can be <strong>5.5</strong> or <strong>5 1/2</strong>. You don't have to type the units.</li></ul>\n"
+      },
+      {
+        "id": "b",
+        "short": "B · Equivalent",
+        "title": "Topic B: Equivalent Ratios",
+        "html": "\n<h2>Topic B: Equivalent Ratios</h2>\n<ul>\n<li><strong>Equivalent ratios</strong> show the same relationship. You get one by <strong>multiplying or dividing BOTH numbers by the same number</strong>.</li>\n<li>2:10 × 2 = 4:20 → equivalent ✓</li>\n<li>1:2 × 4 = 4:8, <em>not</em> 4:12 → 1:2 and 4:12 are <strong>not</strong> equivalent ✗</li>\n<li>Quick check: <strong>simplify both</strong> and see if they match. 18:24 ÷ 6 = 3:4 ✓ &nbsp; 30:40 ÷ 10 = 3:4 ✓</li>\n</ul>\n<h3>Recipes</h3>\n<ul>\n<li><strong>Double</strong> a recipe → multiply every amount by 2. 4 cups flour : 1 tsp chips → <strong>8 : 2</strong>.</li>\n<li><strong>Triple</strong> a recipe → multiply every amount by 3 → <strong>12 : 3</strong>.</li>\n<li>Doubling or tripling keeps the <strong>same taste</strong> (equivalent ratio).</li>\n<li>To change the taste (like more chocolatey), change the ratio: <strong>more chocolate chips for the same flour</strong>.</li>\n</ul>\n"
+      },
+      {
+        "id": "c",
+        "short": "C · Number lines",
+        "title": "Topic C: Representing Equivalent Ratios",
+        "html": "\n<h2>Topic C: Representing Equivalent Ratios</h2>\n<ul>\n<li>A <strong>double number line</strong> has two lines that line up. Numbers straight above/below each other go together.</li>\n<li>Whatever you do to one line (× or ÷), do the <strong>same</strong> to the other line.</li>\n</ul>\n<svg class=\"dnl\" viewBox=\"0 0 360 140\" role=\"img\" aria-label=\"double number line\"><text class=\"lb\" x=\"6\" y=\"40\">Burgers</text><text class=\"lb\" x=\"6\" y=\"56\">(#)</text><line class=\"ln\" x1=\"92\" y1=\"44\" x2=\"350\" y2=\"44\"/><polyline class=\"ln\" points=\"100,38 92,44 100,50\"/><polyline class=\"ln\" points=\"342,38 350,44 342,50\"/><line class=\"tk\" x1=\"104\" y1=\"36\" x2=\"104\" y2=\"52\"/><text class=\"nm\" x=\"104\" y=\"30\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"135.7\" y1=\"36\" x2=\"135.7\" y2=\"52\"/><text class=\"nm\" x=\"135.7\" y=\"30\" text-anchor=\"middle\">1</text><line class=\"tk\" x1=\"326\" y1=\"36\" x2=\"326\" y2=\"52\"/><text class=\"nm\" x=\"326\" y=\"30\" text-anchor=\"middle\">7</text><text class=\"lb\" x=\"6\" y=\"94\">Price</text><text class=\"lb\" x=\"6\" y=\"110\">($)</text><line class=\"ln\" x1=\"92\" y1=\"98\" x2=\"350\" y2=\"98\"/><polyline class=\"ln\" points=\"100,92 92,98 100,104\"/><polyline class=\"ln\" points=\"342,92 350,98 342,104\"/><line class=\"tk\" x1=\"104\" y1=\"90\" x2=\"104\" y2=\"106\"/><text class=\"nm\" x=\"104\" y=\"124\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"135.7\" y1=\"90\" x2=\"135.7\" y2=\"106\"/><text class=\"nm\" x=\"135.7\" y=\"124\" text-anchor=\"middle\">8</text><line class=\"tk\" x1=\"326\" y1=\"90\" x2=\"326\" y2=\"106\"/><text class=\"nm\" x=\"326\" y=\"124\" text-anchor=\"middle\">56</text></svg>\n<ul>\n<li>The <strong>unit price</strong> (or <strong>unit rate</strong>) is the amount for <strong>1</strong>. 7 burgers for $56 → divide both by 7 → <strong>$8 for 1 burger</strong>.</li>\n<li>Grace: 2 miles in 11 minutes → ÷ 2 → <strong>1 mile in 5.5 minutes</strong>. 55 minutes is 11 × 5, so she runs 2 × 5 = <strong>10 miles</strong>.</li>\n</ul>\n<h3>Which tastes stronger?</h3>\n<ul>\n<li>Find the amount <strong>per 1 cup</strong> of milk for each recipe, then compare.</li>\n<li>Matthew: 5 cups oreos ÷ 4 cups milk = <strong>1.25</strong>. AJ: 7 ÷ 5 = <strong>1.4</strong>. Bigger number = more oreo-y → <strong>AJ</strong>.</li>\n</ul>\n"
+      }
+    ],
+    "flashcards": [
+      {
+        "term": "Ratio",
+        "def": "A comparison of two or more amounts, like 4 apples to 8 bananas.",
+        "lesson": "A",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "3 ways to write a ratio",
+        "def": "4:8, 4 to 8, or 4/8",
+        "lesson": "A",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "Does order matter in a ratio?",
+        "def": "Yes! “Apples to bananas” means apples go first: 4:8, not 8:4.",
+        "lesson": "A",
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Simplify 4:8",
+        "def": "Divide both by 4 → 1:2",
+        "lesson": "A",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "Orange 4 L, strawberry 7 L, apple 9 L. Ratio orange : strawberry : apple?",
+        "def": "4:7:9",
+        "lesson": "A",
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Equivalent ratios",
+        "def": "Ratios that show the same relationship. Multiply or divide BOTH numbers by the same number.",
+        "lesson": "B",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "How do you check if two ratios are equivalent?",
+        "def": "Simplify both (or multiply one) and see if they match.",
+        "lesson": "B",
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Double 4 cups flour : 1 tsp chips",
+        "def": "8 cups flour : 2 tsp chips",
+        "lesson": "B",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "Triple 4 cups flour : 1 tsp chips",
+        "def": "12 cups flour : 3 tsp chips",
+        "lesson": "B",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "Is 1:2 equivalent to 4:12?",
+        "def": "No. 1:2 = 4:8. 4:12 simplifies to 1:3.",
+        "lesson": "B",
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Double number line",
+        "def": "Two lined-up number lines that show equivalent ratios. Do the same × or ÷ to both lines.",
+        "lesson": "C",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "Unit price / unit rate",
+        "def": "The amount for ONE. Example: $56 for 7 burgers → $56 ÷ 7 = $8 per burger.",
+        "lesson": "C",
+        "front": "Term",
+        "back": "Meaning"
+      },
+      {
+        "term": "2 miles in 11 minutes → 1 mile?",
+        "def": "Divide both by 2 → 5.5 minutes",
+        "lesson": "C",
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How to compare which recipe is stronger",
+        "def": "Find the amount per 1 cup for each (divide), then compare.",
+        "lesson": "C",
+        "front": "Term",
+        "back": "Meaning"
+      }
+    ],
+    "tests": [
+      {
+        "id": "review",
+        "name": "Mid-Mission 2 Review",
+        "desc": "All 13 questions from the review sheet, in order",
+        "questions": [
+          {
+            "id": "m1",
+            "lesson": "A",
+            "type": "input",
+            "q": "1) What is the ratio of apples to bananas in this image?",
+            "visual": "<div class=\"emoji-row\" aria-label=\"4 apples and 8 bananas\"><span class=\"grp\"><span>🍎</span><span>🍎</span><span>🍎</span><span>🍎</span></span><span class=\"grp\"><span>🍌</span><span>🍌</span><span>🍌</span><span>🍌</span><span>🍌</span><span>🍌</span><span>🍌</span><span>🍌</span></span></div>",
+            "fields": [
+              {
+                "kind": "ratio",
+                "value": [
+                  4,
+                  8
+                ],
+                "label": "apples : bananas",
+                "placeholder": "e.g. 3:5"
+              }
+            ],
+            "answerText": "4:8 (which simplifies to 1:2)",
+            "explain": "Count each fruit: 4 apples and 8 bananas. Apples come first because the question says apples TO bananas, so it's 4:8. Dividing both by 4 gives 1:2, so 1:2 is also correct."
+          },
+          {
+            "id": "m2",
+            "lesson": "A",
+            "type": "input",
+            "q": "2) To make fruit punch Joe mixed 4 liters of orange juice and 7 liters of strawberry juice and 9 liters of apple juice. a) The ratio of orange juice to strawberry juice to apple juice is __ : __ : __ ?",
+            "visual": "<div class=\"juice\"><span>🍊 Orange: 4 L</span><span>🍓 Strawberry: 7 L</span><span>🍏 Apple: 9 L</span></div>",
+            "fields": [
+              {
+                "kind": "ratio",
+                "value": [
+                  4,
+                  7,
+                  9
+                ],
+                "label": "orange : strawberry : apple",
+                "placeholder": "e.g. 1:2:3"
+              }
+            ],
+            "answerText": "4:7:9",
+            "explain": "Write the amounts in the same order the juices are named: 4 liters orange, 7 liters strawberry, 9 liters apple → 4:7:9. (You can also say “4 to 7 to 9.”)"
+          },
+          {
+            "id": "m3a",
+            "lesson": "B",
+            "type": "input",
+            "q": "In a recipe for cookies Adam used 4 cups of flour and 1 teaspoon of chocolate chips. 3a) How can Adam double his recipe?",
+            "fields": [
+              {
+                "kind": "number",
+                "value": 8,
+                "label": "Flour",
+                "unit": "cups"
+              },
+              {
+                "kind": "number",
+                "value": 2,
+                "label": "Chocolate chips",
+                "unit": "tsp"
+              }
+            ],
+            "answerText": "8 cups of flour and 2 teaspoons of chocolate chips",
+            "explain": "Doubling means multiplying BOTH amounts by 2: 4 × 2 = 8 cups of flour and 1 × 2 = 2 teaspoons of chocolate chips. The ratio 8:2 is equivalent to 4:1, so the cookies taste the same."
+          },
+          {
+            "id": "m3b",
+            "lesson": "B",
+            "q": "In a recipe for cookies Adam used 4 cups of flour and 1 teaspoon of chocolate chips. 3b) How can Adam make his cookies taste more chocolatey?",
+            "choices": [
+              "Add more chocolate chips but keep the same 4 cups of flour",
+              "Add more flour but keep the same 1 teaspoon of chocolate chips",
+              "Double both the flour and the chocolate chips",
+              "Triple both the flour and the chocolate chips"
+            ],
+            "answer": 0,
+            "explain": "To taste more chocolatey, the ratio of chocolate chips to flour has to go UP: more chocolate chips for the same flour (or less flour for the same chips). Doubling or tripling both keeps an equivalent ratio, so it would taste the same."
+          },
+          {
+            "id": "m3c",
+            "lesson": "B",
+            "type": "input",
+            "q": "In a recipe for cookies Adam used 4 cups of flour and 1 teaspoon of chocolate chips. 3c) How can Adam triple his recipe?",
+            "fields": [
+              {
+                "kind": "number",
+                "value": 12,
+                "label": "Flour",
+                "unit": "cups"
+              },
+              {
+                "kind": "number",
+                "value": 3,
+                "label": "Chocolate chips",
+                "unit": "tsp"
+              }
+            ],
+            "answerText": "12 cups of flour and 3 teaspoons of chocolate chips",
+            "explain": "Tripling means multiplying BOTH amounts by 3: 4 × 3 = 12 cups of flour and 1 × 3 = 3 teaspoons of chocolate chips. 12:3 is equivalent to 4:1."
+          },
+          {
+            "id": "m4",
+            "lesson": "B",
+            "q": "Are these ratios equivalent? 4) 2:10 and 4:20",
+            "answer": 0,
+            "choices": [
+              "Yes",
+              "No"
+            ],
+            "yn": true,
+            "keepOrder": true,
+            "label": "Yes or No?",
+            "explain": "Yes. Multiply both parts of 2:10 by 2 and you get 4:20. Both simplify to 1:5."
+          },
+          {
+            "id": "m5",
+            "lesson": "B",
+            "q": "Are these ratios equivalent? 5) 1:2 and 4:12",
+            "answer": 1,
+            "choices": [
+              "Yes",
+              "No"
+            ],
+            "yn": true,
+            "keepOrder": true,
+            "label": "Yes or No?",
+            "explain": "No. Multiplying 1:2 by 4 gives 4:8, not 4:12. 4:12 simplifies to 1:3, which is different from 1:2."
+          },
+          {
+            "id": "m6",
+            "lesson": "B",
+            "q": "Are these ratios equivalent? 6) 3:4 and 18:24",
+            "answer": 0,
+            "choices": [
+              "Yes",
+              "No"
+            ],
+            "yn": true,
+            "keepOrder": true,
+            "label": "Yes or No?",
+            "explain": "Yes. Multiply both parts of 3:4 by 6: 3 × 6 = 18 and 4 × 6 = 24, so 18:24 = 3:4."
+          },
+          {
+            "id": "m7",
+            "lesson": "B",
+            "q": "Are these ratios equivalent? 7) 30:40 and 3:4",
+            "answer": 0,
+            "choices": [
+              "Yes",
+              "No"
+            ],
+            "yn": true,
+            "keepOrder": true,
+            "label": "Yes or No?",
+            "explain": "Yes. Divide both parts of 30:40 by 10 and you get 3:4."
+          },
+          {
+            "id": "m8",
+            "lesson": "C",
+            "type": "input",
+            "q": "8) A store is selling 7 burgers for $56, what is the unit price of the burgers?",
+            "visual": "<svg class=\"dnl\" viewBox=\"0 0 360 140\" role=\"img\" aria-label=\"double number line\"><text class=\"lb\" x=\"6\" y=\"40\">Burgers</text><text class=\"lb\" x=\"6\" y=\"56\">(#)</text><line class=\"ln\" x1=\"92\" y1=\"44\" x2=\"350\" y2=\"44\"/><polyline class=\"ln\" points=\"100,38 92,44 100,50\"/><polyline class=\"ln\" points=\"342,38 350,44 342,50\"/><line class=\"tk\" x1=\"104\" y1=\"36\" x2=\"104\" y2=\"52\"/><text class=\"nm\" x=\"104\" y=\"30\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"326\" y1=\"36\" x2=\"326\" y2=\"52\"/><text class=\"nm\" x=\"326\" y=\"30\" text-anchor=\"middle\">7</text><text class=\"lb\" x=\"6\" y=\"94\">Price</text><text class=\"lb\" x=\"6\" y=\"110\">($)</text><line class=\"ln\" x1=\"92\" y1=\"98\" x2=\"350\" y2=\"98\"/><polyline class=\"ln\" points=\"100,92 92,98 100,104\"/><polyline class=\"ln\" points=\"342,92 350,98 342,104\"/><line class=\"tk\" x1=\"104\" y1=\"90\" x2=\"104\" y2=\"106\"/><text class=\"nm\" x=\"104\" y=\"124\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"326\" y1=\"90\" x2=\"326\" y2=\"106\"/><text class=\"nm\" x=\"326\" y=\"124\" text-anchor=\"middle\">56</text></svg>",
+            "fields": [
+              {
+                "kind": "number",
+                "value": 8,
+                "prefix": "$",
+                "unit": "per burger",
+                "placeholder": "Price of 1 burger"
+              }
+            ],
+            "answerText": "$8 per burger",
+            "explain": "Unit price = price for ONE burger. Divide both lines by 7: 7 burgers ÷ 7 = 1 burger and $56 ÷ 7 = $8. So 1 burger costs $8."
+          },
+          {
+            "id": "m9a",
+            "lesson": "C",
+            "type": "input",
+            "q": "9) This double line diagram shows Grace running at a constant speed. 9a) How long did it take Grace to run 1 mile?",
+            "visual": "<svg class=\"dnl\" viewBox=\"0 0 360 140\" role=\"img\" aria-label=\"double number line\"><text class=\"lb\" x=\"6\" y=\"40\">Distance</text><text class=\"lb\" x=\"6\" y=\"56\">(miles)</text><line class=\"ln\" x1=\"92\" y1=\"44\" x2=\"350\" y2=\"44\"/><polyline class=\"ln\" points=\"100,38 92,44 100,50\"/><polyline class=\"ln\" points=\"342,38 350,44 342,50\"/><line class=\"tk\" x1=\"104\" y1=\"36\" x2=\"104\" y2=\"52\"/><text class=\"nm\" x=\"104\" y=\"30\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"148.4\" y1=\"36\" x2=\"148.4\" y2=\"52\"/><text class=\"nm\" x=\"148.4\" y=\"30\" text-anchor=\"middle\">2</text><text class=\"lb\" x=\"6\" y=\"94\">Time</text><text class=\"lb\" x=\"6\" y=\"110\">(minutes)</text><line class=\"ln\" x1=\"92\" y1=\"98\" x2=\"350\" y2=\"98\"/><polyline class=\"ln\" points=\"100,92 92,98 100,104\"/><polyline class=\"ln\" points=\"342,92 350,98 342,104\"/><line class=\"tk\" x1=\"104\" y1=\"90\" x2=\"104\" y2=\"106\"/><text class=\"nm\" x=\"104\" y=\"124\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"148.4\" y1=\"90\" x2=\"148.4\" y2=\"106\"/><text class=\"nm\" x=\"148.4\" y=\"124\" text-anchor=\"middle\">11</text></svg>",
+            "fields": [
+              {
+                "kind": "number",
+                "value": 5.5,
+                "unit": "minutes",
+                "placeholder": "e.g. 4.5",
+                "alsoAccept": [
+                  "5:30",
+                  "5 min 30 sec",
+                  "5 min 30 s",
+                  "5 minutes 30 seconds",
+                  "5 minutes and 30 seconds",
+                  "5 and a half",
+                  "5 and a half minutes",
+                  "five and a half",
+                  "five and a half minutes"
+                ]
+              }
+            ],
+            "answerText": "5.5 minutes (5½ minutes, or 5 minutes 30 seconds)",
+            "explain": "2 miles takes 11 minutes. To get to 1 mile, divide both by 2: 2 ÷ 2 = 1 mile and 11 ÷ 2 = 5.5 minutes."
+          },
+          {
+            "id": "m9b",
+            "lesson": "C",
+            "type": "input",
+            "q": "9) Grace runs 2 miles in 11 minutes at a constant speed. 9b) At this rate, how far could Grace run in 55 minutes?",
+            "visual": "<svg class=\"dnl\" viewBox=\"0 0 360 140\" role=\"img\" aria-label=\"double number line\"><text class=\"lb\" x=\"6\" y=\"40\">Distance</text><text class=\"lb\" x=\"6\" y=\"56\">(miles)</text><line class=\"ln\" x1=\"92\" y1=\"44\" x2=\"350\" y2=\"44\"/><polyline class=\"ln\" points=\"100,38 92,44 100,50\"/><polyline class=\"ln\" points=\"342,38 350,44 342,50\"/><line class=\"tk\" x1=\"104\" y1=\"36\" x2=\"104\" y2=\"52\"/><text class=\"nm\" x=\"104\" y=\"30\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"148.4\" y1=\"36\" x2=\"148.4\" y2=\"52\"/><text class=\"nm\" x=\"148.4\" y=\"30\" text-anchor=\"middle\">2</text><text class=\"lb\" x=\"6\" y=\"94\">Time</text><text class=\"lb\" x=\"6\" y=\"110\">(minutes)</text><line class=\"ln\" x1=\"92\" y1=\"98\" x2=\"350\" y2=\"98\"/><polyline class=\"ln\" points=\"100,92 92,98 100,104\"/><polyline class=\"ln\" points=\"342,92 350,98 342,104\"/><line class=\"tk\" x1=\"104\" y1=\"90\" x2=\"104\" y2=\"106\"/><text class=\"nm\" x=\"104\" y=\"124\" text-anchor=\"middle\">0</text><line class=\"tk\" x1=\"148.4\" y1=\"90\" x2=\"148.4\" y2=\"106\"/><text class=\"nm\" x=\"148.4\" y=\"124\" text-anchor=\"middle\">11</text></svg>",
+            "fields": [
+              {
+                "kind": "number",
+                "value": 10,
+                "unit": "miles",
+                "placeholder": "Number of miles"
+              }
+            ],
+            "answerText": "10 miles",
+            "explain": "55 minutes is 5 times 11 minutes (11 × 5 = 55). Multiply the distance by 5 too: 2 × 5 = 10 miles."
+          },
+          {
+            "id": "m10",
+            "lesson": "C",
+            "q": "10) Matthew and AJ are making oreo smoothies. Matthew used 4 cups of milk and 5 cups of oreos. AJ used 5 cups of milk and 7 cups of oreos. Whose recipe will taste more like oreos?",
+            "choices": [
+              "AJ's recipe",
+              "Matthew's recipe",
+              "They will taste the same"
+            ],
+            "answer": 0,
+            "explain": "Compare cups of oreos for each 1 cup of milk. Matthew: 5 ÷ 4 = 1.25 cups of oreos per cup of milk. AJ: 7 ÷ 5 = 1.4 cups of oreos per cup of milk. 1.4 is more than 1.25, so AJ's tastes more like oreos."
+          }
+        ]
+      }
+    ]
   }
 ];
