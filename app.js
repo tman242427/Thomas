@@ -371,6 +371,10 @@
   function checkField(f, raw) {
     const alt = (f.alsoAccept || []).map(cleanText);
     if (alt.indexOf(cleanText(raw)) >= 0) return { ok: true };
+    if (f.kind === "text") {
+      const t = cleanText(raw);
+      return { ok: (f.keywords || []).every((grp) => grp.some((k) => t.indexOf(cleanText(k)) >= 0)) };
+    }
     if (f.kind === "ratio") {
       const got = parseRatio(raw), want = f.value;
       if (!got || got.length !== want.length) return { ok: false };
@@ -394,7 +398,7 @@
       row.innerHTML = (f.label ? '<span class="typed-label">' + escapeHtml(f.label) + "</span>" : "") +
         '<span class="typed-wrap">' + (f.prefix ? '<span class="typed-unit">' + escapeHtml(f.prefix) + "</span>" : "") +
         '<input class="typed-input" type="text" inputmode="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" data-idx="' + i + '" placeholder="' +
-        escapeHtml(f.placeholder || (f.kind === "ratio" ? "e.g. 2:3" : "Type a number")) + '" />' +
+        escapeHtml(f.placeholder || (f.kind === "ratio" ? "e.g. 2:3" : f.kind === "text" ? "Type your answer" : "Type a number")) + '" />' +
         (f.unit ? '<span class="typed-unit">' + escapeHtml(f.unit) + "</span>" : "") + "</span>";
       box.appendChild(row);
     });

@@ -3347,5 +3347,671 @@ window.SUBJECTS = [
         ]
       }
     ]
-  }
+  },
+{
+  "id": "socialstudies",
+  "name": "Social Studies",
+  "emoji": "🏯",
+  "tagline": "U5L2: Early Dynasties — Shang & Zhou",
+  "intro": "Pick a mode to get ready for the Shang & Zhou Dynasties test. You've got this! 💪",
+  "lessons": [
+    {
+      "id": 1,
+      "name": "Part 1 · Shang Dynasty"
+    },
+    {
+      "id": 2,
+      "name": "Part 2 · Zhou Dynasty"
+    }
+  ],
+  "notes": [
+    {
+      "id": "shang",
+      "short": "Shang",
+      "title": "Part 1: The Shang Dynasty",
+      "html": "<h2>The Shang Dynasty</h2><p><em>Target: describe how the Shang impacted ancient China.</em></p><ul><li><strong>Dynasty:</strong> When one family rules a country or region for a long time; a new dynasty begins when a new family takes control.</li><li><strong>Son of Heaven:</strong> The Shang priest-king, expected to keep good relations between the worldly and heavenly realms.</li><li><strong>Anyang:</strong> Center of the Shang Dynasty, on the North China Plain by the Yellow River.</li><li><strong>Warlords:</strong> Military leaders (nobles) with their own armies, appointed by Shang kings to govern conquered lands.</li><li><strong>Oracle bones:</strong> Used by Shang kings to contact gods and ancestors before big decisions; thousands found by archaeologists.</li><li><strong>Shang Di:</strong> The Shang supreme god.</li><li><strong>Pleasing the gods:</strong> Gods could bring good or bad fortune, so people offered gifts.</li><li><strong>Characters:</strong> The symbols of Chinese writing, written with a brush; an art form then and now.</li><li><strong>First written language:</strong> The Shang were the first dynasty to write and record their history.</li><li><strong>Honoring ancestors today:</strong> Burning small paper copies of food, clothing and items at temples for the afterlife.</li><li><strong>Bronze:</strong> Shang made some of the finest bronze artifacts: urns, sculptures, weapons, wine vessels.</li><li><strong>Silk:</strong> Made from silkworms; China's most guarded secret; used as currency; a status symbol commoners couldn't wear.</li><li><strong>Why the Shang lost power:</strong> Huge rich–poor gap; kings lived in luxury and were cruel, losing the people's support.</li></ul>"
+    },
+    {
+      "id": "zhou",
+      "short": "Zhou",
+      "title": "Part 2: The Zhou Dynasty",
+      "html": "<h2>The Zhou Dynasty</h2><p><em>Target: describe how the Zhou shaped ancient China.</em></p><ul><li><strong>Zhou (pronounced JOH):</strong> Dynasty that overthrew the Shang; larger, less harsh, preferred farming; lasted 800 years — the longest.</li><li><strong>Wen Wang:</strong> Aristocrat who planned the rebellion; his son crossed the Yellow River and defeated the Shang.</li><li><strong>Mandate:</strong> Having the authority to act in a certain way.</li><li><strong>Mandate of Heaven:</strong> Zhou belief that kings ruled because heaven gave them the authority; Zhou worshipped heaven instead of a supreme god.</li><li><strong>Saddles & stirrups:</strong> Invented by the Chinese in the Zhou era so soldiers could ride horses while throwing spears.</li></ul>"
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "Dynasty",
+      "def": "When one family rules a country or region for a long time; a new dynasty begins when a new family takes control.",
+      "lesson": 1
+    },
+    {
+      "term": "Son of Heaven",
+      "def": "The Shang priest-king, expected to keep good relations between the worldly and heavenly realms.",
+      "lesson": 1
+    },
+    {
+      "term": "Anyang",
+      "def": "Center of the Shang Dynasty, on the North China Plain by the Yellow River.",
+      "lesson": 1
+    },
+    {
+      "term": "Warlords",
+      "def": "Military leaders (nobles) with their own armies, appointed by Shang kings to govern conquered lands.",
+      "lesson": 1
+    },
+    {
+      "term": "Oracle bones",
+      "def": "Used by Shang kings to contact gods and ancestors before big decisions; thousands found by archaeologists.",
+      "lesson": 1
+    },
+    {
+      "term": "Shang Di",
+      "def": "The Shang supreme god.",
+      "lesson": 1
+    },
+    {
+      "term": "Pleasing the gods",
+      "def": "Gods could bring good or bad fortune, so people offered gifts.",
+      "lesson": 1
+    },
+    {
+      "term": "Characters",
+      "def": "The symbols of Chinese writing, written with a brush; an art form then and now.",
+      "lesson": 1
+    },
+    {
+      "term": "First written language",
+      "def": "The Shang were the first dynasty to write and record their history.",
+      "lesson": 1
+    },
+    {
+      "term": "Honoring ancestors today",
+      "def": "Burning small paper copies of food, clothing and items at temples for the afterlife.",
+      "lesson": 1
+    },
+    {
+      "term": "Bronze",
+      "def": "Shang made some of the finest bronze artifacts: urns, sculptures, weapons, wine vessels.",
+      "lesson": 1
+    },
+    {
+      "term": "Silk",
+      "def": "Made from silkworms; China's most guarded secret; used as currency; a status symbol commoners couldn't wear.",
+      "lesson": 1
+    },
+    {
+      "term": "Why the Shang lost power",
+      "def": "Huge rich–poor gap; kings lived in luxury and were cruel, losing the people's support.",
+      "lesson": 1
+    },
+    {
+      "term": "Zhou (pronounced JOH)",
+      "def": "Dynasty that overthrew the Shang; larger, less harsh, preferred farming; lasted 800 years — the longest.",
+      "lesson": 2
+    },
+    {
+      "term": "Wen Wang",
+      "def": "Aristocrat who planned the rebellion; his son crossed the Yellow River and defeated the Shang.",
+      "lesson": 2
+    },
+    {
+      "term": "Mandate",
+      "def": "Having the authority to act in a certain way.",
+      "lesson": 2
+    },
+    {
+      "term": "Mandate of Heaven",
+      "def": "Zhou belief that kings ruled because heaven gave them the authority; Zhou worshipped heaven instead of a supreme god.",
+      "lesson": 2
+    },
+    {
+      "term": "Saddles & stirrups",
+      "def": "Invented by the Chinese in the Zhou era so soldiers could ride horses while throwing spears.",
+      "lesson": 2
+    }
+  ],
+  "tests": [
+    {
+      "id": "u5l2",
+      "name": "Shang & Zhou Dynasties (U5L2) Test",
+      "desc": "35 multiple choice + 3 short answer · shuffled",
+      "shuffle": true,
+      "questions": [
+        {
+          "id": "ss1",
+          "lesson": 1,
+          "q": "What is a dynasty?",
+          "choices": [
+            "When a group of farmers shares the land",
+            "When a country holds an election every year",
+            "When one family rules a country or region for a long period of time",
+            "When an army rules for one short battle"
+          ],
+          "answer": 2,
+          "explain": "A dynasty is when one family rules a country or region for a long time. A new dynasty begins when a new family takes control."
+        },
+        {
+          "id": "ss2",
+          "lesson": 1,
+          "q": "When does a new dynasty begin?",
+          "choices": [
+            "When the king has a birthday",
+            "When a new family takes control",
+            "When the Yellow River floods",
+            "When a new god is worshipped"
+          ],
+          "answer": 1,
+          "explain": "A new dynasty starts when a new family takes control."
+        },
+        {
+          "id": "ss3",
+          "lesson": 1,
+          "q": "The Shang ruler was a kind of priest-king known as the…",
+          "choices": [
+            "Lord of the River",
+            "King of Bronze",
+            "Master of Silk",
+            "Son of Heaven"
+          ],
+          "answer": 3,
+          "explain": "The Shang ruler was called the Son of Heaven and was expected to keep good relations between the worldly and heavenly realms."
+        },
+        {
+          "id": "ss4",
+          "lesson": 1,
+          "q": "Near what city was the Shang Dynasty centered, on the North China Plain?",
+          "choices": [
+            "Anyang",
+            "Luoyang",
+            "Chang'an",
+            "Beijing"
+          ],
+          "answer": 0,
+          "explain": "The map shows the Shang centered near Anyang, by the Yellow River."
+        },
+        {
+          "id": "ss5",
+          "lesson": 1,
+          "q": "Which river was the Shang Dynasty located by?",
+          "choices": [
+            "The Yellow River",
+            "The Nile River",
+            "The Tigris River",
+            "The Indus River"
+          ],
+          "answer": 0,
+          "explain": "The Shang were on the North China Plain by the Yellow River."
+        },
+        {
+          "id": "ss6",
+          "lesson": 1,
+          "q": "How did the Shang kings get more land after starting with only a small area?",
+          "choices": [
+            "They sent out armies to conquer surrounding lands",
+            "They bought land with gold coins",
+            "They traded silk for land",
+            "Neighbors gave them land as gifts"
+          ],
+          "answer": 0,
+          "explain": "At first the Shang controlled a small area, but they sent armies to conquer surrounding lands."
+        },
+        {
+          "id": "ss7",
+          "lesson": 1,
+          "q": "Who did Shang kings appoint to govern conquered territories?",
+          "choices": [
+            "Farmers",
+            "Merchants",
+            "Warlords",
+            "Priests from other lands"
+          ],
+          "answer": 2,
+          "explain": "Shang kings appointed warlords to govern conquered territories."
+        },
+        {
+          "id": "ss8",
+          "lesson": 1,
+          "q": "What were warlords?",
+          "choices": [
+            "Military leaders who led their own armies",
+            "Farmers who raised silkworms",
+            "Artists who made bronze vases",
+            "Scribes who wrote on oracle bones"
+          ],
+          "answer": 0,
+          "explain": "Warlords were military leaders with their own armies. They were nobles, which helped Shang kings stay in power."
+        },
+        {
+          "id": "ss9",
+          "lesson": 1,
+          "q": "Much of what we know about the Shang comes from thousands of what objects found by archaeologists?",
+          "choices": [
+            "Clay tablets",
+            "Oracle bones",
+            "Paper books",
+            "Stone pyramids"
+          ],
+          "answer": 1,
+          "explain": "Archaeologists found thousands of oracle bones that teach us about the Shang."
+        },
+        {
+          "id": "ss10",
+          "lesson": 1,
+          "q": "Why did Shang kings use oracle bones?",
+          "choices": [
+            "To contact gods and ancestors before important decisions",
+            "To count their silk",
+            "To build bridges",
+            "To make weapons"
+          ],
+          "answer": 0,
+          "explain": "An important duty of the king was contacting gods and ancestors before big decisions, using oracle bones."
+        },
+        {
+          "id": "ss11",
+          "lesson": 1,
+          "q": "Shang kings believed they got their WISDOM from…",
+          "choices": [
+            "Their ancestors",
+            "Foreign kings",
+            "Their warlords",
+            "Merchants"
+          ],
+          "answer": 0,
+          "explain": "Shang kings believed their power came from the gods and their wisdom came from their ancestors."
+        },
+        {
+          "id": "ss12",
+          "lesson": 1,
+          "q": "What was the name of the Shang supreme god?",
+          "choices": [
+            "Wen Wang",
+            "Anyang",
+            "Zhou",
+            "Shang Di"
+          ],
+          "answer": 3,
+          "explain": "The Shang worshipped many gods plus a supreme god, Shang Di."
+        },
+        {
+          "id": "ss13",
+          "lesson": 1,
+          "q": "How did Shang people try to please their gods?",
+          "choices": [
+            "By building the Great Wall",
+            "By writing letters with a pen",
+            "By wearing silk",
+            "By offering gifts"
+          ],
+          "answer": 3,
+          "explain": "Gods could bring good or bad fortune, so people offered them gifts."
+        },
+        {
+          "id": "ss14",
+          "lesson": 1,
+          "q": "Where did the Shang believe their gods lived?",
+          "choices": [
+            "In rivers, mountains and seas",
+            "Only in the king's palace",
+            "In bronze vases",
+            "Under the oracle bones"
+          ],
+          "answer": 0,
+          "explain": "The Shang believed gods lived in rivers, mountains and seas."
+        },
+        {
+          "id": "ss15",
+          "lesson": 1,
+          "q": "The Shang were the first dynasty in China to…",
+          "choices": [
+            "Ride horses with saddles",
+            "Have a written language and record their history",
+            "Worship heaven",
+            "Last 800 years"
+          ],
+          "answer": 1,
+          "explain": "The Shang were the first dynasty to have a written language and record their history."
+        },
+        {
+          "id": "ss16",
+          "lesson": 1,
+          "q": "In Chinese writing, the symbols are called…",
+          "choices": [
+            "Characters",
+            "Letters",
+            "Hieroglyphs",
+            "Numbers"
+          ],
+          "answer": 0,
+          "explain": "Chinese writing uses symbols called characters, written with a brush."
+        },
+        {
+          "id": "ss17",
+          "lesson": 1,
+          "q": "What tool is used to write Chinese characters, both then and now?",
+          "choices": [
+            "A pencil",
+            "A stone chisel",
+            "A feather quill",
+            "A brush"
+          ],
+          "answer": 3,
+          "explain": "A brush is the writing tool, and Chinese writing is an art form."
+        },
+        {
+          "id": "ss18",
+          "lesson": 1,
+          "q": "How do many Chinese people still honor their ancestors today?",
+          "choices": [
+            "By burning small paper copies of food, clothing and other items at temples",
+            "By building bronze statues of them",
+            "By sending them silk",
+            "By writing on oracle bones"
+          ],
+          "answer": 0,
+          "explain": "The paper copies stand for things the departed need in the afterlife."
+        },
+        {
+          "id": "ss19",
+          "lesson": 1,
+          "q": "The Shang created some of the finest artifacts ever made out of which metal?",
+          "choices": [
+            "Bronze",
+            "Gold",
+            "Iron",
+            "Silver"
+          ],
+          "answer": 0,
+          "explain": "Shang bronze artifacts include urns for grain, sculptures, weapons and wine vessels."
+        },
+        {
+          "id": "ss20",
+          "lesson": 1,
+          "q": "Silk is made from…",
+          "choices": [
+            "Cotton plants",
+            "Silkworms",
+            "Sheep's wool",
+            "Tree bark"
+          ],
+          "answer": 1,
+          "explain": "Shang farmers learned to make silk from silkworms they raised."
+        },
+        {
+          "id": "ss21",
+          "lesson": 1,
+          "q": "Why was silk such an important secret?",
+          "choices": [
+            "For centuries silk was made only in China, and the secret was closely guarded",
+            "Silk was poisonous",
+            "Only gods could make silk",
+            "Silk was made from bronze"
+          ],
+          "answer": 0,
+          "explain": "The secret of making silk was the most guarded secret in China's history."
+        },
+        {
+          "id": "ss22",
+          "lesson": 1,
+          "q": "Silk was so precious it was even used as…",
+          "choices": [
+            "Building material for houses",
+            "Food for horses",
+            "Fuel for fires",
+            "A form of currency (money)"
+          ],
+          "answer": 3,
+          "explain": "Silk was so valuable it was used like money."
+        },
+        {
+          "id": "ss23",
+          "lesson": 1,
+          "q": "Who was NOT allowed to wear silk?",
+          "choices": [
+            "Common people",
+            "Kings",
+            "Nobles",
+            "Aristocrats"
+          ],
+          "answer": 0,
+          "explain": "Silk was a status symbol, and common people were prohibited from wearing it."
+        },
+        {
+          "id": "ss24",
+          "lesson": 1,
+          "q": "Why did the Shang kings lose the support of the people?",
+          "choices": [
+            "They gave away too much silk",
+            "They lived in luxury and treated people cruelly",
+            "They stopped using oracle bones",
+            "They moved the capital to Egypt"
+          ],
+          "answer": 1,
+          "explain": "There was a huge gap between rich and poor, and the cruel, luxurious kings lost the people's support."
+        },
+        {
+          "id": "ss25",
+          "lesson": 2,
+          "q": "Who planned the rebellion to overthrow the Shang?",
+          "choices": [
+            "Wen Wang",
+            "Shang Di",
+            "The Son of Anyang",
+            "A merchant from Luoyang"
+          ],
+          "answer": 0,
+          "explain": "Wen Wang, a powerful aristocrat, planned the rebellion. His son led the army that defeated the Shang."
+        },
+        {
+          "id": "ss26",
+          "lesson": 2,
+          "q": "Who actually led the army across the Yellow River to defeat the Shang?",
+          "choices": [
+            "Wen Wang's brother",
+            "Wen Wang's son",
+            "Shang Di",
+            "A Shang warlord"
+          ],
+          "answer": 1,
+          "explain": "Wen Wang's son led the army across the Yellow River and started the Zhou Dynasty."
+        },
+        {
+          "id": "ss27",
+          "lesson": 2,
+          "q": "How did Zhou kings rule compared to Shang kings?",
+          "choices": [
+            "Much more cruelly",
+            "With no king at all",
+            "Much like them, but not as harshly",
+            "Exactly like Egyptian pharaohs"
+          ],
+          "answer": 2,
+          "explain": "Zhou kings ruled much like the Shang, but not as harshly."
+        },
+        {
+          "id": "ss28",
+          "lesson": 2,
+          "q": "The Zhou people preferred ___ over invading.",
+          "choices": [
+            "Fishing at sea",
+            "Building pyramids",
+            "Sailing",
+            "Farming"
+          ],
+          "answer": 3,
+          "explain": "The Zhou were civilized and preferred farming over invading."
+        },
+        {
+          "id": "ss29",
+          "lesson": 2,
+          "q": "About how long did the Zhou Dynasty last?",
+          "choices": [
+            "80 years",
+            "800 years, the longest of all dynasties",
+            "200 years",
+            "2,000 years"
+          ],
+          "answer": 1,
+          "explain": "The Zhou lasted 800 years, the longest of all Chinese dynasties."
+        },
+        {
+          "id": "ss30",
+          "lesson": 2,
+          "q": "What does 'mandate' mean?",
+          "choices": [
+            "Having the authority to act in a certain way",
+            "A kind of bronze vase",
+            "A type of silk cloth",
+            "A war chariot"
+          ],
+          "answer": 0,
+          "explain": "Mandate means having the authority to act in a certain way."
+        },
+        {
+          "id": "ss31",
+          "lesson": 2,
+          "q": "What did Zhou kings claim gave them the right to rule China?",
+          "choices": [
+            "Oracle bones",
+            "The Silk Secret",
+            "The Mandate of Heaven",
+            "The Bronze Law"
+          ],
+          "answer": 2,
+          "explain": "Zhou kings said they ruled because they had the Mandate of Heaven."
+        },
+        {
+          "id": "ss32",
+          "lesson": 2,
+          "q": "How did Zhou worship change from the Shang?",
+          "choices": [
+            "They stopped believing in anything",
+            "They moved from worshipping a supreme god to worshipping heaven",
+            "They worshipped only silkworms",
+            "They worshipped the Shang kings"
+          ],
+          "answer": 1,
+          "explain": "The Zhou switched from a supreme god (Shang Di) to worshipping heaven."
+        },
+        {
+          "id": "ss33",
+          "lesson": 2,
+          "q": "Which inventions did the Chinese create first during the Zhou Dynasty?",
+          "choices": [
+            "Saddles and stirrups",
+            "Paper and printing",
+            "Wheels and chariots",
+            "Bronze and silk"
+          ],
+          "answer": 0,
+          "explain": "Warriors switched from chariots to horses, so the Chinese invented saddles and stirrups."
+        },
+        {
+          "id": "ss34",
+          "lesson": 2,
+          "q": "Why were saddles and stirrups useful to Zhou soldiers?",
+          "choices": [
+            "They made chariots faster",
+            "They let soldiers ride horses while throwing spears",
+            "They helped farmers plant rice",
+            "They kept silk safe"
+          ],
+          "answer": 1,
+          "explain": "Saddles and stirrups let soldiers ride and throw spears at the same time."
+        },
+        {
+          "id": "ss35",
+          "lesson": 2,
+          "q": "Which dynasty covered a LARGER area, including Luoyang and Chang'an?",
+          "choices": [
+            "Shang",
+            "Neither — they were the same size",
+            "Zhou",
+            "Egypt"
+          ],
+          "answer": 2,
+          "explain": "The Zhou became larger than the Shang."
+        },
+        {
+          "id": "ssa1",
+          "lesson": 1,
+          "type": "input",
+          "q": "Short answer: Why was silk in such high demand for trading? (one sentence)",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "china",
+                  "secret",
+                  "only",
+                  "precious",
+                  "valu",
+                  "rare",
+                  "status",
+                  "currency",
+                  "money"
+                ]
+              ],
+              "placeholder": "Type your answer"
+            }
+          ],
+          "answerText": "Silk was made only in China and its making was a closely guarded secret, so it was rare, precious, a status symbol and even used as money.",
+          "explain": "Any answer mentioning it was only made in China / secret / precious / used as money counts."
+        },
+        {
+          "id": "ssa2",
+          "lesson": 1,
+          "type": "input",
+          "q": "Short answer: Name ONE way the Shang kings tried to make decisions or stay in power.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "oracle",
+                  "warlord",
+                  "ancestor",
+                  "god",
+                  "noble",
+                  "army",
+                  "armies"
+                ]
+              ],
+              "placeholder": "Type your answer"
+            }
+          ],
+          "answerText": "They used oracle bones to contact gods and ancestors, and appointed warlords (nobles with armies) to govern conquered lands.",
+          "explain": "Oracle bones or warlords are both great answers."
+        },
+        {
+          "id": "ssa3",
+          "lesson": 2,
+          "type": "input",
+          "q": "Short answer: What is the Mandate of Heaven?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "heaven"
+                ],
+                [
+                  "right",
+                  "authority",
+                  "rule",
+                  "power",
+                  "allow"
+                ]
+              ],
+              "placeholder": "Type your answer"
+            }
+          ],
+          "answerText": "The Zhou belief that kings ruled China because heaven gave them the authority (right) to rule.",
+          "explain": "Your answer should mention heaven AND the right/authority to rule."
+        }
+      ]
+    }
+  ]
+}
 ];
