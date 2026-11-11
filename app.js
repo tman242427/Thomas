@@ -125,6 +125,8 @@
   function selectSubject(s) {
     subject = s;
     $("#home-welcome").textContent = CFG.greeting + " " + (s.intro || "Pick a mode to get started. You've got this! 💪");
+    const mapCard = $("#mode-map");
+    if (mapCard) mapCard.classList.toggle("hidden", !(s.mapQuiz && window.MapQuiz));
     showView("home");
   }
 
@@ -134,6 +136,7 @@
       if (mode === "study") { initStudy(); showView("study"); }
       else if (mode === "flash") { initFlash(); showView("flash"); }
       else if (mode === "quiz") { initQuizHome(); showView("quiz"); }
+      else if (mode === "map") { openMapQuiz("match"); }
     });
   });
 
@@ -324,10 +327,16 @@
         b.className = "quiz-opt";
         b.innerHTML = '<span class="qo-emoji">' + d.emoji + '</span><span class="qo-text"><span class="qo-title">' +
           escapeHtml(d.name) + '</span><span class="qo-desc">' + escapeHtml(d.desc) + '</span></span><span class="qo-go">›</span>';
-        b.addEventListener("click", () => startQuiz(d));
+        b.addEventListener("click", () => { if (d.map) openMapQuiz(d.map); else startQuiz(d); });
         wrap.appendChild(b);
       });
       menu.appendChild(wrap);
+    }
+    if (subject.mapQuiz && window.MapQuiz) {
+      group("🗺️ " + subject.mapQuiz.title + " map quiz", [
+        { emoji: "🗺️", name: "Match names to the map", desc: "Drag or tap names onto numbered spots · see what's right or wrong", build: null, map: "match" },
+        { emoji: "🔍", name: "What is this?", desc: "One place lights up · pick its name", build: null, map: "name" }
+      ]);
     }
     group("Practice tests", defs.tests);
     group("Mixed", defs.mixed);
@@ -336,8 +345,15 @@
     showQuizPanel("start");
   }
 
+  // ——— Map quiz (Continents & Oceans; see mapquiz.js) ———
+  function openMapQuiz(startMode) {
+    initQuizHome();
+    showView("quiz");
+    if (window.MapQuiz && window.MapQuiz.open(subject, startMode)) showQuizPanel("map");
+  }
+
   function showQuizPanel(which) {
-    ["start", "play", "results"].forEach((p) => $("#quiz-" + p).classList.toggle("hidden", p !== which));
+    ["start", "play", "results", "map"].forEach((p) => $("#quiz-" + p).classList.toggle("hidden", p !== which));
     window.scrollTo(0, 0);
   }
 

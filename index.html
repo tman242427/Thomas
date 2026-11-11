@@ -61,6 +61,11 @@
           <span class="mode-title">Quiz</span>
           <span class="mode-desc">Practice tests · Check your score</span>
         </button>
+        <button class="mode-card hidden" id="mode-map" data-mode="map">
+          <span class="mode-emoji">🗺️</span>
+          <span class="mode-title">Map Quiz</span>
+          <span class="mode-desc">Continents &amp; Oceans · Match names on a world map</span>
+        </button>
       </div>
     </main>
 
@@ -128,6 +133,15 @@
         <button id="btn-submit-q" class="btn btn-primary btn-block">Check Answer</button>
         <button id="btn-next-q" class="btn btn-teal btn-block hidden">Next Question →</button>
       </div>
+      <div id="quiz-map" class="quiz-panel hidden">
+        <p id="geo-title" class="quiz-name">Continents &amp; Oceans</p>
+        <div class="geo-tabs" role="tablist">
+          <button type="button" class="geo-tab active" data-gmode="match" role="tab" aria-selected="true">🗺️ Match names</button>
+          <button type="button" class="geo-tab" data-gmode="name" role="tab" aria-selected="false">🔍 What is this?</button>
+        </div>
+        <div id="geo-match"></div>
+        <div id="geo-name" class="hidden"></div>
+      </div>
       <div id="quiz-results" class="quiz-panel hidden">
         <div class="results-hero">
           <span id="results-emoji" class="mode-emoji big">🌟</span>
@@ -144,6 +158,9 @@
   </div>
 
   <script src="data.js"></script>
+  <script src="map-data.js"></script>
+  <script src="continents.js"></script>
+  <script src="mapquiz.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
