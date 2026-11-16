@@ -26,7 +26,7 @@
  * gateKey must stay different from Thomas's site (same origin, shared localStorage).
  */
 window.APP_CONFIG = {
-  password: "thomas6",
+  password: "Elizabeth3",
   gateKey: "elizabeth_lab_unlocked_v1",
   name: "Elizabeth",
   title: "Elizabeth's Study Lab",
