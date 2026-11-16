@@ -3947,4 +3947,1104 @@ window.SUBJECTS = [
     }
   ]
 },
+{
+  "id": "religion-year",
+  "name": "Religion: Liturgical Year",
+  "emoji": "⛪",
+  "tagline": "Quiz 11/19",
+  "intro": "Pick a mode to get ready for the Liturgical Year quiz on 11/19. Study guide, flashcards, then the practice quiz. You've got this! 💪",
+  "lessons": [
+    {
+      "id": "vocab",
+      "name": "Vocabulary"
+    },
+    {
+      "id": "seasons",
+      "name": "Seasons"
+    },
+    {
+      "id": "review",
+      "name": "Short Answer"
+    }
+  ],
+  "notes": [
+    {
+      "id": "vocab",
+      "short": "Vocabulary",
+      "title": "Key Vocabulary",
+      "html": "<h2>Key Vocabulary</h2>\n<p>Quiz day is <strong>11/19</strong>. Learn the word, then the flashcards.</p>\n<div class=\"key-terms\">\n<p class=\"term-row\"><strong>Liturgy</strong> — The official public <strong>prayer</strong> of the Church. It includes (1) the celebration of the <strong>Eucharist</strong> (Mass), (2) the other <strong>sacraments</strong>, and (3) the Liturgy of the <strong>Hours</strong>.</p>\n<p class=\"term-row\"><strong>Liturgy of the Hours</strong> — The Church's official daily prayer (morning, evening, and other hours), not only Sunday Mass.</p>\n<p class=\"term-row\"><strong>Venerate</strong> — To show <strong>honor</strong> (respect) and devotion to Mary, the Mother of God, and to all the <strong>saints</strong>. We venerate them. We worship God alone.</p>\n<p class=\"term-row\"><strong>Liturgical year</strong> — The Church's calendar of seasons. Through it we celebrate the entire <strong>mystery of Christ</strong>.</p>\n<p class=\"term-row\"><strong>Early Church</strong> — Followed many <strong>Jewish</strong> customs of prayer and worship. They prayed the <strong>Psalms</strong> and kept the Sabbath.</p>\n<p class=\"term-row\"><strong>Sabbath</strong> — Catholics celebrate <strong>Sunday</strong> as the Sabbath because it is the day <strong>Jesus rose</strong> from the dead.</p>\n<p class=\"term-row\"><strong>Spring equinox</strong> — The sun crosses the <strong>equator</strong>, so day and night are about equal all over the world. The Church uses that date to help set <strong>Easter</strong> (and the Triduum). Easter is the Sunday after the first full moon on or after the spring equinox.</p>\n<p class=\"term-row\"><strong>Paschal Mystery</strong> — Jesus' suffering, death, Resurrection, and Ascension. \"Paschal\" comes from Passover: passing from death to new life.</p>\n</div>"
+    },
+    {
+      "id": "seasons",
+      "short": "Seasons",
+      "title": "The Liturgical Seasons",
+      "html": "<h2>The Liturgical Seasons</h2>\n<p>The calendar walks us through the different parts of Jesus' life and the mysteries of our faith. Match each season to its color.</p>\n<div class=\"sphere-grid\">\n<div class=\"sphere-pill\"><strong>Advent · purple</strong> Start of the Church calendar. <em>4 weeks.</em> Joyful preparation for the coming of Christ. A new reading cycle begins in Advent.</div>\n<div class=\"sphere-pill\"><strong>Christmas · white</strong> Begins on Christmas Day with the <em>birth</em> of Jesus. Celebrated for 12 days. The season ends with the Feast of the <em>Baptism of the Lord</em>.</div>\n<div class=\"sphere-pill\"><strong>Ordinary Time (1st) · green</strong> Rest and <em>continuing growth</em>. Readings often focus on Jesus' <em>life</em> and teaching.</div>\n<div class=\"sphere-pill\"><strong>Lent · purple</strong> <em>40 days</em>, beginning on <em>Ash Wednesday</em>. Prayer, sacrifice, and preparation for Easter. The three pillars: <em>prayer, fasting, and almsgiving</em>.</div>\n<div class=\"sphere-pill\"><strong>Triduum · red</strong> \"Triduum\" means <em>3 days</em>: Holy Thursday, Good Friday, and Holy Saturday. We celebrate the <em>Paschal Mystery</em>. It is the greatest celebration of the Church, and the whole year turns around it. On this quiz the color is <em>red</em> because Good Friday is red.</div>\n<div class=\"sphere-pill\"><strong>Easter · white</strong> We rejoice in Jesus' <em>Resurrection</em> and Ascension. Lasts <em>50 days</em>, ending at Pentecost.</div>\n<div class=\"sphere-pill\"><strong>Ordinary Time (2nd) · green</strong> The <em>longest</em> season. The first Sunday after Pentecost is <em>Trinity Sunday</em>. The last Sunday is <em>Christ the King</em>.</div>\n</div>\n<div class=\"callout\">\n<p><strong>Watch these two mix-ups</strong></p>\n<ul>\n<li><strong>Triduum</strong> is the three days (Holy Thursday, Good Friday, Holy Saturday). <strong>Trinity Sunday</strong> is the first Sunday <em>after Pentecost</em>, in Ordinary Time. They are not the same.</li>\n<li><strong>Good Friday</strong> is the only day of the year with <strong>no Mass</strong>. The Eucharist is <strong>not consecrated</strong> that day.</li>\n<li>Christmas is celebrated for <strong>12 days</strong>. The liturgical season then lasts until the <strong>Baptism of the Lord</strong>.</li>\n<li>Purple and violet are the same answer for Advent and Lent.</li>\n</ul>\n</div>\n<h3>Color match</h3>\n<div class=\"practice-box\"><ul>\n<li>Advent — purple (violet)</li>\n<li>Christmas — white</li>\n<li>Ordinary Time — green (both parts)</li>\n<li>Lent — purple (violet)</li>\n<li>Triduum — red</li>\n<li>Easter — white</li>\n</ul></div>"
+    },
+    {
+      "id": "short",
+      "short": "Short Answers",
+      "title": "Check for Understanding + Short Answers",
+      "html": "<h2>Short Answers</h2>\n<p>Say these in your own words. On the quiz, a close answer counts. After you submit, compare yours with the model answer.</p>\n<h3>1. What is the purpose of the liturgical year?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> The liturgical year helps us celebrate and remember the whole mystery of Christ — his life, death, and Resurrection — all year long, and to grow closer to God.</p></div>\n<h3>2. Why do Catholics celebrate Sunday as the Sabbath?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> Catholics celebrate Sunday as the Sabbath because it is the day Jesus rose from the dead.</p></div>\n<h3>3. What are the three pillars of Lent?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> The three pillars of Lent are prayer, fasting, and almsgiving.</p></div>\n<h3>4. What is the most important celebration of the Church?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> The Easter Triduum is the greatest and most important celebration of the Church. During those three days we remember the Paschal Mystery, and the whole liturgical year is centered on it.</p></div>\n<h3>5. What event do we celebrate at Easter?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> At Easter we celebrate Jesus' Resurrection. The Easter season also rejoices in his Ascension.</p></div>\n<h3>6. Why is Advent purple, and what are we preparing for?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> Advent is purple (violet), a color of preparation and waiting. It is a joyful time of getting ready for the coming of Christ.</p></div>\n<h3>7. What is the Paschal Mystery?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> The Paschal Mystery is Jesus' suffering, death, Resurrection, and Ascension — his passing through death into new life. We celebrate it most of all at the Triduum, and at every Mass.</p></div>\n<h3>8. Why is Good Friday different from every other day?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> Good Friday is different from every other day because it is the only day of the year with no Mass. The Eucharist is not consecrated on Good Friday. We remember Jesus' death on the cross. (People may still receive Communion from hosts consecrated on Holy Thursday.)</p></div>\n<h3>9. Why is Ordinary Time green?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> Green is the color of life, hope, and growth. Ordinary Time is when we keep growing in faith and listen to the stories of Jesus' everyday life and teaching.</p></div>\n<h3>10. What do the Christmas and Easter seasons have in common?</h3>\n<div class=\"callout\"><p><strong>Model answer:</strong> Christmas and Easter both use the color white, and both are joyful seasons of Jesus' life: his birth at Christmas, and his Resurrection at Easter.</p></div>"
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "Liturgy",
+      "def": "The official public prayer of the Church. It includes the Eucharist (Mass), the other sacraments, and the Liturgy of the Hours.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Liturgy of the Hours",
+      "def": "The Church's official daily prayer, prayed at different hours of the day — part of the liturgy, not only Sunday Mass.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Venerate",
+      "def": "To show honor and devotion to Mary, the Mother of God, and to all the saints. Veneration is not the same as worshipping God.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Liturgical year",
+      "def": "The Church's year of seasons. Through it we celebrate the entire mystery of Christ.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Sabbath",
+      "def": "Catholics keep Sunday as the Sabbath because Jesus rose from the dead on Sunday.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Early Church prayer",
+      "def": "The early Church followed many Jewish customs. They prayed the Psalms and kept the Sabbath.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Spring equinox",
+      "def": "When the sun crosses the equator and day and night are about equal. It helps set the date of Easter and the Triduum.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Paschal Mystery",
+      "def": "Jesus' suffering, death, Resurrection, and Ascension — his passover from death into new life.",
+      "lesson": "vocab",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Advent",
+      "def": "Purple (violet). The start of the Church calendar. Four weeks of joyful preparation for the coming of Christ. A new reading cycle begins.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Christmas",
+      "def": "White. Begins with the birth of Jesus. Celebrated for 12 days, and the season ends with the Baptism of the Lord.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Ordinary Time (first part)",
+      "def": "Green. A time of rest and continuing growth. Readings often focus on Jesus' life and teaching.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Lent",
+      "def": "Purple. Forty days beginning on Ash Wednesday. Prayer, sacrifice, and preparation for Easter. Pillars: prayer, fasting, almsgiving.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Triduum",
+      "def": "Red on this quiz (Good Friday is red). Three days: Holy Thursday, Good Friday, Holy Saturday. The Paschal Mystery — the greatest celebration of the Church.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Easter",
+      "def": "White. We rejoice in Jesus' Resurrection and Ascension. The season lasts 50 days.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Ordinary Time (second part)",
+      "def": "Green. The longest season. It opens with Trinity Sunday (the first Sunday after Pentecost) and ends on Christ the King Sunday.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Three pillars of Lent",
+      "def": "Prayer, fasting, and almsgiving.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Trinity Sunday",
+      "def": "The first Sunday after Pentecost, in Ordinary Time. Not the same as the Triduum.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Christ the King Sunday",
+      "def": "The last Sunday of the liturgical year, at the end of Ordinary Time.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Good Friday",
+      "def": "The only day of the year with no Mass. The Eucharist is not consecrated. We remember Jesus' death.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "The three days of the Triduum",
+      "def": "Holy Thursday, Good Friday, and Holy Saturday.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Baptism of the Lord",
+      "def": "The feast that ends the Christmas season.",
+      "lesson": "seasons",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "How long is Advent?",
+      "def": "Four weeks.",
+      "lesson": "seasons",
+      "front": "Question",
+      "back": "Answer"
+    },
+    {
+      "term": "How long is Lent?",
+      "def": "40 days, beginning on Ash Wednesday.",
+      "lesson": "seasons",
+      "front": "Question",
+      "back": "Answer"
+    },
+    {
+      "term": "How long is the Easter season?",
+      "def": "50 days.",
+      "lesson": "seasons",
+      "front": "Question",
+      "back": "Answer"
+    },
+    {
+      "term": "How long is Christmas celebrated on the sheet?",
+      "def": "12 days (the Twelve Days of Christmas). The season ends with the Baptism of the Lord.",
+      "lesson": "seasons",
+      "front": "Question",
+      "back": "Answer"
+    },
+    {
+      "term": "What is the purpose of the liturgical year?",
+      "def": "The liturgical year helps us celebrate and remember the whole mystery of Christ — his life, death, and Resurrection — all year long, and to grow closer to God.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "Why is Sunday the Christian Sabbath?",
+      "def": "Catholics celebrate Sunday as the Sabbath because it is the day Jesus rose from the dead.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "What are the three pillars of Lent?",
+      "def": "The three pillars of Lent are prayer, fasting, and almsgiving.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "What is the Church's greatest celebration?",
+      "def": "The Easter Triduum is the greatest and most important celebration of the Church. During those three days we remember the Paschal Mystery, and the whole liturgical year is centered on it.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "What do we celebrate at Easter?",
+      "def": "At Easter we celebrate Jesus' Resurrection. The Easter season also rejoices in his Ascension.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "Why is Advent purple, and what do we prepare for?",
+      "def": "Advent is purple (violet), a color of preparation and waiting. It is a joyful time of getting ready for the coming of Christ.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "What is the Paschal Mystery?",
+      "def": "The Paschal Mystery is Jesus' suffering, death, Resurrection, and Ascension — his passing through death into new life. We celebrate it most of all at the Triduum, and at every Mass.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "Why is Good Friday different from every other day?",
+      "def": "Good Friday is different from every other day because it is the only day of the year with no Mass. The Eucharist is not consecrated on Good Friday. We remember Jesus' death on the cross. (People may still receive Communion from hosts consecrated on Holy Thursday.)",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "Why is Ordinary Time green?",
+      "def": "Green is the color of life, hope, and growth. Ordinary Time is when we keep growing in faith and listen to the stories of Jesus' everyday life and teaching.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    },
+    {
+      "term": "What do Christmas and Easter have in common?",
+      "def": "Christmas and Easter both use the color white, and both are joyful seasons of Jesus' life: his birth at Christmas, and his Resurrection at Easter.",
+      "lesson": "review",
+      "front": "Question",
+      "back": "Model answer"
+    }
+  ],
+  "tests": [
+    {
+      "id": "ly-quiz",
+      "name": "Liturgical Year Practice Quiz",
+      "desc": "43 questions · multiple choice, true/false, color match, numbers, and 10 short answers · in order",
+      "questions": [
+        {
+          "id": "r01",
+          "lesson": "vocab",
+          "q": "What is the liturgy?",
+          "choices": [
+            "The official public prayer of the Church",
+            "A private prayer you say only at bedtime",
+            "The book of Bible stories used in class",
+            "A holiday from school on a saint's day"
+          ],
+          "answer": 0,
+          "explain": "Liturgy means the official public prayer of the Church."
+        },
+        {
+          "id": "r02",
+          "lesson": "vocab",
+          "q": "Which list names what the liturgy includes?",
+          "choices": [
+            "Only private prayers and school chapel songs",
+            "The Eucharist (Mass), the other sacraments, and the Liturgy of the Hours",
+            "Advent, Lent, and summer vacation",
+            "The Psalms only, with no Mass and no sacraments"
+          ],
+          "answer": 1,
+          "explain": "Three parts: the Eucharist, the other sacraments, and the Liturgy of the Hours."
+        },
+        {
+          "id": "r03",
+          "lesson": "vocab",
+          "q": "What does it mean to venerate Mary and the saints?",
+          "choices": [
+            "To worship them as if they were God",
+            "To show them honor and devotion",
+            "To forget them during the liturgical year",
+            "To celebrate their feasts only in Ordinary Time"
+          ],
+          "answer": 1,
+          "explain": "Venerate means honor and devotion. Worship belongs to God alone."
+        },
+        {
+          "id": "r04",
+          "lesson": "vocab",
+          "q": "What do we celebrate throughout the liturgical year?",
+          "choices": [
+            "Only the birth of Jesus",
+            "The entire mystery of Christ",
+            "The history of the Jewish kings",
+            "Only the rules of the Church building"
+          ],
+          "answer": 1,
+          "explain": "The liturgical year celebrates the whole mystery of Christ, season by season."
+        },
+        {
+          "id": "r05",
+          "lesson": "vocab",
+          "q": "Which sentence is true about the early Church?",
+          "choices": [
+            "They refused every Jewish custom and never prayed the Psalms",
+            "They followed many Jewish customs of prayer and worship, prayed the Psalms, and kept the Sabbath",
+            "They invented Advent, Lent, and the Triduum in the first week",
+            "They celebrated Sunday because it was the spring equinox"
+          ],
+          "answer": 1,
+          "explain": "The early Church kept Jewish customs of prayer, including the Psalms and the Sabbath."
+        },
+        {
+          "id": "r06",
+          "lesson": "vocab",
+          "q": "Why do Catholics celebrate Sunday as the Sabbath?",
+          "choices": [
+            "Because the spring equinox always falls on Sunday",
+            "Because Jesus rose from the dead on Sunday",
+            "Because the Temple in Jerusalem closed on Sunday",
+            "Because Lent always begins on Sunday"
+          ],
+          "answer": 1,
+          "explain": "Sunday is the Lord's Day, the day of the Resurrection."
+        },
+        {
+          "id": "r07",
+          "lesson": "vocab",
+          "q": "What is the spring equinox, and why does it matter for the Church year?",
+          "choices": [
+            "The sun crosses the equator, so day and night are about equal. That date helps set Easter and the Triduum",
+            "It is the darkest day of the year, and it begins Advent",
+            "It is the day the sun stops over Bethlehem, and it begins Christmas",
+            "It is a Jewish fast that replaced the Sabbath"
+          ],
+          "answer": 0,
+          "explain": "Day and night are about equal when the sun crosses the equator. Easter is set from that spring date."
+        },
+        {
+          "id": "r08",
+          "lesson": "seasons",
+          "q": "Which sentence is true about Advent?",
+          "choices": [
+            "It is green, lasts 50 days, and celebrates the Resurrection",
+            "It is purple, lasts four weeks, begins the Church calendar, and is a time of joyful preparation. A new reading cycle starts",
+            "It is white, begins on Ash Wednesday, and lasts 40 days",
+            "It is red, lasts three days, and is the same thing as the Triduum"
+          ],
+          "answer": 1,
+          "explain": "Advent: purple, four weeks, the start of the liturgical year, joyful preparation for Christ's coming. Reading cycles change, and the new cycle begins in Advent."
+        },
+        {
+          "id": "r09",
+          "lesson": "seasons",
+          "q": "Which sentence is true about Christmas?",
+          "choices": [
+            "The color is white. It begins with the birth of Jesus, is celebrated for 12 days, and the season ends with the Baptism of the Lord",
+            "The color is purple. It begins on Ash Wednesday and ends on Good Friday",
+            "The color is green. It is the longest season and ends on Christ the King",
+            "The color is red. It lasts three days and has no Mass"
+          ],
+          "answer": 0,
+          "explain": "White for joy. Christmas Day celebrates Jesus' birth. Twelve days of Christmas, and the season ends at the Baptism of the Lord."
+        },
+        {
+          "id": "r10",
+          "lesson": "seasons",
+          "q": "What is the focus of the first part of Ordinary Time?",
+          "choices": [
+            "A time of rest and continuing growth, with readings about Jesus' life and teaching. The color is green",
+            "A 40-day fast that begins on Ash Wednesday",
+            "The three days of the Paschal Mystery",
+            "A four-week wait before Christmas"
+          ],
+          "answer": 0,
+          "explain": "Green Ordinary Time focuses on continued growth and on Jesus' life and ministry."
+        },
+        {
+          "id": "r11",
+          "lesson": "seasons",
+          "q": "Which sentence is true about Lent?",
+          "choices": [
+            "It is white, lasts 12 days, and celebrates Jesus' birth",
+            "It is purple, lasts 40 days, begins on Ash Wednesday, and prepares us for Easter. The three pillars are prayer, fasting, and almsgiving",
+            "It is green, is the longest season, and ends on Trinity Sunday",
+            "It is red, lasts 3 days, and is another name for Easter"
+          ],
+          "answer": 1,
+          "explain": "Lent: purple, 40 days, Ash Wednesday, preparation for Easter. Pillars: prayer, fasting, almsgiving."
+        },
+        {
+          "id": "r12",
+          "lesson": "seasons",
+          "q": "What is the Triduum?",
+          "choices": [
+            "The first Sunday after Pentecost, when we honor the Father, the Son, and the Holy Spirit",
+            "Three days — Holy Thursday, Good Friday, and Holy Saturday — when we celebrate the Paschal Mystery. It is the greatest celebration of the Church. On this quiz its color is red",
+            "The 50 days after Easter Sunday",
+            "The four weeks of preparation before Christmas"
+          ],
+          "answer": 1,
+          "explain": "Triduum means three days. The whole liturgical year is centered on this celebration of the Paschal Mystery. Do not confuse it with Trinity Sunday."
+        },
+        {
+          "id": "r13",
+          "lesson": "seasons",
+          "q": "What is true about Good Friday?",
+          "choices": [
+            "It is the only day of the year with no Mass, and the Eucharist is not consecrated",
+            "It is the day the Church celebrates the most Masses of the year",
+            "The Eucharist is consecrated three times, at dawn, noon, and night",
+            "It is the start of Advent"
+          ],
+          "answer": 0,
+          "explain": "No Mass, and no consecration. The Church remembers Jesus' death. Communion that day uses hosts consecrated on Holy Thursday."
+        },
+        {
+          "id": "r14",
+          "lesson": "seasons",
+          "q": "Which sentence is true about the Easter season?",
+          "choices": [
+            "The color is white. We rejoice in Jesus' Resurrection and Ascension, and the season lasts 50 days",
+            "The color is purple. It lasts 4 weeks and starts the Church year",
+            "The color is green. It is a quiet season with no feast",
+            "The color is red. It lasts 40 days and begins on Ash Wednesday"
+          ],
+          "answer": 0,
+          "explain": "Easter is white, for joy. Resurrection and Ascension. Fifty days, through Pentecost."
+        },
+        {
+          "id": "r15",
+          "lesson": "seasons",
+          "q": "Which sentence is true about the second part of Ordinary Time?",
+          "choices": [
+            "It is the longest season, the color is green, the first Sunday after Pentecost is Trinity Sunday, and the last Sunday is Christ the King",
+            "It is the shortest season, the color is red, and it is called the Triduum",
+            "It begins on Ash Wednesday and ends on Good Friday",
+            "The first Sunday after Pentecost is the Triduum, and the last Sunday is Easter"
+          ],
+          "answer": 0,
+          "explain": "Longest season, green. Trinity Sunday is the first Sunday after Pentecost — not the Triduum. Christ the King closes the year."
+        },
+        {
+          "id": "r16",
+          "lesson": "vocab",
+          "tf": true,
+          "keepOrder": true,
+          "q": "The liturgy is only the Mass. The other sacraments and the Liturgy of the Hours are not part of it.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explain": "False. The liturgy includes the Eucharist, the other sacraments, AND the Liturgy of the Hours."
+        },
+        {
+          "id": "r17",
+          "lesson": "vocab",
+          "tf": true,
+          "keepOrder": true,
+          "q": "To venerate Mary means we worship her as God.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explain": "False. Venerate means to show honor and devotion. Worship is for God alone."
+        },
+        {
+          "id": "r18",
+          "lesson": "seasons",
+          "tf": true,
+          "keepOrder": true,
+          "q": "Advent begins the liturgical year and lasts four weeks.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explain": "True. Advent is the start of the Church calendar and lasts four weeks of joyful preparation."
+        },
+        {
+          "id": "r19",
+          "lesson": "seasons",
+          "tf": true,
+          "keepOrder": true,
+          "q": "Lent begins on Ash Wednesday and lasts 40 days.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explain": "True. Ash Wednesday starts the 40 days of prayer, fasting, and preparation for Easter."
+        },
+        {
+          "id": "r20",
+          "lesson": "seasons",
+          "tf": true,
+          "keepOrder": true,
+          "q": "Good Friday is the only day of the year when Mass is not celebrated.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explain": "True. There is no Mass on Good Friday."
+        },
+        {
+          "id": "r21",
+          "lesson": "seasons",
+          "tf": true,
+          "keepOrder": true,
+          "q": "The Eucharist is consecrated on Good Friday.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explain": "False. The Eucharist is not consecrated on Good Friday. There is no Mass that day."
+        },
+        {
+          "id": "r22",
+          "lesson": "seasons",
+          "tf": true,
+          "keepOrder": true,
+          "q": "The first Sunday after Pentecost is called the Triduum.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explain": "False. That Sunday is Trinity Sunday. The Triduum is Holy Thursday, Good Friday, and Holy Saturday."
+        },
+        {
+          "id": "r23",
+          "lesson": "seasons",
+          "tf": true,
+          "keepOrder": true,
+          "q": "Christ the King Sunday is the last Sunday of the liturgical year.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explain": "True. The second part of Ordinary Time ends with Christ the King."
+        },
+        {
+          "id": "r24",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: Advent's liturgical color is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "purple",
+                  "violet"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "purple (violet)",
+          "explain": "Advent is purple, a color of preparation. Violet counts too."
+        },
+        {
+          "id": "r25",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: Christmas's liturgical color is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "white"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "white",
+          "explain": "Christmas is white, the color of joy."
+        },
+        {
+          "id": "r26",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: the first part of Ordinary Time is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "green"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "green",
+          "explain": "Ordinary Time is green, for growth and hope."
+        },
+        {
+          "id": "r27",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: Lent's liturgical color is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "purple",
+                  "violet"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "purple (violet)",
+          "explain": "Lent is purple, like Advent. Violet counts too."
+        },
+        {
+          "id": "r28",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: on this quiz, the Triduum's color is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "red"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "red",
+          "explain": "The sheet marks the Triduum red because Good Friday is red."
+        },
+        {
+          "id": "r29",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: Easter's liturgical color is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "white"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "white",
+          "explain": "Easter is white, like Christmas."
+        },
+        {
+          "id": "r30",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "Color match: the second part of Ordinary Time is ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "green"
+                ]
+              ],
+              "placeholder": "Type the missing word"
+            }
+          ],
+          "answerText": "green",
+          "explain": "Both parts of Ordinary Time are green."
+        },
+        {
+          "id": "r31",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "How many weeks does Advent last?",
+          "fields": [
+            {
+              "kind": "number",
+              "value": 4,
+              "unit": "weeks",
+              "placeholder": "Type a number",
+              "alsoAccept": [
+                "four",
+                "four weeks",
+                "4 weeks"
+              ]
+            }
+          ],
+          "answerText": "4 weeks",
+          "explain": "Advent lasts four weeks."
+        },
+        {
+          "id": "r32",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "How many days does Lent last?",
+          "fields": [
+            {
+              "kind": "number",
+              "value": 40,
+              "unit": "days",
+              "placeholder": "Type a number",
+              "alsoAccept": [
+                "forty",
+                "forty days",
+                "40 days"
+              ]
+            }
+          ],
+          "answerText": "40 days",
+          "explain": "Lent lasts 40 days, from Ash Wednesday."
+        },
+        {
+          "id": "r33",
+          "lesson": "seasons",
+          "type": "input",
+          "label": "Fill in",
+          "q": "How many days does the Easter season last?",
+          "fields": [
+            {
+              "kind": "number",
+              "value": 50,
+              "unit": "days",
+              "placeholder": "Type a number",
+              "alsoAccept": [
+                "fifty",
+                "fifty days",
+                "50 days"
+              ]
+            }
+          ],
+          "answerText": "50 days",
+          "explain": "Easter lasts 50 days, from Easter Sunday to Pentecost."
+        },
+        {
+          "id": "r34",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Check for understanding: What is the purpose of the liturgical year?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "christ",
+                  "jesus",
+                  "mystery",
+                  "god"
+                ],
+                [
+                  "celebrat",
+                  "remember",
+                  "year",
+                  "life",
+                  "grow",
+                  "closer",
+                  "faith"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "The liturgical year helps us celebrate and remember the whole mystery of Christ — his life, death, and Resurrection — all year long, and to grow closer to God.",
+          "explain": "Mention celebrating or remembering Christ (or his mystery, or his life) through the year, or growing closer to God."
+        },
+        {
+          "id": "r35",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Check for understanding: Why do Catholics keep Sunday as the Sabbath?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "rose",
+                  "risen",
+                  "resurrection",
+                  "rising"
+                ],
+                [
+                  "sunday"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "Catholics celebrate Sunday as the Sabbath because it is the day Jesus rose from the dead.",
+          "explain": "Your answer needs the Resurrection (rose, risen, or Resurrection) AND the word Sunday."
+        },
+        {
+          "id": "r36",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Check for understanding: What are the three pillars of Lent?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "pray"
+                ],
+                [
+                  "fasting",
+                  "fast,",
+                  "fast.",
+                  "fast and",
+                  "to fast",
+                  "a fast",
+                  "fast "
+                ],
+                [
+                  "alms",
+                  "charity",
+                  "poor"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "The three pillars of Lent are prayer, fasting, and almsgiving.",
+          "explain": "Name all three: prayer, fasting, and almsgiving."
+        },
+        {
+          "id": "r37",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Check for understanding: What is the greatest and most important celebration of the Church?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "triduum",
+                  "paschal"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "The Easter Triduum is the greatest and most important celebration of the Church. During those three days we remember the Paschal Mystery, and the whole liturgical year is centered on it.",
+          "explain": "The Easter Triduum, when we celebrate the Paschal Mystery. \"Easter\" alone is the season; the greatest celebration is the Triduum."
+        },
+        {
+          "id": "r38",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Check for understanding: What event do we celebrate at Easter?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "resurrect",
+                  "rose",
+                  "risen"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "At Easter we celebrate Jesus' Resurrection. The Easter season also rejoices in his Ascension.",
+          "explain": "Jesus' Resurrection. You can also mention the Ascension."
+        },
+        {
+          "id": "r39",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Why is Advent purple, and what are we preparing for?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "prepar",
+                  "wait",
+                  "expect",
+                  "ready",
+                  "coming"
+                ],
+                [
+                  "christ",
+                  "jesus",
+                  "christmas"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "Advent is purple (violet), a color of preparation and waiting. It is a joyful time of getting ready for the coming of Christ.",
+          "explain": "Purple means preparation or waiting. We are preparing for the coming of Christ."
+        },
+        {
+          "id": "r40",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "What is the Paschal Mystery?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "death",
+                  "died",
+                  "cross",
+                  "suffer",
+                  "passion"
+                ],
+                [
+                  "resurrect",
+                  "rose",
+                  "risen",
+                  "ascension",
+                  "new life"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "The Paschal Mystery is Jesus' suffering, death, Resurrection, and Ascension — his passing through death into new life. We celebrate it most of all at the Triduum, and at every Mass.",
+          "explain": "Include Jesus' death (or suffering) AND his Resurrection or Ascension."
+        },
+        {
+          "id": "r41",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Why is Good Friday different from every other day of the year?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "mass",
+                  "eucharist",
+                  "consecrat"
+                ],
+                [
+                  "no mass",
+                  "no eucharist",
+                  "not consecrat",
+                  "isn't consecrat",
+                  "is not consecrat",
+                  "without mass",
+                  "without a mass",
+                  "only day",
+                  "don't",
+                  "do not",
+                  "cannot",
+                  "can't",
+                  "no celebration"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "Good Friday is different from every other day because it is the only day of the year with no Mass. The Eucharist is not consecrated on Good Friday. We remember Jesus' death on the cross. (People may still receive Communion from hosts consecrated on Holy Thursday.)",
+          "explain": "Say that there is no Mass, or that the Eucharist is not consecrated. It is the only day like that."
+        },
+        {
+          "id": "r42",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "Why is Ordinary Time green?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "life",
+                  "hope",
+                  "grow",
+                  "growth"
+                ],
+                [
+                  "jesus",
+                  "christ",
+                  "faith",
+                  "teach",
+                  "ministry",
+                  "ordinary",
+                  "gospel",
+                  "everyday"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "Green is the color of life, hope, and growth. Ordinary Time is when we keep growing in faith and listen to the stories of Jesus' everyday life and teaching.",
+          "explain": "Green stands for life, hope, or growth, and the season is about growing in faith or about Jesus' life and teaching."
+        },
+        {
+          "id": "r43",
+          "lesson": "review",
+          "type": "input",
+          "label": "Short answer",
+          "q": "What do the Christmas season and the Easter season have in common?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "white"
+                ],
+                [
+                  "joy",
+                  "joyful",
+                  "celebrat",
+                  "jesus",
+                  "christ",
+                  "birth",
+                  "resurrect",
+                  "happy",
+                  "glad"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "Christmas and Easter both use the color white, and both are joyful seasons of Jesus' life: his birth at Christmas, and his Resurrection at Easter.",
+          "explain": "Both are white, and both joyfully celebrate a mystery of Jesus (his birth, his Resurrection, or both)."
+        }
+      ]
+    }
+  ]
+},
 ];
