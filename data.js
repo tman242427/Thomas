@@ -3171,4 +3171,780 @@ window.SUBJECTS = [
     }
   ]
 },
+{
+  "id": "ela-jungle-whole",
+  "name": "ELA: Jungle Book",
+  "emoji": "🐯",
+  "tagline": "Whole Book Test (11/18)",
+  "intro": "Pick a mode to get ready for the Jungle Book whole-book test on 11/18. Study guide, flashcards, then the practice test. You've got this! 💪",
+  "lessons": [
+    {
+      "id": "jb",
+      "name": "Jungle Book"
+    },
+    {
+      "id": "sjb",
+      "name": "Second Book"
+    },
+    {
+      "id": "themes",
+      "name": "Themes"
+    },
+    {
+      "id": "chars",
+      "name": "Characters"
+    }
+  ],
+  "notes": [
+    {
+      "id": "jb",
+      "short": "Book 1",
+      "title": "The Jungle Book (Questions 1–8)",
+      "html": "<h2>The Jungle Book (Questions 1–8)</h2>\n<p>These stories are in the first book. Read each answer, then say it back in your own words. Your test is <strong>11/18</strong>.</p>\n<h3>1. Mowgli's Brothers — the price for Mowgli</h3>\n<p><strong>What price does Bagheera pay to buy Mowgli's acceptance into the Seeonee Wolf Pack?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> A bull, and a fat one, newly killed. The Law says that if the pack is unsure about a cub, his life can be bought with a bull killed near Council Rock. Bagheera the black panther pays that price, so the pack accepts Mowgli.</p></div>\n<h3>2. Mowgli's Brothers — the Red Flower</h3>\n<p><strong>How does Mowgli defend himself and Akela when Shere Khan tries to take over Council Rock?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Mowgli steals a pot of fire — the Red Flower — from the village. He lights a branch, beats Shere Khan over the head with it, and singes him. The wolves are terrified of fire, so he drives them off and saves Akela, the Lone Wolf, from being killed.</p></div>\n<h3>3. Kaa's Hunting — the rescue</h3>\n<p><strong>How does Kaa rescue Mowgli from the Bandar-log at the Cold Lairs?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> The monkeys trap Mowgli in a ruined summer-house. Baloo and Bagheera fight them first and are almost beaten. Then Kaa the python arrives, scatters the monkeys with huge blows, and smashes the marble wall so Mowgli can jump free. After that, Kaa's Hunger Dance hypnotizes the monkeys so they cannot chase the three friends. (The dance comes after the rescue. It even starts to pull Baloo and Bagheera in, so Mowgli leads them away.)</p></div>\n<h3>4. Tiger! Tiger! — the ravine</h3>\n<p><strong>How does Mowgli trap and defeat Shere Khan in the ravine?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Grey Brother and Akela (the Lone Wolf — they are two wolves, not the same wolf) help him split the village buffalo herd. Akela drives the bulls to the top of the dry ravine. Grey Brother holds the cows at the bottom so Shere Khan cannot slip out. Mowgli rides the lead bull, Rama, and the herd stampedes from both ends. The buffaloes trample Shere Khan to death. Mowgli skins him and later pegs the hide on Council Rock.</p></div>\n<h3>5. Tiger! Tiger! — driven out of the village</h3>\n<p><strong>Why do the villagers turn against Mowgli and exile him after he kills Shere Khan?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Buldeo, the hunter, wanted the 100-rupee reward and the tiger's hide. When he sees Mowgli give orders to Akela, he runs home with a story of sorcery. The villagers throw stones and shout \"Sorcerer! Wolf's brat! Jungle-demon!\" The priest waves them on. Messua warns Mowgli that they say he is a wizard who can turn into a beast. He leaves the village. He will not let the wolves hurt the people, because Messua was kind to him.</p></div>\n<h3>6. The White Seal — the guide</h3>\n<p><strong>Who finally guides Kotick to the secret, hunter-free island sanctuary?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Sea Cow (the sea cows). The walrus Sea Vitch only tells Kotick to go ask Sea Cow. Sea cows cannot talk, so Kotick follows them. They swim north and lead him through a long, dark tunnel under the sea to quiet beaches where men cannot land. Kotick then brings the other seals there.</p></div>\n<h3>7. Rikki-Tikki-Tavi — the last egg</h3>\n<p><strong>Why does Rikki-tikki leave one of Nagaina's eggs intact?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> He smashes the other eggs, then grabs the last one and races to the veranda. Nagaina is coiled by Teddy's chair, ready to strike. Rikki-tikki uses that last egg as bait: \"the very last of the brood.\" Nagaina turns away from Teddy to save it, and Teddy's father pulls the boy to safety. Rikki-tikki then follows her and finishes the fight.</p></div>\n<h3>8. Toomai of the Elephants and Her Majesty's Servants</h3>\n<p><strong>What common theme connects the animals to their human handlers?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Trust, loyalty, and obedience between animals and the people who know them. In \"Toomai of the Elephants,\" Kala Nag trusts Little Toomai, takes him to the secret elephant dance, and the drivers honor the boy because the elephants accept him. In \"Her Majesty's Servants,\" the camp animals — horses, mules, camels, bullocks, and elephants — each obey a rider or driver. The army works only because every animal and handler does a job and trusts the chain of command.</p></div>"
+    },
+    {
+      "id": "sjb",
+      "short": "Book 2",
+      "title": "The Second Jungle Book (Questions 9–17)",
+      "html": "<h2>The Second Jungle Book (Questions 9–17)</h2>\n<p>These stories finish Mowgli's life in the jungle and add other tales. Same test: <strong>11/18</strong>.</p>\n<h3>9. How Fear Came — the Water Truce</h3>\n<p><strong>Why are all the jungle animals allowed to drink together at the Waingunga without hunting each other?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> A terrible drought has dried the river until the Peace Rock shows. Hathi the elephant proclaims the Water Truce, as his father did before him. While the truce lasts, it is death to kill at the drinking places, so hunter and hunted can drink side by side.</p></div>\n<h3>10. How Fear Came — the First Tiger</h3>\n<p><strong>What mistake did the First Tiger make that brought shame and stripes upon his kind?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Tha, the First of the Elephants, made the First Tiger the judge of the jungle. In those days the tiger was yellow, with no stripes, and he ate fruit and grass. One night a buck pushed him. The tiger forgot he was the judge and broke the buck's neck. That was the first death in the jungle, so Death got in — and Fear followed. Tha ordered the trees and creepers to mark the killer. They drew stripes on his hide as he ran to the cave of Fear (Man). Tigers still wear those stripes of shame.</p></div>\n<h3>11. The Miracle of Purun Bhagat</h3>\n<p><strong>How do the wild Himalayan animals repay Purun Dass for sharing his food and shelter?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Purun Dass gives up his power, becomes the holy man Purun Bhagat, and shares his shrine and food with the animals. On a stormy night they will not sit by the fire. The langur monkey and the barasingh deer warn him that the mountain is falling. He rides the deer down to the village, leads the people across the valley to high ground, and dies after they are safe. The villagers call it a miracle.</p></div>\n<h3>12. Letting in the Jungle — why nobody is killed</h3>\n<p><strong>Why does Mowgli refuse to let the jungle animals kill the villagers when the town is destroyed?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> The young elephant says \"Kill, then.\" Mowgli answers that bones do him no good. Hathi asks, \"There will be no killing?\" because he does not want the smell of an old slaughter. Mowgli agrees: \"I do not wish even their bones to lie on the clean earth. Let them go and find a fresh lair.\" He has smelled the blood of Messua, the woman who fed him and whom the village would have killed. Only new grass on their doorsteps can take that smell away. So the animals let the jungle swallow the fields and huts, and the people run. He does not give \"hunters will come\" as his reason.</p></div>\n<h3>13. The Undertakers — the mugger's ending</h3>\n<p><strong>What ironic fate befalls the giant mugger crocodile?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> The mugger boasts about eating people. He still dreams of one miss: a little white child in a boat whose hands slipped between his teeth. The child's mother fired a pistol. Years later that same person — now an Englishman about five at the time, who built the railway bridge — shoots the mugger dead from the bridge with a heavy rifle. The child he failed to eat grows up and kills him.</p></div>\n<h3>14. The King's Ankus</h3>\n<p><strong>What happens to the jeweled goad after Mowgli throws it away?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> The ankus is an elephant goad, jeweled and cruel. The White Cobra who guards the treasure under the Cold Lairs warns that it is Death. Mowgli throws it into the forest. Six men die for it in one night: each killer is killed by the next, and the last deaths come by poison (the \"Apple of Death\"). Mowgli says the fault was his for bringing a man-thing into the jungle. He throws the ankus back into the treasure vault so it cannot kill again.</p></div>\n<h3>15. Quiquern</h3>\n<p><strong>What does the mysterious spirit dog Quiquern turn out to be?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> Not a spirit. Kotuko's two sled dogs got fastened together: the black leader's harness loop caught in the copper collar of Kotuko the dog. Side by side they looked like one animal with eight legs and two heads. That \"Quiquern\" led Kotuko and the girl over the ice to a safe islet and to food.</p></div>\n<h3>16. Red Dog</h3>\n<p><strong>How does Mowgli use the Little People of the Rocks to defeat the dholes?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> The Little People are the wild black bees of the Bee Rocks. Mowgli rubs himself with garlic so they will not sting him, then taunts the dholes (the red dogs) and races them across the rocks. He kicks the bee-hives open and leaps into the Waingunga, where Kaa's coils catch him. The bees rise in a roaring cloud, sting the pack, and many dholes fall into the river. The current sweeps them downstream to the wolves, who finish the fight.</p></div>\n<h3>17. The Spring Running</h3>\n<p><strong>Why does Mowgli feel sorrowful and out of place during the Time of New Talk?</strong></p>\n<div class=\"callout\"><p><strong>Answer:</strong> The Time of New Talk is spring, when the jungle runs, sings, and is full of new life. Mowgli runs too, but it does not quiet him. He is growing into a man. He feels a second step on his trail and is drawn toward people. Kaa tells him, \"Man goes to Man at the last, though the Jungle does not cast him out.\" He says goodbye to Baloo, Kaa, and the wolves and returns to humankind. The sorrow is the ache of not fitting the jungle anymore.</p></div>"
+    },
+    {
+      "id": "themes",
+      "short": "Themes",
+      "title": "Cross-Book Themes (Questions 18–20)",
+      "html": "<h2>Cross-Book Themes (Questions 18–20)</h2>\n<p>These are \"best answer\" ideas. Learn the model answer, then practice choosing the strongest choice on the quiz.</p>\n<h3>18. How Mowgli's identity changes</h3>\n<p><strong>How does Mowgli's identity shift from the beginning of <em>The Jungle Book</em> to the end of <em>The Second Jungle Book</em>?</strong></p>\n<div class=\"callout\"><p><strong>Model answer:</strong> At the start he is a baby bought into the Seeonee pack with a bull. He grows up as a wolf-brother and becomes Master of the Jungle, using the Law, fire, and his friends to beat Shere Khan. People cast him out as a sorcerer, but the jungle does not. By <em>The Spring Running</em> he is no longer at home in the Time of New Talk. He accepts that he is a man and goes back to people, with the jungle still his to call on. He moves from wolf-cub, to master between two worlds, to a young man who chooses humankind.</p></div>\n<h3>19. The Law of the Jungle and human laws</h3>\n<p><strong>Compare the Law of the Jungle with the laws and behavior of human society in these stories.</strong></p>\n<div class=\"callout\"><p><strong>Model answer:</strong> The Law of the Jungle is strict but fair. It tells animals how to hunt, how to buy a cub's life, when not to kill at the water (the Water Truce), and that a punishment settles the score with no nagging afterward. It protects the pack. Human society in the stories is often greedy, superstitious, and cruel: Buldeo wants the reward and calls Mowgli a demon, the village stones him and would kill Messua, and six men murder one another for a jeweled ankus. Kipling does not say every person is bad — Messua is kind, and some handlers truly know their animals — but the Law looks orderly next to human fear and greed.</p></div>\n<h3>20. Why the standalone stories matter</h3>\n<p><strong>How do stories like \"The White Seal,\" \"Rikki-Tikki-Tavi,\" and \"Quiquern\" reinforce the Mowgli tales?</strong></p>\n<div class=\"callout\"><p><strong>Model answer:</strong> They are not about Mowgli, but they repeat his themes in new places. Kotick searches the sea until he finds a home safe from hunters, just as Mowgli has to find where he belongs. Rikki-tikki shows courage and loyalty by protecting Teddy's family, the way Baloo, Bagheera, and Kaa protect Mowgli. Kotuko, lost on the ice, is led to safety by loyalty he does not understand at first. All three put a smaller hero against a dangerous world and ask what courage, loyalty, and a safe place to belong are worth. They also keep the nature-and-people theme: animals and humans share one world, sometimes as partners and sometimes as enemies.</p></div>"
+    },
+    {
+      "id": "chars",
+      "short": "Characters",
+      "title": "Characters to Know",
+      "html": "<h2>Characters to Know</h2>\n<div class=\"key-terms\">\n<p class=\"term-row\"><strong>Mowgli</strong> — The man's cub, raised by wolves. Becomes Master of the Jungle, then returns to people.</p>\n<p class=\"term-row\"><strong>Mother Wolf (Raksha)</strong> — Adopts Mowgli and defies Shere Khan at the cave.</p>\n<p class=\"term-row\"><strong>Akela</strong> — The Lone Wolf. Leader of the Seeonee pack until he misses a kill. Helps Mowgli trap Shere Khan.</p>\n<p class=\"term-row\"><strong>Grey Brother</strong> — Eldest of Mother Wolf's cubs and Mowgli's closest wolf brother. Brings news and helps drive the buffaloes.</p>\n<p class=\"term-row\"><strong>Baloo</strong> — The sleepy brown bear who teaches Mowgli the Law of the Jungle.</p>\n<p class=\"term-row\"><strong>Bagheera</strong> — The black panther. Buys Mowgli's place in the pack with a bull and gives him sharp advice.</p>\n<p class=\"term-row\"><strong>Shere Khan</strong> — The lame tiger (Lungri). Hunts Mowgli and is trampled by the buffaloes.</p>\n<p class=\"term-row\"><strong>Kaa</strong> — The great rock python. Breaks Mowgli out of the summer-house, dances the Hunger Dance, and catches him under the Bee Rocks.</p>\n<p class=\"term-row\"><strong>Bandar-log</strong> — The Monkey People. They have no Law, kidnap Mowgli, and take him to the Cold Lairs.</p>\n<p class=\"term-row\"><strong>Hathi</strong> — The wild elephant. Proclaims the Water Truce and, with his sons, lets the jungle into the village.</p>\n<p class=\"term-row\"><strong>Messua</strong> — The village woman who takes Mowgli in as her son. The pack will not harm the village because she was kind.</p>\n<p class=\"term-row\"><strong>Buldeo</strong> — The village hunter. Wants the tiger reward and tells the priest Mowgli is a sorcerer.</p>\n<p class=\"term-row\"><strong>Kotick</strong> — The white seal who spends years finding beaches where seal hunters cannot go.</p>\n<p class=\"term-row\"><strong>Sea Cow</strong> — The huge, silent sea cows who lead Kotick through the underwater tunnel.</p>\n<p class=\"term-row\"><strong>Rikki-tikki-tavi</strong> — A brave mongoose who saves Teddy's family from the cobras Nag and Nagaina.</p>\n<p class=\"term-row\"><strong>Nagaina</strong> — Nag's wife. She tries to kill Teddy to get her garden back. Rikki-tikki lures her off with her last egg.</p>\n<p class=\"term-row\"><strong>Little Toomai</strong> — An elephant-driver's son. Kala Nag carries him to the elephants' secret dance.</p>\n<p class=\"term-row\"><strong>Purun Bhagat</strong> — Once the powerful Sir Purun Dass. As a holy man he shares his food with wild animals, and they warn him of a landslide.</p>\n<p class=\"term-row\"><strong>Kotuko</strong> — The Inuit boy in \"Quiquern.\" His two tangled dogs become the \"spirit\" that leads him to safety.</p>\n<p class=\"term-row\"><strong>Dholes</strong> — The Red Dogs, a huge wild-dog pack. Mowgli breaks them with the bees and the wolves.</p>\n<p class=\"term-row\"><strong>White Cobra</strong> — The ancient white cobra who guards the king's treasure under the Cold Lairs and calls the ankus Death.</p>\n</div>\n<h3>Quick test traps</h3>\n<div class=\"callout\">\n<p>Akela <em>is</em> the Lone Wolf. Grey Brother is a different wolf.</p>\n<p>Kaa's Hunger Dance happens <em>after</em> he breaks the wall. It is not what pulls Mowgli out.</p>\n<p>Mowgli does not spare the village because he is afraid of hunters. He refuses their bones and lets the jungle take the fields.</p>\n<p>The mugger's \"child\" was about five, not a baby in arms. The boy lives, and that man later shoots him.</p>\n<p style=\"margin-bottom:0\">Quiquern is two real dogs stuck together, not a ghost.</p>\n</div>"
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "In \"Mowgli's Brothers,\" what price does Bagheera pay so the pack will accept Mowgli?",
+      "def": "A bull, and a fat one, newly killed, near Council Rock. The Law says a cub's life can be bought at that price.",
+      "lesson": "jb",
+      "front": "Question · Mowgli's Brothers",
+      "back": "Answer"
+    },
+    {
+      "term": "How does Mowgli defend himself and Akela at Council Rock?",
+      "def": "He brings the Red Flower (fire) in a pot, beats Shere Khan with a burning branch, singes him, and drives the frightened wolves away.",
+      "lesson": "jb",
+      "front": "Question · Mowgli's Brothers",
+      "back": "Answer"
+    },
+    {
+      "term": "How does Kaa rescue Mowgli at the Cold Lairs?",
+      "def": "After Baloo and Bagheera fight the monkeys, Kaa scatters the Bandar-log and smashes the summer-house wall so Mowgli can escape. Then the Hunger Dance holds the monkeys.",
+      "lesson": "jb",
+      "front": "Question · Kaa's Hunting",
+      "back": "Answer"
+    },
+    {
+      "term": "How does Mowgli kill Shere Khan?",
+      "def": "Grey Brother and Akela split the buffalo herd and stampede it from both ends of a ravine. The buffaloes trample the tiger.",
+      "lesson": "jb",
+      "front": "Question · Tiger! Tiger!",
+      "back": "Answer"
+    },
+    {
+      "term": "Why do the villagers drive Mowgli out?",
+      "def": "Buldeo wanted the reward for the hide. He calls Mowgli a sorcerer. The village stones him and shouts that he is a wolf-demon who can turn into a beast.",
+      "lesson": "jb",
+      "front": "Question · Tiger! Tiger!",
+      "back": "Answer"
+    },
+    {
+      "term": "Who leads Kotick to the safe island?",
+      "def": "Sea Cow. The sea cows lead him through a dark tunnel under the sea to beaches where hunters cannot land.",
+      "lesson": "jb",
+      "front": "Question · The White Seal",
+      "back": "Answer"
+    },
+    {
+      "term": "Why does Rikki-tikki keep one of Nagaina's eggs?",
+      "def": "He uses the last egg as bait to lure Nagaina away from Teddy on the veranda.",
+      "lesson": "jb",
+      "front": "Question · Rikki-Tikki-Tavi",
+      "back": "Answer"
+    },
+    {
+      "term": "What theme connects \"Toomai of the Elephants\" and \"Her Majesty's Servants\"?",
+      "def": "Trust, loyalty, and obedience between animals and the people who handle them.",
+      "lesson": "jb",
+      "front": "Question · Toomai / Servants",
+      "back": "Answer"
+    },
+    {
+      "term": "Why may the animals drink together at the Waingunga without hunting?",
+      "def": "The Water Truce. In a drought the Peace Rock shows, and Hathi forbids killing at the drinking places.",
+      "lesson": "sjb",
+      "front": "Question · How Fear Came",
+      "back": "Answer"
+    },
+    {
+      "term": "What mistake brought the tiger his stripes?",
+      "def": "The First Tiger, the judge, killed a buck who pushed him — the first death. Trees and creepers striped him as he ran, and Death and Fear entered the jungle.",
+      "lesson": "sjb",
+      "front": "Question · How Fear Came",
+      "back": "Answer"
+    },
+    {
+      "term": "How do the animals repay Purun Bhagat?",
+      "def": "They warn him that the mountain is falling. He leads the villagers to safety and then dies.",
+      "lesson": "sjb",
+      "front": "Question · Purun Bhagat",
+      "back": "Answer"
+    },
+    {
+      "term": "Why won't Mowgli let the animals kill the villagers?",
+      "def": "Bones do him no good. He will not leave their bodies on the earth. He lets them run and has the jungle swallow the fields so new grass replaces the smell of Messua's blood.",
+      "lesson": "sjb",
+      "front": "Question · Letting in the Jungle",
+      "back": "Answer"
+    },
+    {
+      "term": "What ironic end does the mugger meet?",
+      "def": "The Englishman who shoots him from the bridge is the child whose hands once slipped through the mugger's teeth. The boy was about five. The man he missed grows up and kills him.",
+      "lesson": "sjb",
+      "front": "Question · The Undertakers",
+      "back": "Answer"
+    },
+    {
+      "term": "What happens to the jeweled ankus after Mowgli throws it away?",
+      "def": "Six men kill or are killed for it in one night. Mowgli brings it back to the White Cobra's treasure under the Cold Lairs.",
+      "lesson": "sjb",
+      "front": "Question · The King's Ankus",
+      "back": "Answer"
+    },
+    {
+      "term": "What is Quiquern really?",
+      "def": "Kotuko's two sled dogs, stuck together by a harness and a collar, so they look like one dog with eight legs and two heads.",
+      "lesson": "sjb",
+      "front": "Question · Quiquern",
+      "back": "Answer"
+    },
+    {
+      "term": "How do the Little People of the Rocks defeat the dholes?",
+      "def": "Mowgli (rubbed with garlic) leads the dholes over the Bee Rocks. The bees sting them. He jumps to Kaa in the river, and the wolves fight the dholes downstream.",
+      "lesson": "sjb",
+      "front": "Question · Red Dog",
+      "back": "Answer"
+    },
+    {
+      "term": "Why is Mowgli sorrowful in the Time of New Talk?",
+      "def": "Spring fills the animals, but he is growing into a man and no longer fits the jungle. He is drawn back to people. The jungle does not cast him out.",
+      "lesson": "sjb",
+      "front": "Question · The Spring Running",
+      "back": "Answer"
+    },
+    {
+      "term": "How does Mowgli's identity change across the two books?",
+      "def": "He begins as a wolf-cub bought with a bull, becomes Master of the Jungle, and at the end accepts that he is a man and returns to people.",
+      "lesson": "themes",
+      "front": "Question · Themes",
+      "back": "Answer"
+    },
+    {
+      "term": "How is the Law of the Jungle different from human behavior in the stories?",
+      "def": "The Law is fair, orderly, and protects the pack. Humans are often greedy, superstitious, and cruel — though some, like Messua, are kind.",
+      "lesson": "themes",
+      "front": "Question · Themes",
+      "back": "Answer"
+    },
+    {
+      "term": "How do \"The White Seal,\" \"Rikki-Tikki-Tavi,\" and \"Quiquern\" fit the Mowgli stories?",
+      "def": "They repeat courage, loyalty, and the search for a safe place to belong, and they show animals and people sharing one world.",
+      "lesson": "themes",
+      "front": "Question · Themes",
+      "back": "Answer"
+    },
+    {
+      "term": "Mowgli",
+      "def": "A boy raised by the Seeonee wolves. He becomes Master of the Jungle, kills Shere Khan, and at last goes back to people.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Mother Wolf (Raksha)",
+      "def": "She adopts baby Mowgli and faces Shere Khan when he comes to the cave.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Father Wolf",
+      "def": "He finds the baby and, with Mother Wolf, brings Mowgli to Council Rock.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Akela",
+      "def": "The Lone Wolf, leader of the pack. Mowgli saves him with fire. Later he helps stampede the buffaloes. He is not a second wolf besides \"the Lone Wolf\" — that is his name.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Grey Brother",
+      "def": "Mowgli's wolf brother. He spies on Shere Khan and helps split the buffalo herd.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Baloo",
+      "def": "The brown bear who teaches Mowgli the Law. He is badly hurt fighting the monkeys.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Bagheera",
+      "def": "The black panther who pays a fat, newly killed bull so the pack will accept Mowgli.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Shere Khan",
+      "def": "The lame tiger who wants Mowgli dead. He is singed by the Red Flower, then trampled by buffaloes in a ravine.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Kaa",
+      "def": "The rock python. He smashes the summer-house wall, dances the Hunger Dance, and catches Mowgli in the river under the Bee Rocks.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Bandar-log",
+      "def": "The Monkey People. Lawless and foolish, they kidnap Mowgli and carry him to the Cold Lairs, a ruined city.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Hathi",
+      "def": "The wild elephant. He proclaims the Water Truce and later lets the jungle destroy the village.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Messua",
+      "def": "The woman who mothers Mowgli in the village. Her kindness is why he will not let the wolves hunt the street.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Buldeo",
+      "def": "The village hunter. He wants the 100 rupees for Shere Khan's hide and spreads the story that Mowgli is a sorcerer.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Kotick",
+      "def": "The white seal. After he sees hunters club the seals, he searches the oceans for a beach they cannot reach.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Sea Cow",
+      "def": "Silent sea cows. They guide Kotick through an underwater tunnel to the safe island. (Sea Vitch the walrus only tells him to ask them.)",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Rikki-tikki-tavi",
+      "def": "A mongoose who guards an English family in India and kills the cobras Nag and Nagaina.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Nag and Nagaina",
+      "def": "Two cobras. Nag is killed in the bathroom. Nagaina comes for Teddy, and Rikki-tikki lures her away with her last egg.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Little Toomai",
+      "def": "A mahout's son. The elephant Kala Nag takes him to see the elephants dance, a sight no person was supposed to see.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Kala Nag",
+      "def": "The old elephant who trusts Toomai's family and carries Little Toomai to the dance.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Purun Bhagat",
+      "def": "Sir Purun Dass, who leaves power to live as a holy man. The animals he fed warn him of a landslide, and he saves the village.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Kotuko",
+      "def": "An Inuit boy in \"Quiquern.\" Starving on the ice, he follows what he thinks is a spirit dog.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Quiquern",
+      "def": "Seems to be an eight-legged spirit dog. It is really Kotuko's two dogs tangled together by harness and collar.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Dholes",
+      "def": "The Red Dogs, a fierce wild pack. Mowgli leads them onto the Bee Rocks so the Little People (bees) can break them.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Little People of the Rocks",
+      "def": "The wild black bees who live in the Bee Rocks. Their stings defeat most of the dholes.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "White Cobra",
+      "def": "Guards the king's treasure under the Cold Lairs. He calls the jeweled ankus Death.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "The Red Flower",
+      "def": "The jungle name for fire. Beasts fear it. Mowgli uses it to save Akela and drive Shere Khan off Council Rock.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Council Rock",
+      "def": "The hill where the wolf pack meets. Mowgli is accepted there, and he later spreads Shere Khan's hide on the stone.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Cold Lairs",
+      "def": "A ruined city where the Bandar-log live. Kaa rescues Mowgli from the summer-house there. The king's treasure is underneath.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Water Truce",
+      "def": "Hathi's peace during a drought, announced when the Peace Rock shows. No killing at the drinking places.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    },
+    {
+      "term": "Time of New Talk",
+      "def": "Spring, when animals run and sing. Mowgli feels out of place and knows he must go to Man.",
+      "lesson": "chars",
+      "front": "Term",
+      "back": "Definition"
+    }
+  ],
+  "tests": [
+    {
+      "id": "whole",
+      "name": "Whole Book Practice Test",
+      "desc": "All 20 questions · multiple choice, 4 typed answers, and 3 best-answer theme questions · in test order",
+      "questions": [
+        {
+          "id": "wb01",
+          "lesson": "jb",
+          "q": "1. In \"Mowgli's Brothers,\" what price does Bagheera pay to buy Mowgli's acceptance into the Seeonee Wolf Pack?",
+          "choices": [
+            "A bull, and a fat one, newly killed near Council Rock",
+            "Shere Khan's striped hide",
+            "A herd of village buffaloes",
+            "The jeweled ankus from the Cold Lairs"
+          ],
+          "answer": 0,
+          "explain": "The Law says a doubted cub's life is bought with a bull, and a fat one. Bagheera pays with a bull he has newly killed."
+        },
+        {
+          "id": "wb02",
+          "lesson": "jb",
+          "q": "2. In \"Mowgli's Brothers,\" how does Mowgli defend himself and Akela when Shere Khan tries to take over Council Rock?",
+          "choices": [
+            "He stampedes buffaloes over the tiger at the Rock",
+            "He brings the Red Flower — fire — beats Shere Khan with a burning branch, singes him, and drives the wolves off",
+            "He asks Kaa to hypnotize the pack with the Hunger Dance",
+            "He leads the pack across the Bee Rocks so the bees will attack Shere Khan"
+          ],
+          "answer": 1,
+          "explain": "Bagheera tells him to steal the Red Flower from the village. Fire is the one thing the council fears. The buffalo trap comes later, in \"Tiger! Tiger!\""
+        },
+        {
+          "id": "wb03",
+          "lesson": "jb",
+          "q": "3. In \"Kaa's Hunting,\" how does Kaa rescue Mowgli from the Bandar-log at the Cold Lairs?",
+          "choices": [
+            "Kaa's Hunger Dance pulls Mowgli out while Baloo and Bagheera are still fighting",
+            "Baloo and Bagheera fight first. Kaa then scatters the monkeys and smashes the summer-house wall so Mowgli can escape. The Hunger Dance comes after, to hold the monkeys",
+            "Hathi knocks the city wall down and carries Mowgli out on his trunk",
+            "Mowgli walks out alone after he gives the Snake's Call, and Kaa never reaches the city"
+          ],
+          "answer": 1,
+          "explain": "Order matters. The bears and the panther are losing. Kaa breaks the wall to free Mowgli. The Hunger Dance is how he keeps the monkeys from following — it is not the rescue itself."
+        },
+        {
+          "id": "wb04",
+          "lesson": "jb",
+          "q": "4. In \"Tiger! Tiger!,\" how does Mowgli trap and defeat Shere Khan in the ravine?",
+          "choices": [
+            "With Grey Brother and Akela he splits the buffalo herd and stampedes it from both ends of the ravine. The buffaloes trample Shere Khan",
+            "He and Buldeo shoot the tiger with the old Tower musket",
+            "He sets the ravine grass on fire and burns the tiger",
+            "Akela fights Shere Khan alone while Mowgli watches from the village gate"
+          ],
+          "answer": 0,
+          "explain": "Akela drives the bulls to the head of the ravine. Grey Brother blocks the foot with the cows. Akela is the Lone Wolf — Grey Brother is a different wolf."
+        },
+        {
+          "id": "wb05",
+          "lesson": "jb",
+          "type": "input",
+          "label": "Short answer",
+          "q": "5. In \"Tiger! Tiger!,\" why do the villagers turn against Mowgli and exile him after he kills Shere Khan?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "sorcer",
+                  "wizard",
+                  "magic",
+                  "demon",
+                  "devil",
+                  "enchant",
+                  "beast",
+                  "turn"
+                ],
+                [
+                  "stone",
+                  "exile",
+                  "cast",
+                  "drove",
+                  "drive",
+                  "thrown",
+                  "throw",
+                  "shout",
+                  "shoot",
+                  "buldeo",
+                  "priest",
+                  "reward",
+                  "rupee",
+                  "bounty",
+                  "hide"
+                ]
+              ],
+              "placeholder": "A sentence or two is enough"
+            }
+          ],
+          "answerText": "Buldeo wanted the 100-rupee reward and the hide. He tells a tale of sorcery. The villagers stone Mowgli and call him a sorcerer, a wolf's brat, and a jungle-demon who can turn into a beast.",
+          "explain": "Include both ideas if you can: they think he is a sorcerer or demon, and they stone him or drive him out. Buldeo also wanted the bounty."
+        },
+        {
+          "id": "wb06",
+          "lesson": "jb",
+          "q": "6. In \"The White Seal,\" who finally guides Kotick to the secret, hunter-free island?",
+          "choices": [
+            "Sea Vitch the walrus, who swims the whole way with him",
+            "Kerick, a kind sealer who hides a beach from the other men",
+            "Sea Cow — the sea cows lead him through a tunnel under the sea",
+            "Sea Pig the porpoise, who finds the island during a storm"
+          ],
+          "answer": 2,
+          "explain": "Sea Vitch only says, \"Go and ask Sea Cow.\" Kotick follows the sea cows north, and they lead him through a dark underwater hole to safe beaches."
+        },
+        {
+          "id": "wb07",
+          "lesson": "jb",
+          "type": "input",
+          "label": "Short answer",
+          "q": "7. In \"Rikki-Tikki-Tavi,\" why does Rikki-tikki leave one of Nagaina's eggs intact?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "egg"
+                ],
+                [
+                  "bait",
+                  "lure",
+                  "draw",
+                  "away",
+                  "teddy",
+                  "distract",
+                  "trick",
+                  "save",
+                  "veranda",
+                  "family"
+                ]
+              ],
+              "placeholder": "A sentence or two is enough"
+            }
+          ],
+          "answerText": "He takes the last egg as bait and carries it to the veranda, where Nagaina is about to strike Teddy. She turns away from the boy to save the egg.",
+          "explain": "Your answer should mention the egg and why he keeps it: to lure Nagaina away from Teddy or the family."
+        },
+        {
+          "id": "wb08",
+          "lesson": "jb",
+          "q": "8. In \"Toomai of the Elephants\" and \"Her Majesty's Servants,\" what common theme connects the animals to their human handlers?",
+          "choices": [
+            "Animals should never trust a human, because every handler is a hunter",
+            "Both stories are about Mowgli learning to ride in the queen's army",
+            "Trust, loyalty, and obedience: Kala Nag accepts Toomai, and the camp animals each obey the person who handles them",
+            "The theme is that fire, the Red Flower, is the only way to control elephants and horses"
+          ],
+          "answer": 2,
+          "explain": "Toomai is honored because the elephants trust him. The camp animals in \"Her Majesty's Servants\" explain how each one obeys a driver so the whole army can work."
+        },
+        {
+          "id": "wb09",
+          "lesson": "sjb",
+          "q": "9. In \"How Fear Came,\" why are the jungle animals temporarily allowed to drink together at the Waingunga without hunting each other?",
+          "choices": [
+            "Mowgli orders a holiday after he kills Shere Khan",
+            "The Water Truce: a great drought uncovers the Peace Rock, and Hathi forbids killing at the drinking places",
+            "The First Tiger promises one night a year when no animal may be afraid",
+            "The monkeys declare peace at the Cold Lairs"
+          ],
+          "answer": 1,
+          "explain": "When the Peace Rock shows, Hathi proclaims the Water Truce. Until the rains return, hunter and hunted may drink side by side."
+        },
+        {
+          "id": "wb10",
+          "lesson": "sjb",
+          "q": "10. In Hathi's tale in \"How Fear Came,\" what mistake did the First Tiger make that brought shame and stripes?",
+          "choices": [
+            "He was born striped, and he refused Tha's offer to be judge of the jungle",
+            "He was the judge, but when a buck pushed him he killed it — the first death. The trees and creepers striped him as he ran, and Death and Fear entered the jungle",
+            "He showed mercy to Man, so Tha painted him as a punishment for being too kind",
+            "The Gray Ape scratched the stripes into him for telling the truth"
+          ],
+          "answer": 1,
+          "explain": "He forgot he was judge and broke the buck's neck. That killing let Death in, and Fear followed. The stripes are the mark Tha ordered so the killer could be known."
+        },
+        {
+          "id": "wb11",
+          "lesson": "sjb",
+          "q": "11. In \"The Miracle of Purun Bhagat,\" how do the wild animals repay him for sharing food and shelter?",
+          "choices": [
+            "They plow his fields and bring him gold from the village",
+            "They warn him that the hillside is about to fall, and he leads the villagers to safety before he dies",
+            "They drive the village away so he can keep the shrine to himself",
+            "They teach him the Law of the Jungle and make him Master of the pack"
+          ],
+          "answer": 1,
+          "explain": "The langur and the barasingh deer will not rest. Purun Bhagat understands the mountain is falling, wakes the village, and dies after the people reach high ground."
+        },
+        {
+          "id": "wb12",
+          "lesson": "sjb",
+          "q": "12. In \"Letting in the Jungle,\" why does Mowgli refuse to let the animals kill the villagers?",
+          "choices": [
+            "He is afraid that killing men will bring hunters with guns, so he hides until the village forgets him",
+            "The Law says he must kill every person who hurt Messua, and he only waits for a better night",
+            "Bones do him no good, and he will not leave their bodies on the clean earth. He lets the people run and has the jungle swallow the fields, because only new grass can replace the smell of Messua's blood",
+            "Bagheera has already eaten Buldeo, so there is nobody left to punish"
+          ],
+          "answer": 2,
+          "explain": "Hathi asks, \"There will be no killing?\" Mowgli agrees. The punishment is letting the jungle in, not a slaughter. \"Hunters will come\" is not the reason he gives."
+        },
+        {
+          "id": "wb13",
+          "lesson": "sjb",
+          "q": "13. In \"The Undertakers,\" what ironic fate befalls the giant mugger?",
+          "choices": [
+            "The jackal talks him into leaving the river, and he dries up on the road",
+            "Mowgli skins him and pegs the hide on Council Rock",
+            "An Englishman shoots him from the railway bridge. Years before, when that man was a little boy about five, the mugger had tried to catch his hands and missed",
+            "The adjutant crane pecks through his neck plates while he sleeps"
+          ],
+          "answer": 2,
+          "explain": "The mugger boasts of the child whose hands slipped between his teeth, and whose mother fired a pistol. That child grows up to be the man on the bridge. He was about five, not a baby in arms."
+        },
+        {
+          "id": "wb14",
+          "lesson": "sjb",
+          "q": "14. In \"The King's Ankus,\" what happens to the jeweled goad after Mowgli throws it away?",
+          "choices": [
+            "Bagheera keeps it as a toy, and no one else ever sees it",
+            "Men kill for it — six die in one night — so Mowgli returns it to the treasure under the Cold Lairs",
+            "Hathi snaps it in half and buries the jewels",
+            "The White Cobra melts it and the curse ends at once"
+          ],
+          "answer": 1,
+          "explain": "The ankus is Death, just as the White Cobra warned. Six men die for it. Mowgli throws it back into the vault so it will not kill a seventh."
+        },
+        {
+          "id": "wb15",
+          "lesson": "sjb",
+          "q": "15. In \"Quiquern,\" what does the mysterious spirit dog turn out to be?",
+          "choices": [
+            "A real eight-legged ghost sent by the sea goddess Sedna",
+            "Kotuko's two dogs, fastened together by a harness and a collar so they look like one animal with eight legs and two heads",
+            "One dog wearing a spare harness that drags behind him",
+            "A polar bear that Kotuko mistook for a dog in the dark"
+          ],
+          "answer": 1,
+          "explain": "The black leader's harness loop cinched tight in Kotuko-the-dog's copper collar. The girl laughs: \"Look at his eight legs and double head!\""
+        },
+        {
+          "id": "wb16",
+          "lesson": "sjb",
+          "type": "input",
+          "label": "Short answer",
+          "q": "16. In \"Red Dog,\" how does Mowgli use the Little People of the Rocks (the wild bees) to defeat the dholes?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "bee",
+                  "little people"
+                ],
+                [
+                  "dhole",
+                  "red dog"
+                ],
+                [
+                  "rock",
+                  "sting",
+                  "river",
+                  "kaa",
+                  "waingunga",
+                  "wolf",
+                  "pack"
+                ]
+              ],
+              "placeholder": "A sentence or two is enough"
+            }
+          ],
+          "answerText": "He rubs on garlic so the bees will not sting him, leads the dholes over the Bee Rocks, and leaps into the river where Kaa catches him. The bees sting the dholes, many fall into the water, and the wolves fight them downstream.",
+          "explain": "Mention the bees or the Little People, the dholes (red dogs), and the trick: the rocks, the stings, the river, or Kaa."
+        },
+        {
+          "id": "wb17",
+          "lesson": "sjb",
+          "type": "input",
+          "label": "Short answer",
+          "q": "17. In \"The Spring Running,\" why does Mowgli feel sorrowful and out of place during the Time of New Talk?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "man",
+                  "human",
+                  "people",
+                  "person",
+                  "men",
+                  "grown",
+                  "growing"
+                ],
+                [
+                  "spring",
+                  "new talk",
+                  "belong",
+                  "fit",
+                  "sorrow",
+                  "sad",
+                  "drawn",
+                  "lonely",
+                  "out of place",
+                  "no longer",
+                  "doesn't fit",
+                  "does not fit",
+                  "not a wolf",
+                  "leave the jungle",
+                  "back to"
+                ]
+              ],
+              "placeholder": "A sentence or two is enough"
+            }
+          ],
+          "answerText": "He is growing into a man. Spring (the Time of New Talk) fills the animals with joy, but he feels restless and sad because he no longer fits the jungle. He is drawn back to people. The jungle does not cast him out.",
+          "explain": "A good answer says he is becoming a man (or is drawn to people) and that he feels sad, out of place, or unfit for the jungle in spring."
+        },
+        {
+          "id": "wb18",
+          "lesson": "themes",
+          "q": "18. How does Mowgli's identity shift from the beginning of The Jungle Book to the end of The Second Jungle Book?",
+          "choices": [
+            "He starts as a wolf-cub bought into the pack, becomes Master of the Jungle, and at the end accepts that he is a man and returns to people. The jungle does not cast him out",
+            "He remains a wolf for both books and never thinks about people again",
+            "The pack drives him out at the end of The Spring Running, and he is forbidden to remember the jungle",
+            "He takes Shere Khan's place and rules the jungle as a tiger"
+          ],
+          "answer": 0,
+          "explain": "Best answer: wolf-cub, then Master of the Jungle, then a young man who chooses humankind. Kaa says, \"Man goes to Man at the last, though the Jungle does not cast him out.\"",
+          "label": "Best answer"
+        },
+        {
+          "id": "wb19",
+          "lesson": "themes",
+          "q": "19. Which statement best compares the Law of the Jungle with human society in Kipling's stories?",
+          "choices": [
+            "The Law is only \"kill or be killed,\" and human villages are always kinder and more orderly",
+            "There is no real difference: animals and people break every promise",
+            "The Law is fair and orderly and protects the pack — it even stops killing during the Water Truce. People in the stories are often greedy, superstitious, and cruel, as when the village stones Mowgli or men kill for the ankus",
+            "Human law is the model for the jungle, and Baloo teaches Mowgli the village rules"
+          ],
+          "answer": 2,
+          "explain": "Best answer: the Law protects the weak of the pack and settles scores cleanly. Human crowds in these stories often act from greed and fear. Messua is the reminder that not every person is cruel.",
+          "label": "Best answer"
+        },
+        {
+          "id": "wb20",
+          "lesson": "themes",
+          "q": "20. How do standalone stories like \"The White Seal,\" \"Rikki-Tikki-Tavi,\" and \"Quiquern\" reinforce the Mowgli tales?",
+          "choices": [
+            "They are filler stories and do not share any ideas with Mowgli's life",
+            "They show the same themes — courage, loyalty, and finding a safe place to belong — with other heroes, and they keep exploring how animals and people share one world",
+            "Each one proves that only humans matter and animals cannot be loyal",
+            "All three are secret chapters about Shere Khan's cubs"
+          ],
+          "answer": 1,
+          "explain": "Best answer: Kotick's search for a safe home, Rikki-tikki's loyalty to a family, and Kotuko's rescue on the ice echo Mowgli's courage, loyalty, and question of where he belongs.",
+          "label": "Best answer"
+        }
+      ]
+    }
+  ]
+},
 ];
