@@ -44,11 +44,14 @@
     var m = MAP.markers[name];
     return "left:" + (m[0] / MAP.width * 100).toFixed(3) + "%;top:" + (m[1] / MAP.height * 100).toFixed(3) + "%";
   }
+  function kidName() {
+    return (window.APP_CONFIG && window.APP_CONFIG.name) || "Thomas";
+  }
   function scoreWords(pct) {
-    if (pct === 100) return ["🏆", "Perfect score!", "Every single one right. Awesome, Thomas!"];
+    if (pct === 100) return ["🏆", "Perfect score!", "Every single one right. Awesome, " + kidName() + "!"];
     if (pct >= 80) return ["🎉", "Great job!", "You really know your map. Check the few you missed."];
     if (pct >= 60) return ["👍", "Nice work!", "Almost there. Look over the ones you missed and try again."];
-    return ["💪", "Keep practicing!", "Check the answers below, then try again. You've got this, Thomas!"];
+    return ["💪", "Keep practicing!", "Check the answers below, then try again. You've got this, " + kidName() + "!"];
   }
 
   // =========================================================

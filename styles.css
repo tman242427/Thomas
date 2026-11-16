@@ -639,6 +639,16 @@ body {
 .flash-front, .flash-back { overflow-y: auto; }
 .practice-box ul { margin-bottom: 0; }
 .footer-note { text-align: center; color: var(--text-muted); font-size: 0.8rem; margin-top: 26px; }
+.site-switch {
+  display: inline-block;
+  margin-top: 16px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+.site-switch:hover, .site-switch:focus { color: var(--teal); outline: none; }
+.topbar-titles .site-switch { margin-top: 2px; font-size: 0.72rem; font-weight: 600; letter-spacing: 0; text-transform: none; }
 
 /* Taller flashcards for long answers (e.g. ELA short-answer model answers) */
 .flashcard.tall, .flashcard.tall .flash-inner { min-height: 440px; }

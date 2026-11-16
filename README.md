@@ -1,1 +1,1 @@
-Thomas's Science Lab - study guide, flashcards and practice quizzes
+Thomas's Study Lab (6th grade) and Elizabeth's Study Lab (5th grade, in /elizabeth/) — study guides, flashcards, and practice quizzes.

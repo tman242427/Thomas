@@ -567,9 +567,10 @@
     $("#results-score").textContent = right + " / " + total + " (" + pct + "%)";
 
     let emoji = "🌟", title = "Amazing!", msg = "You're ready for that test!";
+    const kid = CFG.name || "Thomas";
     if (pct < 60) {
       emoji = "💪"; title = "Keep practicing!";
-      msg = "Review the missed questions below, then try again. You've got this, Thomas!";
+      msg = "Review the missed questions below, then try again. You've got this, " + kid + "!";
     } else if (pct < 80) {
       emoji = "👍"; title = "Nice work!";
       msg = "Almost there. Look over the ones you missed and try again.";
@@ -577,7 +578,7 @@
       emoji = "🎉"; title = "Great job!";
       msg = "You really know this stuff. Check the few you missed.";
     } else {
-      emoji = "🏆"; title = "Perfect score!"; msg = "Every single one right. Awesome, Thomas!";
+      emoji = "🏆"; title = "Perfect score!"; msg = "Every single one right. Awesome, " + kid + "!";
     }
     $("#results-emoji").textContent = emoji;
     $("#results-title").textContent = title;

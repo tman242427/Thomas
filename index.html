@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="apple-mobile-web-app-title" content="Thomas's Science Lab" />
+  <meta name="apple-mobile-web-app-title" content="Thomas's Study Lab" />
   <meta name="theme-color" content="#0a1628" />
   <meta name="robots" content="noindex, nofollow" />
-  <title>Thomas's Science Lab</title>
+  <title>Thomas's Study Lab</title>
+  <link rel="icon" href="data:,">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -16,13 +17,14 @@
   <div id="gate" class="gate">
     <div class="gate-card">
       <div class="gate-icon">🔬</div>
-      <h1>Thomas's Science Lab</h1>
-      <p class="gate-sub">Enter the password to start studying</p>
+      <h1>Thomas's Study Lab</h1>
+      <p class="gate-sub">6th grade · Enter the password to start studying</p>
       <form id="gate-form" autocomplete="off">
         <input type="password" id="gate-pw" placeholder="Password" inputmode="text" autocapitalize="off" autocorrect="off" aria-label="Password" />
         <button type="submit" class="btn btn-primary btn-block">Unlock</button>
       </form>
       <p id="gate-error" class="gate-error hidden">Hmm, that password isn't right. Try again!</p>
+      <a class="site-switch" href="elizabeth/">Elizabeth's Study Lab</a>
     </div>
   </div>
 
@@ -31,8 +33,9 @@
     <header class="topbar">
       <button id="btn-home" class="btn-icon hidden" aria-label="Back">←</button>
       <div class="topbar-titles">
-        <h1 class="brand" id="brand">Thomas's Science Lab</h1>
-        <p class="subtitle" id="subtitle">6th Grade Test Prep</p>
+        <h1 class="brand" id="brand">Thomas's Study Lab</h1>
+        <p class="subtitle" id="subtitle">6th Grade</p>
+        <a class="site-switch" href="elizabeth/">Elizabeth's Study Lab</a>
       </div>
     </header>
 
