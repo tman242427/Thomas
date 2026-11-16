@@ -4013,5 +4013,877 @@ window.SUBJECTS = [
       ]
     }
   ]
-}
+},
+  {
+    "id": "escience",
+    "name": "Elizabeth's Science: Unit 2 Lessons 1-2",
+    "emoji": "🌱",
+    "tagline": "5th grade · What makes living things alive & how they get energy",
+    "intro": "Pick a mode to get ready for the science test on living things and energy. You've got this! 💪",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "L1 · What Makes Living Things Alive?"
+      },
+      {
+        "id": 2,
+        "name": "L2 · How Organisms Obtain Energy"
+      }
+    ],
+    "notes": [
+      {
+        "id": "l1",
+        "short": "L1 Alive",
+        "title": "Lesson 1: What Makes Living Things Alive?",
+        "html": "<h2>Lesson 1: What Makes Living Things Alive?</h2>\n<p>All living things are called <strong>organisms</strong>. Organisms share the <strong>characteristics of life</strong>.</p>\n<h3>1. Made of cells</h3>\n<ul>\n<li>A <strong>cell</strong> is the smallest unit with the basic properties of life.</li>\n<li><strong>Unicellular</strong> means made of one cell. Bacteria and yeast are unicellular.</li>\n<li><strong>Multicellular</strong> means made of many cells (two or more). Dogs and trees are multicellular.</li>\n</ul>\n<h3>2. Have DNA</h3>\n<ul>\n<li><strong>DNA</strong> is the material in cells that carries all the information about how an organism looks and works.</li>\n<li>DNA is the <strong>blueprint of life</strong>. It has the instructions to grow, develop, survive, and reproduce.</li>\n</ul>\n<h3>3. Respond to stimuli</h3>\n<ul>\n<li>Living things are sensitive. They react to what is around them.</li>\n<li>You put on a sweater when you feel cold. A rabbit freezes so it can check for a predator.</li>\n<li>Plants respond to light, gravity, temperature, chemicals, and touch. They do it slowly, by changing how fast they grow or which way they grow.</li>\n</ul>\n<h3>4. Reproduce</h3>\n<ul>\n<li><strong>Reproduction</strong> is one organism making one or more new organisms.</li>\n<li>Some unicellular organisms, like bacteria, divide into two new identical organisms.</li>\n<li>Some organisms need a mate. Others can reproduce without a mate.</li>\n<li>Different organisms have different numbers of offspring. Humans usually have 1 or 2 babies at a time. Frogs can have hundreds.</li>\n</ul>\n<h3>5. Pass on traits</h3>\n<ul>\n<li>Passing genes to offspring makes the new organisms similar to their parents.</li>\n<li><strong>Animals:</strong> stripes on a tiger, a skunk's ability to spray, and overall size.</li>\n<li><strong>Plants:</strong> the color or shape of flowers, height, the shape of leaves, and the size of fruit.</li>\n<li><strong>Inherited traits</strong> are in your DNA. Height, eye color, and hair color are inherited traits.</li>\n</ul>\n<h3>6. Grow and develop</h3>\n<ul>\n<li>All organisms begin as a single cell. Then they take on the characteristics of their species.</li>\n<li>Multicellular organisms grow by <strong>adding more cells</strong>. Growth increases size and mass.</li>\n<li><strong>Development</strong> means changes over a lifetime. A tadpole developing into a frog is an amazing example.</li>\n</ul>\n<h3>7. Use energy</h3>\n<ul>\n<li>All organisms use energy. Digesting, thinking, reading, and even sleeping use energy.</li>\n<li>Cells use energy to transport substances, make new cells, and perform chemical reactions.</li>\n<li>Humans and other animals eat. Food is digested and changed so we can grow, move, stay warm, and repair our bodies.</li>\n<li>Plants get energy by <strong>photosynthesis</strong>. They take in sunlight through their leaves.</li>\n</ul>\n<div class=\"callout\"><strong>Quick check:</strong> A tree and bacteria are made of cells. A spoon, a kitchen sponge, and plastic are not. Living things need energy to grow, move, stay warm, and repair their bodies. The six vocabulary words are in the Vocabulary section.</div>"
+      },
+      {
+        "id": "l2",
+        "short": "L2 Energy",
+        "title": "Lesson 2: How Organisms Obtain Energy",
+        "html": "<h2>Lesson 2: How Do Organisms Obtain Energy?</h2>\n<p>Living things need energy to survive. <strong>Chemical energy</strong> is the kind used by all living things and by every cell to carry out life processes. Organisms cannot survive without the chemical energy from food.</p>\n<p>Some living things make their own food. Some get food by eating other living things.</p>\n<div class=\"sphere-grid\">\n<div class=\"sphere-pill\"><strong>Producer</strong> Makes its own food. Plants, algae, and some one-celled organisms are producers. Big or tiny, a producer changes sunlight into chemical energy.</div>\n<div class=\"sphere-pill\"><strong>Consumer</strong> Gets energy by eating other living things. Some eat producers. Some eat other consumers. Consumers include all animals, fungi, and many single-celled organisms.</div>\n</div>\n<h3>Four types of consumers</h3>\n<div class=\"sphere-grid\">\n<div class=\"sphere-pill\"><strong>Herbivore</strong> Eats only plants. Some eat fruit, some eat seeds, and a <strong>folivore</strong> eats leaves. Cows, goats, rabbits, deer, and giraffes are herbivores.</div>\n<div class=\"sphere-pill\"><strong>Carnivore</strong> Eats other animals. An <strong>obligate carnivore</strong> relies entirely on animal flesh. Wolves, cats, owls, dogs, and lions are carnivores.</div>\n<div class=\"sphere-pill\"><strong>Omnivore</strong> Eats both plants and animals, often whatever is easy to find. Orangutans, hedgehogs, chickens, ducks, pigs, and bears are omnivores.</div>\n<div class=\"sphere-pill\"><strong>Decomposer</strong> Breaks down dead plants and animals into small bits. That puts nutrients back into the soil so they can be used again. Mushrooms, earthworms, and bacteria are decomposers.</div>\n</div>\n<div class=\"callout\"><strong>Remember:</strong> Herbivore and carnivore describe how an animal's body is built, not what it likes. Humans are always omnivores, even if a person chooses not to eat meat. A cow's body can only digest plants. A cow would get sick from eating meat. When you classify, call mushrooms, worms, and bacteria <strong>decomposers</strong>.</div>\n<div class=\"practice-box\">\n<h3>Classify</h3>\n<ul>\n<li><strong>Producer:</strong> apple tree, carrot, bamboo</li>\n<li><strong>Consumer:</strong> eagle, dragonfly, cougar</li>\n<li><strong>Decomposer:</strong> mushroom, bacteria, and a worm that breaks down dead things</li>\n</ul>\n</div>"
+      },
+      {
+        "id": "vocab",
+        "short": "Vocabulary",
+        "title": "Vocabulary",
+        "html": "<h2>Vocabulary</h2>\n<p>These six words were on the worksheet. Learn what each one means.</p>\n<div class=\"key-terms\">\n<h3>Six words to know</h3>\n<p class=\"term-row\"><strong>Living</strong> — Something that is alive and has all the characteristics of life (made of cells, has DNA, responds to stimuli, reproduces, grows and develops, and uses energy).</p>\n<p class=\"term-row\"><strong>Nonliving</strong> — Something that is not alive and does not have all the characteristics of life. A rock, water, a spoon, and plastic are nonliving.</p>\n<p class=\"term-row\"><strong>Biotic</strong> — The living parts of an environment. Plants, animals, fungi, and bacteria are biotic.</p>\n<p class=\"term-row\"><strong>Abiotic</strong> — The nonliving parts of an environment. Sunlight, water, air, rocks, soil, and temperature are abiotic.</p>\n<p class=\"term-row\"><strong>Energy</strong> — The ability to do work or cause change. Living things need energy to grow, move, and stay alive.</p>\n<p class=\"term-row\"><strong>Characteristics</strong> — The traits or features that describe something, like the characteristics of life.</p>\n</div>\n<h3>More lesson words</h3>\n<ul>\n<li><strong>Organism</strong> — a living thing.</li>\n<li><strong>Cell</strong> — the smallest unit with the basic properties of life.</li>\n<li><strong>Unicellular / multicellular</strong> — one cell / many cells.</li>\n<li><strong>DNA</strong> — the blueprint of life inside cells.</li>\n<li><strong>Stimulus</strong> — something in the environment a living thing reacts to.</li>\n<li><strong>Inherited trait</strong> — a feature passed from parents to offspring through DNA.</li>\n<li><strong>Producer</strong> — makes its own food.</li>\n<li><strong>Consumer</strong> — gets energy by eating other living things.</li>\n<li><strong>Herbivore, carnivore, omnivore, decomposer</strong> — eats plants / eats animals / eats both / breaks down dead things.</li>\n</ul>"
+      },
+      {
+        "id": "check",
+        "short": "Check",
+        "title": "Check Your Understanding",
+        "html": "<h2>Check Your Understanding</h2>\n<h3>Lesson 1</h3>\n<ul>\n<li>All living things are made of cells.</li>\n<li>Unicellular means one cell. Multicellular means two or more cells.</li>\n<li>A tree and bacteria are made of cells. A spoon, a kitchen sponge, and plastic are not.</li>\n<li>Energy is needed to grow, move, stay warm, and repair bodies.</li>\n<li>Inherited traits include height, eye color, and hair color.</li>\n</ul>\n<h3>Lesson 2</h3>\n<ul>\n<li>Plants and animals are called organisms.</li>\n<li>Organisms need chemical energy.</li>\n<li>A rabbit eating vegetables is a herbivore because it eats only plants.</li>\n<li>A worm breaking down dead things is a decomposer.</li>\n</ul>\n<div class=\"practice-box\">\n<h3>Say the group out loud</h3>\n<ul>\n<li>Apple tree — producer</li>\n<li>Eagle — consumer</li>\n<li>Mushroom — decomposer</li>\n<li>Carrot — producer</li>\n<li>Dragonfly — consumer</li>\n<li>Bamboo — producer</li>\n<li>Cougar — consumer</li>\n<li>Bacteria — decomposer</li>\n</ul>\n</div>\n<div class=\"callout\"><strong>Memory line:</strong> Producers cook their own food from sunlight. Consumers eat. Decomposers clean up what has died and feed the soil.</div>"
+      }
+    ],
+    "flashcards": [
+      {
+        "term": "Organism",
+        "def": "A living thing. All living things are called organisms, and they share the characteristics of life.",
+        "lesson": 1
+      },
+      {
+        "term": "Living",
+        "def": "Something that is alive and has all the characteristics of life: made of cells, has DNA, responds to stimuli, reproduces, grows and develops, and uses energy.",
+        "lesson": 1
+      },
+      {
+        "term": "Nonliving",
+        "def": "Something that is not alive and does not have all the characteristics of life. Examples: a rock, water, a spoon, and plastic.",
+        "lesson": 1
+      },
+      {
+        "term": "Biotic",
+        "def": "The living parts of an environment, such as plants, animals, fungi, and bacteria.",
+        "lesson": 1
+      },
+      {
+        "term": "Abiotic",
+        "def": "The nonliving parts of an environment, such as sunlight, water, air, rocks, soil, and temperature.",
+        "lesson": 1
+      },
+      {
+        "term": "Energy",
+        "def": "The ability to do work or cause change. Living things need energy to grow, move, and stay alive.",
+        "lesson": 1
+      },
+      {
+        "term": "Characteristics",
+        "def": "The traits or features that describe something, like the characteristics of life.",
+        "lesson": 1
+      },
+      {
+        "term": "Cell",
+        "def": "The smallest unit with the basic properties of life. All living things are made of cells.",
+        "lesson": 1
+      },
+      {
+        "term": "Unicellular",
+        "def": "Made of one cell. Bacteria and yeast are unicellular.",
+        "lesson": 1
+      },
+      {
+        "term": "Multicellular",
+        "def": "Made of many cells (two or more). Dogs and trees are multicellular.",
+        "lesson": 1
+      },
+      {
+        "term": "DNA",
+        "def": "The material in cells that carries all the information about how an organism looks and works. It is the blueprint of life.",
+        "lesson": 1
+      },
+      {
+        "term": "What is DNA often called?",
+        "def": "The blueprint of life. It holds the instructions to grow, develop, survive, and reproduce.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Respond to stimuli",
+        "def": "Living things sense their environment and react. You put on a sweater when you are cold. A rabbit freezes to check for a predator.",
+        "lesson": 1
+      },
+      {
+        "term": "How do plants respond to their environment?",
+        "def": "They respond to light, gravity, temperature, chemicals, and touch by slowly changing how fast they grow or which way they grow.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Reproduce",
+        "def": "Reproduction is one organism making one or more new organisms. Some need a mate, and some reproduce without a mate.",
+        "lesson": 1
+      },
+      {
+        "term": "How do some bacteria reproduce?",
+        "def": "They divide into two new identical organisms.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Inherited trait",
+        "def": "A feature passed from parents to offspring through genes, so the offspring are similar to their parents. Inherited traits are in your DNA.",
+        "lesson": 1
+      },
+      {
+        "term": "What are some inherited traits of animals?",
+        "def": "Stripes on a tiger, a skunk's ability to spray, and overall size.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "What are some inherited traits of plants?",
+        "def": "Flower color or shape, height, the shape of leaves, and the size of fruit.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Grow and develop",
+        "def": "Every organism starts as one cell, then takes on the traits of its species. Growth makes it bigger. Development is change over a lifetime.",
+        "lesson": 1
+      },
+      {
+        "term": "How do multicellular organisms grow?",
+        "def": "They add more cells. Growth increases size and mass.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "What is an amazing example of development?",
+        "def": "A tadpole developing into a frog.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Why do living things need energy?",
+        "def": "To grow, move, stay warm, and repair their bodies. Cells use energy to move substances, make new cells, and do chemical reactions.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How do plants get energy?",
+        "def": "By photosynthesis. They capture sunlight through their leaves and turn it into food.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "How many offspring do humans and frogs usually have?",
+        "def": "Humans usually have 1 or 2 babies at a time. Frogs can have hundreds.",
+        "lesson": 1,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Chemical energy",
+        "def": "The energy all living things and every cell use to carry out life processes. Organisms cannot survive without the chemical energy from food.",
+        "lesson": 2
+      },
+      {
+        "term": "Producer",
+        "def": "A living thing that makes its own food, such as plants, algae, and some one-celled organisms. It changes sunlight into chemical energy.",
+        "lesson": 2
+      },
+      {
+        "term": "Consumer",
+        "def": "A living thing that gets energy by eating other living things. All animals, fungi, and many single-celled organisms are consumers.",
+        "lesson": 2
+      },
+      {
+        "term": "Herbivore",
+        "def": "A consumer that eats only plants. Cows, goats, rabbits, deer, and giraffes are herbivores. Some eat fruit, seeds, or leaves.",
+        "lesson": 2
+      },
+      {
+        "term": "Folivore",
+        "def": "A herbivore that eats leaves. Folivore means leaf eater.",
+        "lesson": 2
+      },
+      {
+        "term": "Carnivore",
+        "def": "A consumer that eats other animals. Wolves, cats, owls, dogs, and lions are carnivores.",
+        "lesson": 2
+      },
+      {
+        "term": "Obligate carnivore",
+        "def": "An animal that relies entirely on animal flesh. Meat is the only food its body is built to use.",
+        "lesson": 2
+      },
+      {
+        "term": "Omnivore",
+        "def": "A consumer that eats both plants and animals, often whatever is easy to find. Orangutans, hedgehogs, chickens, ducks, pigs, and bears are omnivores.",
+        "lesson": 2
+      },
+      {
+        "term": "Decomposer",
+        "def": "Breaks down dead plants and animals into small bits and puts nutrients back into the soil. Mushrooms, earthworms, and bacteria are decomposers.",
+        "lesson": 2
+      },
+      {
+        "term": "Is a person who never eats meat still an omnivore?",
+        "def": "Yes. Humans are always omnivores. Herbivore and carnivore describe how a body is built, not what a person chooses to eat.",
+        "lesson": 2,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Why would a cow get sick from eating meat?",
+        "def": "A cow's body can only digest plants. Herbivore describes how its body is built, not a food it can choose.",
+        "lesson": 2,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Apple tree: producer, consumer, or decomposer?",
+        "def": "Producer. An apple tree makes its own food.",
+        "lesson": 2,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Eagle: producer, consumer, or decomposer?",
+        "def": "Consumer. An eagle gets energy by eating other animals.",
+        "lesson": 2,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Mushroom: producer, consumer, or decomposer?",
+        "def": "Decomposer. A mushroom breaks down dead material and returns nutrients to the soil.",
+        "lesson": 2,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Carrot, bamboo, dragonfly, cougar, and bacteria?",
+        "def": "Carrot and bamboo are producers. A dragonfly and a cougar are consumers. Bacteria that break down dead things are decomposers.",
+        "lesson": 2,
+        "front": "Question",
+        "back": "Answer"
+      }
+    ],
+    "tests": [
+      {
+        "id": "practice",
+        "name": "Practice Test",
+        "desc": "40 questions · multiple choice, true/false, classify, and short answer · shuffled",
+        "shuffle": true,
+        "questions": [
+          {
+            "id": "es_organism",
+            "lesson": 1,
+            "q": "All living things are called…",
+            "choices": [
+              "Organisms",
+              "Minerals",
+              "Plastics",
+              "Stimuli"
+            ],
+            "answer": 0,
+            "explain": "All living things are called organisms. They share the characteristics of life."
+          },
+          {
+            "id": "es_cell",
+            "lesson": 1,
+            "q": "What is a cell?",
+            "choices": [
+              "A kind of rock in the soil",
+              "The smallest unit with the basic properties of life",
+              "A type of sunlight",
+              "A group of many animals"
+            ],
+            "answer": 1,
+            "explain": "A cell is the smallest unit with the basic properties of life. All living things are made of cells."
+          },
+          {
+            "id": "es_uni",
+            "lesson": 1,
+            "q": "What does unicellular mean?",
+            "choices": [
+              "Made of many cells, like a dog",
+              "Not made of any cells",
+              "Made of exactly one cell, like bacteria or yeast",
+              "Made only of plastic"
+            ],
+            "answer": 2,
+            "explain": "Unicellular means one cell. Bacteria and yeast are unicellular. Multicellular means many cells."
+          },
+          {
+            "id": "es_madeof",
+            "lesson": 1,
+            "q": "Which pair is made of cells?",
+            "choices": [
+              "A spoon and a piece of plastic",
+              "A kitchen sponge and a rock",
+              "A glass of water and a spoon",
+              "A tree and bacteria"
+            ],
+            "answer": 3,
+            "explain": "A tree and bacteria are made of cells. A spoon, a kitchen sponge, and plastic are nonliving."
+          },
+          {
+            "id": "es_dna",
+            "lesson": 1,
+            "q": "What is DNA?",
+            "choices": [
+              "The material in cells that carries information about how an organism looks and works",
+              "A nonliving rock",
+              "Food that only plants eat",
+              "Something found only in animals, never in plants"
+            ],
+            "answer": 0,
+            "explain": "DNA is the blueprint of life. It has the instructions to grow, develop, survive, and reproduce."
+          },
+          {
+            "id": "es_stimulus",
+            "lesson": 1,
+            "q": "Which is an example of responding to a stimulus?",
+            "choices": [
+              "A plastic spoon sitting on a table",
+              "A rabbit freezing to check for a predator",
+              "A rock sitting in the sun",
+              "Water sitting in a glass"
+            ],
+            "answer": 1,
+            "explain": "Living things react to their environment. A rabbit freezes to check for danger. Putting on a sweater when you are cold is another example."
+          },
+          {
+            "id": "es_bacteria",
+            "lesson": 1,
+            "q": "How do some bacteria reproduce?",
+            "choices": [
+              "They lay hundreds of eggs like a frog",
+              "They grow flowers",
+              "They turn into rocks",
+              "They divide into two new identical organisms"
+            ],
+            "answer": 3,
+            "explain": "Some unicellular organisms, like bacteria, reproduce by dividing into two new identical organisms."
+          },
+          {
+            "id": "es_trait",
+            "lesson": 1,
+            "q": "Which is an inherited trait?",
+            "choices": [
+              "A scar from falling off a bike",
+              "Eye color",
+              "A sweater you put on when you are cold",
+              "A book you read at school"
+            ],
+            "answer": 1,
+            "explain": "Eye color, hair color, and height are inherited traits. They are passed from parents through DNA. A scar, a sweater, and a book are not."
+          },
+          {
+            "id": "es_develop",
+            "lesson": 1,
+            "q": "Which is an example of development?",
+            "choices": [
+              "A rock getting wet in the rain",
+              "Ice melting into water",
+              "A tadpole changing into a frog",
+              "A spoon sitting in a drawer"
+            ],
+            "answer": 2,
+            "explain": "Development is change over a lifetime. A tadpole changing into a frog is a great example. Growth is different: multicellular organisms grow by adding more cells, which increases size and mass."
+          },
+          {
+            "id": "es_photo",
+            "lesson": 1,
+            "q": "How do plants get energy?",
+            "choices": [
+              "By eating other animals",
+              "They do not need energy",
+              "By drinking soda",
+              "By photosynthesis, using sunlight through their leaves"
+            ],
+            "answer": 3,
+            "explain": "Plants get energy by photosynthesis. Sunlight enters through their leaves and is changed into food."
+          },
+          {
+            "id": "es_v_living",
+            "lesson": 1,
+            "q": "What does the word living mean?",
+            "choices": [
+              "Something that is alive and has all the characteristics of life",
+              "Anything you can touch",
+              "Only animals, not plants",
+              "A thing that never uses energy"
+            ],
+            "answer": 0,
+            "explain": "Living means something is alive and has all the characteristics of life: cells, DNA, response to stimuli, reproduction, growth and development, and using energy."
+          },
+          {
+            "id": "es_v_nonliving",
+            "lesson": 1,
+            "q": "Which list is all nonliving?",
+            "choices": [
+              "Tree, dog, and bacteria",
+              "Rock, spoon, and plastic",
+              "Plant, mushroom, and yeast",
+              "Rabbit, frog, and cow"
+            ],
+            "answer": 1,
+            "explain": "Nonliving things are not alive. A rock, water, a spoon, and plastic do not have all the characteristics of life."
+          },
+          {
+            "id": "es_v_biotic",
+            "lesson": 1,
+            "q": "Biotic means…",
+            "choices": [
+              "The nonliving parts of an environment, like rocks and temperature",
+              "Another word for a plastic spoon",
+              "The living parts of an environment, like plants, animals, fungi, and bacteria",
+              "Only the sunlight in a habitat"
+            ],
+            "answer": 2,
+            "explain": "Biotic means the living parts of an environment: plants, animals, fungi, and bacteria."
+          },
+          {
+            "id": "es_v_abiotic",
+            "lesson": 1,
+            "q": "Which is abiotic?",
+            "choices": [
+              "A mushroom",
+              "Sunlight",
+              "A deer",
+              "Bacteria"
+            ],
+            "answer": 1,
+            "explain": "Abiotic means the nonliving parts of an environment. Sunlight, water, air, rocks, soil, and temperature are abiotic."
+          },
+          {
+            "id": "es_v_energy",
+            "lesson": 1,
+            "q": "What is energy?",
+            "choices": [
+              "A trait passed from parents",
+              "A cell with no DNA",
+              "Another word for a decomposer",
+              "The ability to do work or cause change"
+            ],
+            "answer": 3,
+            "explain": "Energy is the ability to do work or cause change. Living things need it to grow, move, and stay alive."
+          },
+          {
+            "id": "es_v_char",
+            "lesson": 1,
+            "q": "What are characteristics?",
+            "choices": [
+              "The traits or features that describe something",
+              "Only the colors of rocks",
+              "Things that are always nonliving",
+              "Another name for producers"
+            ],
+            "answer": 0,
+            "explain": "Characteristics are the traits or features that describe something, like the characteristics of life."
+          },
+          {
+            "id": "es_tf_cells",
+            "lesson": 1,
+            "tf": true,
+            "keepOrder": true,
+            "q": "All living things are made of cells.",
+            "choices": [
+              "True",
+              "False"
+            ],
+            "answer": 0,
+            "explain": "True. Every organism is made of one or more cells. Cells are the smallest units with the basic properties of life."
+          },
+          {
+            "id": "es_tf_spoon",
+            "lesson": 1,
+            "tf": true,
+            "keepOrder": true,
+            "q": "A plastic spoon is a living thing because you can hold it.",
+            "choices": [
+              "True",
+              "False"
+            ],
+            "answer": 1,
+            "explain": "False. A plastic spoon is nonliving. It is not made of cells and does not have the characteristics of life."
+          },
+          {
+            "id": "es_tf_energy",
+            "lesson": 1,
+            "tf": true,
+            "keepOrder": true,
+            "q": "Living things need energy to grow, move, stay warm, and repair their bodies.",
+            "choices": [
+              "True",
+              "False"
+            ],
+            "answer": 0,
+            "explain": "True. Food is changed so animals can grow, move, stay warm, and repair their bodies. Plants get their energy from the sun."
+          },
+          {
+            "id": "es_tf_chem",
+            "lesson": 2,
+            "tf": true,
+            "keepOrder": true,
+            "q": "Organisms can survive without the chemical energy from food.",
+            "choices": [
+              "True",
+              "False"
+            ],
+            "answer": 1,
+            "explain": "False. Chemical energy is used by every cell. Organisms cannot survive without the chemical energy from food."
+          },
+          {
+            "id": "es_producer",
+            "lesson": 2,
+            "q": "What is a producer?",
+            "choices": [
+              "A living thing that makes its own food",
+              "An animal that eats only meat",
+              "A rock that sits in the sun",
+              "A worm that eats dead leaves"
+            ],
+            "answer": 0,
+            "explain": "A producer makes its own food. Plants, algae, and some one-celled organisms change sunlight into chemical energy."
+          },
+          {
+            "id": "es_consumer",
+            "lesson": 2,
+            "q": "What is a consumer?",
+            "choices": [
+              "A living thing that makes food from sunlight",
+              "A nonliving object like a spoon",
+              "A living thing that gets energy by eating other living things",
+              "Only a plant"
+            ],
+            "answer": 2,
+            "explain": "A consumer gets energy by eating other living things. Animals, fungi, and many single-celled organisms are consumers."
+          },
+          {
+            "id": "es_herb",
+            "lesson": 2,
+            "q": "A rabbit eats only vegetables. What kind of consumer is it?",
+            "choices": [
+              "Carnivore",
+              "Herbivore",
+              "Omnivore",
+              "Decomposer"
+            ],
+            "answer": 1,
+            "explain": "A herbivore eats only plants. Vegetables are plants, so the rabbit is a herbivore. Cows, goats, deer, and giraffes are herbivores too."
+          },
+          {
+            "id": "es_carn",
+            "lesson": 2,
+            "q": "Wolves, cats, owls, and lions are examples of…",
+            "choices": [
+              "Herbivores",
+              "Producers",
+              "Abiotic things",
+              "Carnivores"
+            ],
+            "answer": 3,
+            "explain": "Carnivores eat other animals. An obligate carnivore relies entirely on animal flesh. Wolves, cats, owls, dogs, and lions are carnivores."
+          },
+          {
+            "id": "es_omni",
+            "lesson": 2,
+            "q": "What is an omnivore?",
+            "choices": [
+              "An animal that eats only leaves",
+              "A plant that makes its own food",
+              "An animal that eats both plants and animals",
+              "A nonliving part of the soil"
+            ],
+            "answer": 2,
+            "explain": "An omnivore eats both plants and animals. Orangutans, hedgehogs, chickens, ducks, pigs, and bears are omnivores."
+          },
+          {
+            "id": "es_decomp",
+            "lesson": 2,
+            "q": "What does a decomposer do?",
+            "choices": [
+              "Makes food from sunlight",
+              "Hunts live lions for fun",
+              "Eats only fresh fruit from a tree",
+              "Breaks down dead plants and animals and puts nutrients back into the soil"
+            ],
+            "answer": 3,
+            "explain": "Decomposers break down dead plants and animals into small bits. Mushrooms, earthworms, and bacteria put nutrients back into the soil."
+          },
+          {
+            "id": "es_tf_human",
+            "lesson": 2,
+            "tf": true,
+            "keepOrder": true,
+            "q": "A person who chooses not to eat meat is no longer an omnivore.",
+            "choices": [
+              "True",
+              "False"
+            ],
+            "answer": 1,
+            "explain": "False. Humans are always omnivores. Herbivore and carnivore describe how a body is built, not what someone likes. A cow can only digest plants and would get sick from eating meat."
+          },
+          {
+            "id": "es_c_apple",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify an apple tree?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 0,
+            "explain": "An apple tree is a producer. It is a plant, so it makes its own food from sunlight."
+          },
+          {
+            "id": "es_c_eagle",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify an eagle?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 1,
+            "explain": "An eagle is a consumer. It gets energy by eating other animals."
+          },
+          {
+            "id": "es_c_mushroom",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify a mushroom?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 2,
+            "explain": "A mushroom is a decomposer. It breaks down dead material and puts nutrients back into the soil."
+          },
+          {
+            "id": "es_c_carrot",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify a carrot?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 0,
+            "explain": "A carrot is a producer. It is a plant that makes its own food."
+          },
+          {
+            "id": "es_c_dragon",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify a dragonfly?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 1,
+            "explain": "A dragonfly is a consumer. It gets energy by eating other living things."
+          },
+          {
+            "id": "es_c_bamboo",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify bamboo?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 0,
+            "explain": "Bamboo is a producer. It is a plant, so it makes its own food."
+          },
+          {
+            "id": "es_c_cougar",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify a cougar?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 1,
+            "explain": "A cougar is a consumer. It gets energy by eating other animals."
+          },
+          {
+            "id": "es_c_bacteria",
+            "lesson": 2,
+            "label": "Classify",
+            "q": "How should you classify bacteria that break down dead plants and animals?",
+            "choices": [
+              "Producer",
+              "Consumer",
+              "Decomposer"
+            ],
+            "answer": 2,
+            "explain": "In this lesson, bacteria that break down dead material are decomposers. They return nutrients to the soil. Bacteria are also unicellular living things."
+          },
+          {
+            "id": "es_t_herb",
+            "lesson": 2,
+            "type": "input",
+            "q": "Short answer: What do we call an animal that eats only plants?",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "herbivore",
+                    "plant eater",
+                    "plant-eater",
+                    "planteater"
+                  ]
+                ],
+                "placeholder": "Type your answer",
+                "alsoAccept": [
+                  "eats only plants",
+                  "only eats plants",
+                  "eats plants only",
+                  "only plants"
+                ]
+              }
+            ],
+            "answerText": "Herbivore (herbivores is fine too). A plant eater also counts.",
+            "explain": "A herbivore eats only plants. Cows, rabbits, deer, and giraffes are herbivores."
+          },
+          {
+            "id": "es_t_foli",
+            "lesson": 2,
+            "type": "input",
+            "q": "Short answer: What do we call a herbivore that eats leaves?",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "folivore",
+                    "leaf eater",
+                    "leaf-eater",
+                    "leafeater",
+                    "leaf-eating",
+                    "eats leaves",
+                    "eat leaves",
+                    "eating leaves"
+                  ]
+                ],
+                "placeholder": "Type your answer"
+              }
+            ],
+            "answerText": "Folivore. Leaf eater counts too.",
+            "explain": "A folivore is a leaf eater. It is a kind of herbivore."
+          },
+          {
+            "id": "es_t_blue",
+            "lesson": 1,
+            "type": "input",
+            "q": "Short answer: DNA is often called the blueprint of life. Type that nickname.",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "blueprint",
+                    "blue print"
+                  ]
+                ],
+                "placeholder": "Type your answer"
+              }
+            ],
+            "answerText": "The blueprint of life.",
+            "explain": "DNA is called the blueprint of life because it holds the instructions to grow, develop, survive, and reproduce."
+          },
+          {
+            "id": "es_t_chem",
+            "lesson": 2,
+            "type": "input",
+            "q": "Short answer: What kind of energy does every cell use to carry out life processes?",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "chemical"
+                  ]
+                ],
+                "placeholder": "Type your answer"
+              }
+            ],
+            "answerText": "Chemical energy.",
+            "explain": "All living things and every cell use chemical energy. Organisms cannot survive without the chemical energy from food."
+          },
+          {
+            "id": "es_t_trait",
+            "lesson": 1,
+            "type": "input",
+            "q": "Short answer: Type ONE inherited trait (a feature passed from parents to offspring).",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "eye",
+                    "eyes",
+                    "height",
+                    "tall",
+                    "hair",
+                    "stripe",
+                    "skunk",
+                    "spray",
+                    "flower",
+                    "leaf",
+                    "leaves",
+                    "fruit",
+                    "freckle",
+                    "fur",
+                    "size",
+                    "blonde",
+                    "blond",
+                    "dimple",
+                    "skin"
+                  ]
+                ],
+                "placeholder": "Type your answer"
+              }
+            ],
+            "answerText": "Examples: height, eye color, hair color, tiger stripes, flower color, leaf shape, or fruit size.",
+            "explain": "Inherited traits are in your DNA. A scar or a sweater is not an inherited trait."
+          }
+        ]
+      }
+    ]
+  }
 ];
