@@ -5047,4 +5047,1065 @@ window.SUBJECTS = [
     }
   ]
 },
+{
+  "id": "science-oceans",
+  "name": "Science: Unit 4 Oceans, Lessons 1–5",
+  "emoji": "🌊",
+  "tagline": "Exploring oceans, properties, the seafloor, resources, currents & waves",
+  "intro": "Pick a mode to get ready for your Science test on Unit 4 Oceans, Lessons 1–5. You've got this! 💪",
+  "lessons": [
+    {
+      "id": 1,
+      "name": "L1 · Exploring the Oceans"
+    },
+    {
+      "id": 2,
+      "name": "L2 · Properties of Ocean Waters"
+    },
+    {
+      "id": 3,
+      "name": "L3 · The Ocean Floor"
+    },
+    {
+      "id": 4,
+      "name": "L4 · Ocean Resources and Pollution"
+    },
+    {
+      "id": 5,
+      "name": "L5 · Currents and Waves"
+    }
+  ],
+  "notes": [
+    {
+      "id": "l1",
+      "short": "L1 Exploring Oceans",
+      "title": "Lesson 1: Exploring the Oceans",
+      "html": "\n        <h2>Lesson 1: Exploring the Oceans</h2>\n        <p><strong>Oceanography</strong> is the science of studying the water, plants, animals and land in the ocean.</p>\n        <h3>Mapping the ocean floor with SONAR</h3>\n        <p><strong>SONAR</strong> stands for <strong>Sound Navigation and Ranging</strong>.</p>\n        <p>Steps scientists use to map the ocean floor:</p>\n        <ol>\n          <li>The ship sends out a signal called a <strong>ping</strong>.</li>\n          <li>Scientists time how long the sound waves take to reach the ocean bottom and bounce back to the ship.</li>\n          <li>That measurement lets them calculate the <strong>depth</strong> of the ocean.</li>\n          <li>They use the data to <strong>map the ocean floor</strong>.</li>\n        </ol>\n        <p><strong>Underwater submersibles</strong> let researchers explore parts of the ocean they could never otherwise access.</p>\n        <h3>One global ocean</h3>\n        <ul>\n          <li>All the world's oceans are connected, forming one huge <strong>global ocean</strong>.</li>\n          <li>It covers <strong>more than 70%</strong> of Earth's surface. (Your sheet said 75%. Remember <em>more than 70%</em>; 70, 71, or 75 all count on this practice test.)</li>\n          <li>The 5 largest oceans are the <strong>Pacific</strong>, <strong>Atlantic</strong>, <strong>Indian</strong>, <strong>Arctic</strong> and <strong>Southern</strong>.</li>\n        </ul>\n        <div class=\"key-terms\">\n          <h3>The 5 largest oceans</h3>\n          <p class=\"term-row\"><strong>Pacific</strong> — The largest ocean. Home to the <strong>Mariana Trench</strong>, the deepest point on Earth. Split into 2 parts by the Equator.</p>\n          <p class=\"term-row\"><strong>Atlantic</strong> — The second-largest ocean. Home to the <strong>Bermuda Triangle</strong>. Also split into 2 parts by the Equator.</p>\n          <p class=\"term-row\"><strong>Indian</strong> — One of the five largest oceans.</p>\n          <p class=\"term-row\"><strong>Arctic</strong> — The smallest and shallowest ocean.</p>\n          <p class=\"term-row\"><strong>Southern</strong> — The name Southern Ocean didn't exist until <strong>2000</strong>; it was known as the <strong>Antarctic Ocean</strong>.</p>\n        </div>\n        <div class=\"callout\">Both the Atlantic and the Pacific are split into 2 parts by the <strong>Equator</strong>.</div>\n      "
+    },
+    {
+      "id": "l2",
+      "short": "L2 Ocean Waters",
+      "title": "Lesson 2: Properties of Ocean Waters",
+      "html": "\n        <h2>Lesson 2: Properties of Ocean Waters</h2>\n        <h3>Salt and salinity</h3>\n        <ul>\n          <li>Most ocean salt is <strong>sodium chloride</strong>, the same as table salt.</li>\n          <li>Rivers and streams dissolve minerals on land, including salt, and carry them to the ocean.</li>\n          <li>When water evaporates, the <strong>salt stays behind</strong>.</li>\n          <li>Hotter, drier climates have <strong>higher salinity</strong> than cool areas because warm temperatures cause more evaporation.</li>\n        </ul>\n        <h3>Density</h3>\n        <ul>\n          <li><strong>Density</strong> is how heavy or thick the water is.</li>\n          <li>Salt adds mass, which increases salinity and density.</li>\n          <li>The colder the water, the more dense it is.</li>\n          <li>As you go deeper, <strong>temperature drops</strong> and <strong>pressure and density increase</strong>.</li>\n        </ul>\n        <h3>The 3 zones (based on light and depth)</h3>\n        <div class=\"key-terms\">\n          <p class=\"term-row\"><strong>1. Sunlight zone</strong> — Shallow; gets the most sunlight; where most <strong>photosynthesis</strong> occurs.</p>\n          <p class=\"term-row\"><strong>2. Twilight zone</strong> — Most sunlight is gone.</p>\n          <p class=\"term-row\"><strong>3. Midnight zone</strong> — Plants don't grow. Most animals make their own light (<strong>bioluminescence</strong>).</p>\n        </div>\n      "
+    },
+    {
+      "id": "l3",
+      "short": "L3 Ocean Floor",
+      "title": "Lesson 3: The Ocean Floor",
+      "html": "\n        <h2>Lesson 3: The Ocean Floor</h2>\n        <div class=\"key-terms\">\n          <h3>Continental shelf</h3>\n          <p>The <strong>continental shelf</strong> is the shallow, gently sloping extension of the continent under water.</p>\n          <ul>\n            <li>It extends hundreds of miles.</li>\n            <li>It is usually less than <strong>200 meters</strong> deep.</li>\n            <li>It is an important <strong>fishing</strong> area.</li>\n            <li>It is home to <strong>coral reefs</strong> and <strong>kelp forests</strong>.</li>\n          </ul>\n          <h3>Abyssal plains</h3>\n          <p>The <strong>abyssal plains</strong> are the flattest regions on Earth.</p>\n          <ul>\n            <li>They stretch thousands of kilometers.</li>\n            <li>They cover more of Earth's surface than all the continents combined.</li>\n            <li>Deep-sea life there is adapted to extreme <strong>cold</strong>, <strong>pressure</strong> and <strong>darkness</strong>.</li>\n          </ul>\n        </div>\n      "
+    },
+    {
+      "id": "l4",
+      "short": "L4 Resources &amp; Pollution",
+      "title": "Lesson 4: Ocean Resources and Pollution",
+      "html": "\n        <h2>Lesson 4: Ocean Resources and Pollution</h2>\n        <p>The greatest demand on the ocean is for <strong>food</strong>.</p>\n        <h3>Living resources</h3>\n        <ul>\n          <li><strong>Fishing</strong> — a multi-billion-dollar industry.</li>\n          <li><strong>Aquaculture</strong> — raising seafood in ponds to sell.</li>\n          <li><strong>Seaweed</strong> — used as a thickener in jelly.</li>\n        </ul>\n        <h3>Non-living resources</h3>\n        <ul>\n          <li><strong>Oil and natural gas</strong> (petroleum) — <strong>nonrenewable</strong>.</li>\n          <li>Seafloor minerals called <strong>nodules</strong> — difficult to retrieve, so they are expensive.</li>\n          <li><strong>Desalination</strong> — making fresh water from ocean water.</li>\n        </ul>\n        <h3>Pollution</h3>\n        <ul>\n          <li><strong>Trash and plastic dumping</strong> — plastics can harm or kill animals.</li>\n          <li><strong>Oil spills</strong>.</li>\n        </ul>\n      "
+    },
+    {
+      "id": "l5",
+      "short": "L5 Currents &amp; Waves",
+      "title": "Lesson 5: Currents and Waves",
+      "html": "\n        <h2>Lesson 5: Currents and Waves</h2>\n        <div class=\"callout\"><strong>Note:</strong> Answers in this lesson were filled in by Roo because the last study page was blank. Please check these with your class notes.</div>\n        <h3>Currents</h3>\n        <ul>\n          <li>Giant streams of water flowing within the ocean are called <strong>currents</strong>.</li>\n          <li>There are 2 categories: <strong>surface currents</strong> and <strong>deep water currents</strong>.</li>\n          <li>The biggest factor causing surface currents is <strong>air currents, or wind</strong>.</li>\n          <li>The stronger and longer the wind blows, the stronger the current.</li>\n          <li><strong>Global (prevailing) wind belts</strong> greatly affect surface currents. These winds always blow in the same direction.</li>\n          <li>Major surface currents of the world are <strong>named</strong> and always travel the same way; some are warm and some are cold. (\"Predictable\" is also a fair way to say this.)</li>\n        </ul>\n        <h3>Waves</h3>\n        <ul>\n          <li>The <strong>crest</strong> is the highest point of a wave.</li>\n          <li>The <strong>trough</strong> is the lowest point between two crests.</li>\n          <li><strong>Wave height</strong> is measured from the trough to the crest.</li>\n          <li>The <strong>speed of the wind</strong> and the <strong>length of time it blows</strong> determine the height (size) of a wave.</li>\n          <li><strong>Rip currents</strong> are one of the greatest dangers to swimmers.</li>\n        </ul>\n      "
+    },
+    {
+      "id": "tips",
+      "short": "Test Tips",
+      "title": "Most Likely on the Test + Memory Tips",
+      "html": "\n        <h2>Most Likely to Be on the Test</h2>\n        <ul>\n          <li>What oceanography is, and what SONAR stands for</li>\n          <li>The 4 steps to map the ocean floor (ping → time the bounce → calculate depth → map)</li>\n          <li>One global ocean covering more than 70% of Earth, and the 5 largest oceans</li>\n          <li>Pacific = largest and Mariana Trench; Atlantic = second and Bermuda Triangle; both split by the Equator</li>\n          <li>Southern Ocean was called the Antarctic Ocean until 2000; Arctic = smallest and shallowest</li>\n          <li>Sodium chloride, how salt gets to the ocean, and why hotter/drier climates are saltier</li>\n          <li>Density, and how temperature, salt, and depth change it</li>\n          <li>The 3 light zones: sunlight (photosynthesis), twilight, midnight (bioluminescence)</li>\n          <li>Continental shelf vs. abyssal plains</li>\n          <li>Living and non-living resources, desalination, plastics, and oil spills</li>\n          <li>Currents, wind, crests, troughs, wave height, and rip currents</li>\n        </ul>\n        <h3>Memory tips</h3>\n        <div class=\"callout\">\n          <p><strong>SONAR:</strong> Sound Navigation and Ranging — a ship <em>pings</em>, times the bounce, finds the <em>depth</em>, then <em>maps</em> the floor.</p>\n          <p><strong>Oceans (largest → smallest to remember):</strong> Pacific, Atlantic, Indian, Southern, Arctic. Arctic is also the shallowest.</p>\n          <p><strong>Zones:</strong> Sunlight (plants can photosynthesize) → Twilight (most light is gone) → Midnight (animals make their own light).</p>\n          <p><strong>Waves:</strong> Crest = highest point. Trough = lowest point. Height = trough to crest.</p>\n        </div>\n        <div class=\"callout\"><strong>Lesson 5:</strong> Answers in this lesson were filled in by Roo because the last study page was blank. Please check these with your class notes.</div>\n      "
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "Oceanography",
+      "def": "The science of studying the water, plants, animals and land in the ocean.",
+      "lesson": 1
+    },
+    {
+      "term": "SONAR",
+      "def": "Sound Navigation and Ranging. Used to map the ocean floor.",
+      "lesson": 1
+    },
+    {
+      "term": "Ping",
+      "def": "The signal a ship sends out when mapping the ocean floor with SONAR.",
+      "lesson": 1
+    },
+    {
+      "term": "Steps to map the ocean floor",
+      "def": "1) The ship sends out a ping. 2) Scientists time how long the sound waves take to reach the bottom and bounce back. 3) That measurement lets them calculate the depth. 4) They use the data to map the ocean floor.",
+      "lesson": 1
+    },
+    {
+      "term": "Underwater submersibles",
+      "def": "Vehicles that let researchers explore parts of the ocean they could never otherwise access.",
+      "lesson": 1
+    },
+    {
+      "term": "Global ocean",
+      "def": "All the world's oceans are connected, forming one huge global ocean that covers more than 70% of Earth's surface. (Your sheet said 75%.)",
+      "lesson": 1
+    },
+    {
+      "term": "Five largest oceans",
+      "def": "Pacific, Atlantic, Indian, Arctic, and Southern.",
+      "lesson": 1
+    },
+    {
+      "term": "Pacific Ocean",
+      "def": "The largest ocean. Home to the Mariana Trench, the deepest point on Earth. Split into 2 parts by the Equator.",
+      "lesson": 1
+    },
+    {
+      "term": "Mariana Trench",
+      "def": "The deepest point on Earth, located in the Pacific Ocean.",
+      "lesson": 1
+    },
+    {
+      "term": "Atlantic Ocean",
+      "def": "The second-largest ocean. Home to the Bermuda Triangle. Split into 2 parts by the Equator.",
+      "lesson": 1
+    },
+    {
+      "term": "Bermuda Triangle",
+      "def": "A region in the Atlantic Ocean.",
+      "lesson": 1
+    },
+    {
+      "term": "Equator (oceans)",
+      "def": "Splits both the Atlantic Ocean and the Pacific Ocean into 2 parts.",
+      "lesson": 1
+    },
+    {
+      "term": "Southern Ocean",
+      "def": "The name didn't exist until 2000; it was known as the Antarctic Ocean.",
+      "lesson": 1
+    },
+    {
+      "term": "Antarctic Ocean",
+      "def": "The earlier name for the Southern Ocean (before 2000).",
+      "lesson": 1
+    },
+    {
+      "term": "Arctic Ocean",
+      "def": "The smallest and shallowest ocean.",
+      "lesson": 1
+    },
+    {
+      "term": "Sodium chloride",
+      "def": "The most common ocean salt; the same as table salt.",
+      "lesson": 2
+    },
+    {
+      "term": "How salt gets into the ocean",
+      "def": "Rivers and streams dissolve minerals on land, including salt, and carry them to the ocean.",
+      "lesson": 2
+    },
+    {
+      "term": "Why oceans stay salty",
+      "def": "When water evaporates, the salt stays behind.",
+      "lesson": 2
+    },
+    {
+      "term": "Salinity and climate",
+      "def": "Hotter, drier climates have higher salinity than cool areas because warm temperatures cause more evaporation.",
+      "lesson": 2
+    },
+    {
+      "term": "Density",
+      "def": "How heavy or thick the water is.",
+      "lesson": 2
+    },
+    {
+      "term": "Salt and density",
+      "def": "Salt adds mass, which increases salinity and density.",
+      "lesson": 2
+    },
+    {
+      "term": "Temperature and density",
+      "def": "The colder the water, the more dense it is.",
+      "lesson": 2
+    },
+    {
+      "term": "Changes with depth",
+      "def": "As you go deeper, temperature drops and pressure and density increase.",
+      "lesson": 2
+    },
+    {
+      "term": "Sunlight zone",
+      "def": "The shallow zone that gets the most sunlight, where most photosynthesis occurs.",
+      "lesson": 2
+    },
+    {
+      "term": "Twilight zone",
+      "def": "The zone where most sunlight is gone.",
+      "lesson": 2
+    },
+    {
+      "term": "Midnight zone",
+      "def": "The deepest light zone, where plants don't grow and most animals make their own light (bioluminescence).",
+      "lesson": 2
+    },
+    {
+      "term": "Bioluminescence",
+      "def": "Light that animals make themselves, especially in the midnight zone.",
+      "lesson": 2
+    },
+    {
+      "term": "Continental shelf",
+      "def": "The shallow, gently sloping extension of the continent under water. It extends hundreds of miles and is usually less than 200 meters deep.",
+      "lesson": 3
+    },
+    {
+      "term": "Why the continental shelf matters",
+      "def": "It is an important fishing area and is home to coral reefs and kelp forests.",
+      "lesson": 3
+    },
+    {
+      "term": "Abyssal plains",
+      "def": "The flattest regions on Earth. They stretch thousands of km and cover more of Earth's surface than all the continents combined.",
+      "lesson": 3
+    },
+    {
+      "term": "Deep-sea life",
+      "def": "Life on the abyssal plains is adapted to extreme cold, pressure, and darkness.",
+      "lesson": 3
+    },
+    {
+      "term": "Greatest demand (ocean resources)",
+      "def": "Food.",
+      "lesson": 4
+    },
+    {
+      "term": "Fishing",
+      "def": "A living ocean resource; a multi-billion-dollar industry.",
+      "lesson": 4
+    },
+    {
+      "term": "Aquaculture",
+      "def": "Raising seafood in ponds to sell.",
+      "lesson": 4
+    },
+    {
+      "term": "Seaweed",
+      "def": "A living resource used as a thickener in jelly.",
+      "lesson": 4
+    },
+    {
+      "term": "Oil and natural gas",
+      "def": "Non-living ocean resources (petroleum). They are nonrenewable.",
+      "lesson": 4
+    },
+    {
+      "term": "Nodules",
+      "def": "Seafloor minerals that are difficult to retrieve, so they are expensive.",
+      "lesson": 4
+    },
+    {
+      "term": "Desalination",
+      "def": "Making fresh water from ocean water.",
+      "lesson": 4
+    },
+    {
+      "term": "Plastic pollution",
+      "def": "Trash and plastic dumping in the ocean; plastics can harm or kill animals.",
+      "lesson": 4
+    },
+    {
+      "term": "Oil spills",
+      "def": "A form of ocean pollution.",
+      "lesson": 4
+    },
+    {
+      "term": "Currents",
+      "def": "Giant streams of water flowing within the ocean.",
+      "lesson": 5
+    },
+    {
+      "term": "Two categories of currents",
+      "def": "Surface currents and deep water currents.",
+      "lesson": 5
+    },
+    {
+      "term": "What causes surface currents",
+      "def": "The biggest factor is air currents, or wind. The stronger and longer the wind blows, the stronger the current.",
+      "lesson": 5
+    },
+    {
+      "term": "Global (prevailing) wind belts",
+      "def": "They greatly affect surface currents. The winds always blow in the same direction.",
+      "lesson": 5
+    },
+    {
+      "term": "Major surface currents",
+      "def": "They are named and always travel the same way; some are warm and some are cold. (Predictable is also a fair word.)",
+      "lesson": 5
+    },
+    {
+      "term": "Crest",
+      "def": "The highest point of a wave.",
+      "lesson": 5
+    },
+    {
+      "term": "Trough",
+      "def": "The lowest point between two crests.",
+      "lesson": 5
+    },
+    {
+      "term": "Wave height",
+      "def": "Measured from the trough to the crest.",
+      "lesson": 5
+    },
+    {
+      "term": "What determines wave height",
+      "def": "The speed of the wind and the length of time it blows.",
+      "lesson": 5
+    },
+    {
+      "term": "Rip currents",
+      "def": "One of the greatest dangers to swimmers.",
+      "lesson": 5
+    }
+  ],
+  "tests": [
+    {
+      "id": "oceans-practice",
+      "name": "Practice Test",
+      "desc": "40 questions · mixed multiple choice, fill-in, and short answer · same as the printed test",
+      "questions": [
+        {
+          "id": "oc1",
+          "lesson": 1,
+          "q": "What is oceanography?",
+          "choices": [
+            "The science of studying only the animals in the ocean",
+            "The science of studying the water, plants, animals and land in the ocean",
+            "A tool ships use to send a ping to the ocean floor",
+            "The name for the shallow part of a continent under water"
+          ],
+          "answer": 1,
+          "explain": "Oceanography is the science of studying the water, plants, animals and land in the ocean."
+        },
+        {
+          "id": "oc2",
+          "lesson": 1,
+          "q": "What does SONAR stand for?",
+          "choices": [
+            "Salt, Ocean, Navigation And Research",
+            "Southern Ocean Navigation And Rescue",
+            "Sound Navigation and Ranging",
+            "Signal, Number, Angle, and Range"
+          ],
+          "answer": 2,
+          "explain": "SONAR stands for Sound Navigation and Ranging."
+        },
+        {
+          "id": "oc3",
+          "lesson": 1,
+          "type": "input",
+          "q": "When scientists map the ocean floor, the ship sends out a signal called a ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "ping"
+                ]
+              ],
+              "placeholder": "Type your answer",
+              "alsoAccept": [
+                "a ping",
+                "the ping",
+                "ping signal",
+                "a ping signal"
+              ]
+            }
+          ],
+          "answerText": "ping",
+          "explain": "The ship sends out a signal called a ping."
+        },
+        {
+          "id": "oc4",
+          "lesson": 1,
+          "type": "input",
+          "label": "Short answer",
+          "q": "List the steps scientists use to map the ocean floor with SONAR.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "ping",
+                  "signal",
+                  "sound"
+                ],
+                [
+                  "time",
+                  "bounce",
+                  "return",
+                  "back"
+                ],
+                [
+                  "depth",
+                  "deep",
+                  "map",
+                  "floor"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "1) The ship sends out a ping. 2) Scientists time how long the sound waves take to reach the bottom and bounce back. 3) That measurement lets them calculate the depth. 4) They use the data to map the ocean floor.",
+          "explain": "You need the idea of a ping/signal, timing the bounce back, and using that to find the depth or map the floor."
+        },
+        {
+          "id": "oc5",
+          "lesson": 1,
+          "q": "What do underwater submersibles let researchers do?",
+          "choices": [
+            "Make fresh water from ocean water",
+            "Raise seafood in ponds to sell",
+            "Explore parts of the ocean they could never otherwise access",
+            "Measure wave height from the trough to the crest"
+          ],
+          "answer": 2,
+          "explain": "Underwater submersibles let researchers explore parts of the ocean they could never otherwise access."
+        },
+        {
+          "id": "oc6",
+          "lesson": 1,
+          "type": "input",
+          "q": "The world's oceans are connected as one huge global ocean. About how much of Earth's surface do they cover?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "70",
+                  "71",
+                  "75"
+                ]
+              ],
+              "placeholder": "Type the amount (a percent is fine)",
+              "alsoAccept": [
+                "more than 70%",
+                "more than 70 percent",
+                "more than 70",
+                "over 70%",
+                "over 70",
+                "over 70 percent",
+                "70%",
+                "71%",
+                "75%",
+                "70 percent",
+                "71 percent",
+                "75 percent",
+                "about 75%",
+                "about 70%",
+                "more then 70%"
+              ]
+            }
+          ],
+          "answerText": "more than 70% (your sheet said 75%; 70, 71, or 75 all count)",
+          "explain": "The notes use more than 70% of Earth's surface. Your sheet said 75%, so 70, 71, or 75 are all accepted here."
+        },
+        {
+          "id": "oc7",
+          "lesson": 1,
+          "q": "Which ocean is the largest, and what famous feature is found there?",
+          "choices": [
+            "Atlantic Ocean; the Bermuda Triangle",
+            "Pacific Ocean; the Mariana Trench",
+            "Arctic Ocean; the Mariana Trench",
+            "Southern Ocean; the Bermuda Triangle"
+          ],
+          "answer": 1,
+          "explain": "The Pacific is the largest ocean and is home to the Mariana Trench, the deepest point on Earth."
+        },
+        {
+          "id": "oc8",
+          "lesson": 1,
+          "q": "Which two oceans are each split into 2 parts by the Equator?",
+          "choices": [
+            "Indian and Arctic",
+            "Arctic and Southern",
+            "Atlantic and Pacific",
+            "Pacific and Arctic"
+          ],
+          "answer": 2,
+          "explain": "Both the Atlantic and the Pacific are split into 2 parts by the Equator. The Atlantic is also the second-largest ocean and home to the Bermuda Triangle."
+        },
+        {
+          "id": "oc9",
+          "lesson": 1,
+          "type": "input",
+          "q": "The name Southern Ocean didn't exist until 2000. What was that ocean known as before then?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "antarctic"
+                ]
+              ],
+              "placeholder": "Type your answer",
+              "alsoAccept": [
+                "antarctic ocean",
+                "the antarctic ocean",
+                "antarctic",
+                "the antarctic"
+              ]
+            }
+          ],
+          "answerText": "the Antarctic Ocean",
+          "explain": "The name Southern Ocean didn't exist until 2000; it was known as the Antarctic Ocean."
+        },
+        {
+          "id": "oc10",
+          "lesson": 1,
+          "q": "Which ocean is the smallest and shallowest?",
+          "choices": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+          ],
+          "answer": 3,
+          "explain": "The Arctic is the smallest and shallowest ocean."
+        },
+        {
+          "id": "oc11",
+          "lesson": 2,
+          "q": "Most ocean salt is ____, which is the same as table salt.",
+          "choices": [
+            "calcium carbonate",
+            "sodium chloride",
+            "potassium iodide",
+            "magnesium sulfate"
+          ],
+          "answer": 1,
+          "explain": "Most ocean salt is sodium chloride, the same as table salt."
+        },
+        {
+          "id": "oc12",
+          "lesson": 2,
+          "q": "How does salt get into the ocean?",
+          "choices": [
+            "Salt falls from clouds during storms",
+            "Animals in the midnight zone make salt",
+            "Rivers and streams dissolve minerals on land, including salt, and carry them to the ocean",
+            "Desalination plants add salt to seawater"
+          ],
+          "answer": 2,
+          "explain": "Rivers and streams dissolve minerals on land, including salt, and carry them to the ocean. When water evaporates, the salt stays behind."
+        },
+        {
+          "id": "oc13",
+          "lesson": 2,
+          "q": "When ocean water evaporates, what happens to the salt?",
+          "choices": [
+            "The salt evaporates with the water",
+            "The salt stays behind",
+            "The salt turns into freshwater",
+            "The salt sinks into the midnight zone and disappears"
+          ],
+          "answer": 1,
+          "explain": "When water evaporates, the salt stays behind. That is a big reason the ocean stays salty."
+        },
+        {
+          "id": "oc14",
+          "lesson": 2,
+          "type": "input",
+          "q": "Why do hotter, drier climates have higher salinity than cool areas?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "evaporat",
+                  "evapourat"
+                ],
+                [
+                  "warm",
+                  "hot",
+                  "heat",
+                  "high temperature",
+                  "higher temperature"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "Hotter, drier climates have higher salinity because warm temperatures cause more evaporation.",
+          "explain": "Warm temperatures cause more evaporation, so more water leaves and more salt is left behind.",
+          "label": "Short answer"
+        },
+        {
+          "id": "oc15",
+          "lesson": 2,
+          "type": "input",
+          "q": "Density is how ____ or ____ the water is.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "heavy"
+                ],
+                [
+                  "thick"
+                ]
+              ],
+              "placeholder": "Type both words",
+              "alsoAccept": [
+                "heavy or thick",
+                "thick or heavy",
+                "heavy and thick",
+                "thick and heavy"
+              ]
+            }
+          ],
+          "answerText": "heavy or thick",
+          "explain": "Density is how heavy or thick the water is."
+        },
+        {
+          "id": "oc16",
+          "lesson": 2,
+          "q": "Which statement about density is true?",
+          "choices": [
+            "Salt adds mass, which increases salinity and density, and colder water is more dense",
+            "Salt lowers density, and warmer water is always more dense",
+            "Density stays the same no matter how salty or cold the water is",
+            "Only pressure, not salt or temperature, can change density"
+          ],
+          "answer": 0,
+          "explain": "Salt adds mass, which increases salinity and density. The colder the water, the more dense it is."
+        },
+        {
+          "id": "oc17",
+          "lesson": 2,
+          "q": "As you go deeper in the ocean, what happens to temperature, pressure, and density?",
+          "choices": [
+            "Temperature rises, and pressure and density decrease",
+            "Temperature, pressure, and density all decrease",
+            "Temperature drops, and pressure and density increase",
+            "Temperature and pressure drop, but density stays the same"
+          ],
+          "answer": 2,
+          "explain": "As you go deeper, temperature drops and pressure and density increase."
+        },
+        {
+          "id": "oc18",
+          "lesson": 2,
+          "q": "Which zone is shallow, gets the most sunlight, and is where most photosynthesis occurs?",
+          "choices": [
+            "The twilight zone",
+            "The sunlight zone",
+            "The midnight zone",
+            "The abyssal plain"
+          ],
+          "answer": 1,
+          "explain": "The sunlight zone is shallow, gets the most sunlight, and is where most photosynthesis occurs."
+        },
+        {
+          "id": "oc19",
+          "lesson": 2,
+          "q": "In the midnight zone, plants don't grow and most animals ____.",
+          "choices": [
+            "must swim up to the sunlight zone every day to eat plants",
+            "make their own light (bioluminescence)",
+            "live only on the continental shelf",
+            "cannot survive the darkness at all"
+          ],
+          "answer": 1,
+          "explain": "In the midnight zone, plants don't grow and most animals make their own light (bioluminescence). The twilight zone is the one where most sunlight is gone."
+        },
+        {
+          "id": "oc20",
+          "lesson": 3,
+          "q": "What is the continental shelf?",
+          "choices": [
+            "The flattest region on Earth, in the deep ocean",
+            "The shallow, gently sloping extension of the continent under water",
+            "A seafloor mineral that is expensive to retrieve",
+            "The deepest point on Earth, in the Pacific Ocean"
+          ],
+          "answer": 1,
+          "explain": "The continental shelf is the shallow, gently sloping extension of the continent under water."
+        },
+        {
+          "id": "oc21",
+          "lesson": 3,
+          "type": "input",
+          "q": "The continental shelf is usually less than how many meters deep?",
+          "fields": [
+            {
+              "kind": "number",
+              "value": 200,
+              "placeholder": "Type the number",
+              "alsoAccept": [
+                "200 meters",
+                "200 m",
+                "less than 200",
+                "less than 200 meters",
+                "less than 200 m",
+                "under 200",
+                "under 200 meters",
+                "<200",
+                "< 200",
+                "usually less than 200",
+                "usually less than 200 meters"
+              ],
+              "unit": "meters"
+            }
+          ],
+          "answerText": "200 meters (usually less than 200 meters deep)",
+          "explain": "The continental shelf is usually less than 200 meters deep. It extends hundreds of miles and is an important fishing area, home to coral reefs and kelp forests."
+        },
+        {
+          "id": "oc22",
+          "lesson": 3,
+          "type": "input",
+          "label": "Short answer",
+          "q": "Describe the continental shelf and name one reason it is important.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "shelf",
+                  "extension",
+                  "continent",
+                  "slope",
+                  "sloping"
+                ],
+                [
+                  "shallow",
+                  "200",
+                  "fish",
+                  "fishing",
+                  "coral",
+                  "kelp"
+                ]
+              ],
+              "placeholder": "Type a sentence or two"
+            }
+          ],
+          "answerText": "The continental shelf is the shallow, gently sloping extension of the continent under water. It is usually less than 200 meters deep, is an important fishing area, and is home to coral reefs and kelp forests.",
+          "explain": "Mention that it is the shallow underwater edge of a continent, plus a fact such as its depth, fishing, coral reefs, or kelp forests."
+        },
+        {
+          "id": "oc23",
+          "lesson": 3,
+          "q": "Which statement about abyssal plains is true?",
+          "choices": [
+            "They are steep underwater mountains near the shore",
+            "They are the flattest regions on Earth, stretch thousands of km, and cover more of Earth's surface than all the continents combined",
+            "They are usually less than 200 meters deep",
+            "They are where most photosynthesis occurs"
+          ],
+          "answer": 1,
+          "explain": "Abyssal plains are the flattest regions on Earth. They stretch thousands of km and cover more of Earth's surface than all the continents combined."
+        },
+        {
+          "id": "oc24",
+          "lesson": 3,
+          "q": "Deep-sea life on the abyssal plains is adapted to ____.",
+          "choices": [
+            "hot water, low pressure, and bright sunlight",
+            "extreme cold, pressure, and darkness",
+            "living in kelp forests and coral reefs",
+            "fresh water made by desalination"
+          ],
+          "answer": 1,
+          "explain": "Deep-sea life there is adapted to extreme cold, pressure, and darkness."
+        },
+        {
+          "id": "oc25",
+          "lesson": 4,
+          "q": "The greatest demand for ocean resources is for ____.",
+          "choices": [
+            "gold",
+            "nodules",
+            "food",
+            "desalination machines"
+          ],
+          "answer": 2,
+          "explain": "The greatest demand is for food."
+        },
+        {
+          "id": "oc26",
+          "lesson": 4,
+          "q": "What is aquaculture?",
+          "choices": [
+            "Dumping trash and plastic into the ocean",
+            "Raising seafood in ponds to sell",
+            "Making fresh water from ocean water",
+            "A multi-billion-dollar industry that only harvests wild fish"
+          ],
+          "answer": 1,
+          "explain": "Aquaculture is raising seafood in ponds to sell. Fishing is the multi-billion-dollar industry that harvests wild seafood."
+        },
+        {
+          "id": "oc27",
+          "lesson": 4,
+          "type": "input",
+          "q": "Seaweed is a living ocean resource. What is it used as in jelly?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "thicken",
+                  "thickener",
+                  "thickening"
+                ]
+              ],
+              "placeholder": "Type your answer",
+              "alsoAccept": [
+                "a thickener",
+                "thickener",
+                "as a thickener",
+                "thickener in jelly"
+              ]
+            }
+          ],
+          "answerText": "a thickener",
+          "explain": "Seaweed is used as a thickener in jelly."
+        },
+        {
+          "id": "oc28",
+          "lesson": 4,
+          "q": "Oil and natural gas from the ocean are a type of ____, and they are ____.",
+          "choices": [
+            "living resource; renewable",
+            "petroleum (non-living resource); nonrenewable",
+            "seafloor mineral called nodules; easy to retrieve",
+            "desalination product; made from seaweed"
+          ],
+          "answer": 1,
+          "explain": "Oil and natural gas are petroleum, a non-living resource, and they are nonrenewable."
+        },
+        {
+          "id": "oc29",
+          "lesson": 4,
+          "q": "Seafloor minerals called nodules are expensive mainly because they are ____.",
+          "choices": [
+            "already used as a thickener in jelly",
+            "renewable and very common",
+            "difficult to retrieve",
+            "only found on the continental shelf"
+          ],
+          "answer": 2,
+          "explain": "Nodules are difficult to retrieve, so they are expensive."
+        },
+        {
+          "id": "oc30",
+          "lesson": 4,
+          "type": "input",
+          "q": "What is the word for making fresh water from ocean water?",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "desalin"
+                ]
+              ],
+              "placeholder": "Type your answer",
+              "alsoAccept": [
+                "desalination",
+                "desalinization",
+                "desalinisation",
+                "desalinate",
+                "to desalinate"
+              ]
+            }
+          ],
+          "answerText": "desalination",
+          "explain": "Desalination is making fresh water from ocean water."
+        },
+        {
+          "id": "oc31",
+          "lesson": 4,
+          "q": "Which of these is a way people pollute the ocean?",
+          "choices": [
+            "Aquaculture in ponds",
+            "Using seaweed as a thickener",
+            "Trash and plastic dumping, which can harm or kill animals, and oil spills",
+            "Mapping the ocean floor with SONAR"
+          ],
+          "answer": 2,
+          "explain": "Pollution includes trash and plastic dumping (plastics can harm or kill animals) and oil spills."
+        },
+        {
+          "id": "oc32",
+          "lesson": 5,
+          "type": "input",
+          "q": "Giant streams of water flowing within the ocean are called ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "current"
+                ]
+              ],
+              "placeholder": "Type your answer",
+              "alsoAccept": [
+                "currents",
+                "a current",
+                "ocean currents",
+                "ocean current"
+              ]
+            }
+          ],
+          "answerText": "currents",
+          "explain": "Giant streams of water flowing within the ocean are called currents. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc33",
+          "lesson": 5,
+          "q": "What are the two categories of ocean currents?",
+          "choices": [
+            "Warm currents and rip currents",
+            "Surface currents and deep water currents",
+            "Crest currents and trough currents",
+            "Pacific currents and Atlantic currents"
+          ],
+          "answer": 1,
+          "explain": "The two categories are surface currents and deep water currents. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc34",
+          "lesson": 5,
+          "q": "What is the biggest factor causing surface currents?",
+          "choices": [
+            "Earthquakes on the abyssal plains",
+            "Desalination plants along the coast",
+            "Air currents, or wind",
+            "Oil spills"
+          ],
+          "answer": 2,
+          "explain": "The biggest factor causing surface currents is air currents, or wind. The stronger and longer the wind blows, the stronger the current. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc35",
+          "lesson": 5,
+          "q": "Which statement about global (prevailing) wind belts is true?",
+          "choices": [
+            "They have no effect on surface currents",
+            "They greatly affect surface currents, and the winds always blow in the same direction",
+            "They only blow at night in the midnight zone",
+            "They change direction every hour, so currents cannot be named"
+          ],
+          "answer": 1,
+          "explain": "Global (prevailing) wind belts greatly affect surface currents; the winds always blow in the same direction. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc36",
+          "lesson": 5,
+          "type": "input",
+          "q": "Major surface currents of the world are ____ and always travel the same way; some are warm and some are cold.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "named",
+                  "predictable",
+                  "name"
+                ]
+              ],
+              "placeholder": "Type your answer",
+              "alsoAccept": [
+                "named",
+                "predictable",
+                "named / predictable",
+                "named and predictable"
+              ]
+            }
+          ],
+          "answerText": "named (predictable also counts)",
+          "explain": "Major surface currents are named and always travel the same way. \"Predictable\" is also accepted. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc37",
+          "lesson": 5,
+          "type": "input",
+          "q": "The highest point of a wave is called the ____. The lowest point between two crests is called the ____.",
+          "fields": [
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "crest"
+                ]
+              ],
+              "placeholder": "Highest point",
+              "alsoAccept": [
+                "the crest",
+                "crest"
+              ],
+              "label": "Highest point"
+            },
+            {
+              "kind": "text",
+              "keywords": [
+                [
+                  "trough"
+                ]
+              ],
+              "placeholder": "Lowest point",
+              "alsoAccept": [
+                "the trough",
+                "trough"
+              ],
+              "label": "Lowest point"
+            }
+          ],
+          "answerText": "crest; trough",
+          "explain": "The crest is the highest point of a wave. The trough is the lowest point between two crests. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc38",
+          "lesson": 5,
+          "q": "Wave height is measured from the ____ to the ____.",
+          "choices": [
+            "shore to the open ocean",
+            "trough to the crest",
+            "sunlight zone to the midnight zone",
+            "continental shelf to the abyssal plain"
+          ],
+          "answer": 1,
+          "explain": "Wave height is measured from the trough to the crest. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc39",
+          "lesson": 5,
+          "q": "What determines the height (size) of a wave?",
+          "choices": [
+            "The salinity of the water and the number of fish nearby",
+            "The speed of the wind and the length of time it blows",
+            "Whether the current is named or not",
+            "How deep the continental shelf is"
+          ],
+          "answer": 1,
+          "explain": "The speed of the wind and the length of time it blows determine the height (size) of a wave. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        },
+        {
+          "id": "oc40",
+          "lesson": 5,
+          "q": "Which of these is one of the greatest dangers to swimmers?",
+          "choices": [
+            "Abyssal plains",
+            "Kelp forests",
+            "Rip currents",
+            "Desalination"
+          ],
+          "answer": 2,
+          "explain": "Rip currents are one of the greatest dangers to swimmers. Check this with your class notes — Lesson 5 answers were filled in by Roo."
+        }
+      ]
+    }
+  ]
+},
 ];
