@@ -5369,7 +5369,7 @@ window.SUBJECTS = [
     {
       "id": "oceans-practice",
       "name": "Practice Test",
-      "desc": "40 questions · mixed multiple choice, fill-in, and short answer · same as the printed test",
+      "desc": "37 questions · mixed multiple choice and fill-in · same as the printed test",
       "questions": [
         {
           "id": "oc1",
@@ -5421,40 +5421,6 @@ window.SUBJECTS = [
           ],
           "answerText": "ping",
           "explain": "The ship sends out a signal called a ping."
-        },
-        {
-          "id": "oc4",
-          "lesson": 1,
-          "type": "input",
-          "label": "Short answer",
-          "q": "List the steps scientists use to map the ocean floor with SONAR.",
-          "fields": [
-            {
-              "kind": "text",
-              "keywords": [
-                [
-                  "ping",
-                  "signal",
-                  "sound"
-                ],
-                [
-                  "time",
-                  "bounce",
-                  "return",
-                  "back"
-                ],
-                [
-                  "depth",
-                  "deep",
-                  "map",
-                  "floor"
-                ]
-              ],
-              "placeholder": "Type a sentence or two"
-            }
-          ],
-          "answerText": "1) The ship sends out a ping. 2) Scientists time how long the sound waves take to reach the bottom and bounce back. 3) That measurement lets them calculate the depth. 4) They use the data to map the ocean floor.",
-          "explain": "You need the idea of a ping/signal, timing the bounce back, and using that to find the depth or map the floor."
         },
         {
           "id": "oc5",
@@ -5611,34 +5577,6 @@ window.SUBJECTS = [
           "explain": "When water evaporates, the salt stays behind. That is a big reason the ocean stays salty."
         },
         {
-          "id": "oc14",
-          "lesson": 2,
-          "type": "input",
-          "q": "Why do hotter, drier climates have higher salinity than cool areas?",
-          "fields": [
-            {
-              "kind": "text",
-              "keywords": [
-                [
-                  "evaporat",
-                  "evapourat"
-                ],
-                [
-                  "warm",
-                  "hot",
-                  "heat",
-                  "high temperature",
-                  "higher temperature"
-                ]
-              ],
-              "placeholder": "Type a sentence or two"
-            }
-          ],
-          "answerText": "Hotter, drier climates have higher salinity because warm temperatures cause more evaporation.",
-          "explain": "Warm temperatures cause more evaporation, so more water leaves and more salt is left behind.",
-          "label": "Short answer"
-        },
-        {
           "id": "oc15",
           "lesson": 2,
           "type": "input",
@@ -5759,38 +5697,6 @@ window.SUBJECTS = [
           ],
           "answerText": "200 meters (usually less than 200 meters deep)",
           "explain": "The continental shelf is usually less than 200 meters deep. It extends hundreds of miles and is an important fishing area, home to coral reefs and kelp forests."
-        },
-        {
-          "id": "oc22",
-          "lesson": 3,
-          "type": "input",
-          "label": "Short answer",
-          "q": "Describe the continental shelf and name one reason it is important.",
-          "fields": [
-            {
-              "kind": "text",
-              "keywords": [
-                [
-                  "shelf",
-                  "extension",
-                  "continent",
-                  "slope",
-                  "sloping"
-                ],
-                [
-                  "shallow",
-                  "200",
-                  "fish",
-                  "fishing",
-                  "coral",
-                  "kelp"
-                ]
-              ],
-              "placeholder": "Type a sentence or two"
-            }
-          ],
-          "answerText": "The continental shelf is the shallow, gently sloping extension of the continent under water. It is usually less than 200 meters deep, is an important fishing area, and is home to coral reefs and kelp forests.",
-          "explain": "Mention that it is the shallow underwater edge of a continent, plus a fact such as its depth, fishing, coral reefs, or kelp forests."
         },
         {
           "id": "oc23",
