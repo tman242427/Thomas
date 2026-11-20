@@ -1754,5 +1754,1082 @@ window.SUBJECTS = [
         ]
       }
     ]
+  },
+  {
+    "id": "ela-grammar-tenses",
+    "name": "ELA Grammar: Simple Verb Tenses",
+    "emoji": "✏️",
+    "tagline": "Unit 3 · Lessons 17–19: agreement, past tense, and future tense",
+    "intro": "Pick a mode to practice simple verb tenses — present, past, and future. Watch the spelling rules and the time clue words. You've got this! 💪",
+    "lessons": [
+      {
+        "id": 17,
+        "name": "L17 · Present & Agreement"
+      },
+      {
+        "id": 18,
+        "name": "L18 · Simple Tense: Past"
+      },
+      {
+        "id": 19,
+        "name": "L19 · Simple Tense: Future"
+      }
+    ],
+    "notes": [
+      {
+        "id": "agree",
+        "short": "Present & Agreement",
+        "title": "Lesson 17: Simple Present Tense & Subject-Verb Agreement",
+        "html": "<h2>Lesson 17: Simple Present Tense &amp; Subject-Verb Agreement</h2>\n<p>The <strong>simple present tense</strong> tells about an action that happens <strong>now</strong>, or happens <strong>often</strong>.</p>\n<p><strong>Time clue words:</strong> now, today, every day, each day, always, often, usually.</p>\n<h3>Subject-verb agreement</h3>\n<p>The verb has to match the subject.</p>\n<ul>\n<li>A <strong>singular</strong> subject (one person or thing) takes a present-tense verb with <strong>-s</strong> or <strong>-es</strong>: Jane Goodall <strong>studies</strong> chimps. He <strong>knows</strong> the answer. The class <strong>starts</strong> at 8:00. A young chimp <strong>lives</strong> with its family.</li>\n<li>A <strong>plural</strong> subject (more than one) takes the <strong>base form</strong> of the verb, with no extra -s: The chimps <strong>live</strong> in the forest. The students <strong>know</strong> the rules. Scientists <strong>study</strong> animals. The actors <strong>watch</strong> their cues.</li>\n<li><strong>I</strong> and <strong>you</strong> also take the base form: I <strong>study</strong>. You <strong>know</strong>.</li>\n</ul>\n<h3>Quick check</h3>\n<ul>\n<li>She <strong>studies</strong> / They <strong>study</strong></li>\n<li>He <strong>knows</strong> / They <strong>know</strong></li>\n<li>The mayor <strong>speaks</strong> / The mayors <strong>speak</strong></li>\n</ul>"
+      },
+      {
+        "id": "past",
+        "short": "Past Tense",
+        "title": "Lesson 18: Simple Tense — Past",
+        "html": "<h2>Lesson 18: Simple Tense — Past</h2>\n<p>The <strong>simple past tense</strong> tells about an action that <strong>already happened</strong>.</p>\n<p><strong>Time clue words:</strong> yesterday, last night, last week, last year, last Saturday, earlier, ago.</p>\n<h3>Spelling rules for regular verbs</h3>\n<ol>\n<li><strong>Most verbs:</strong> just add <strong>-ed</strong>. play → <strong>played</strong>, look → <strong>looked</strong>, visit → <strong>visited</strong>, mail → <strong>mailed</strong>, watch → <strong>watched</strong>, help → <strong>helped</strong>, sign → <strong>signed</strong>.</li>\n<li><strong>Verb ends in silent e:</strong> drop the e and add <strong>-ed</strong>. hope → <strong>hoped</strong>, smile → <strong>smiled</strong>, surprise → <strong>surprised</strong>.</li>\n<li><strong>Verb ends in a consonant + y:</strong> change the y to <strong>i</strong> and add <strong>-ed</strong>. carry → <strong>carried</strong>, hurry → <strong>hurried</strong>, bury → <strong>buried</strong>, study → <strong>studied</strong>, cry → <strong>cried</strong>, reply → <strong>replied</strong>. (If the verb ends in a <em>vowel</em> + y, just add -ed: play → played.)</li>\n<li><strong>One-syllable CVC verbs</strong> (they end in a single consonant with a single vowel before it): <strong>double the final consonant</strong> and add <strong>-ed</strong>. stop → <strong>stopped</strong>, plan → <strong>planned</strong>, wrap → <strong>wrapped</strong>, drop → <strong>dropped</strong>, trip → <strong>tripped</strong>, hop → <strong>hopped</strong>, plot → <strong>plotted</strong>, drag → <strong>dragged</strong>.</li>\n</ol>\n<h3>Tricky pair</h3>\n<ul>\n<li><strong>hope → hoped</strong> (ends in e, so drop the e — do not double the p)</li>\n<li><strong>hop → hopped</strong> (one-syllable CVC, so double the p)</li>\n</ul>\n<h3>Spelling watch-outs</h3>\n<ul>\n<li>bury → <strong>buried</strong> (not burried)</li>\n<li>frighten → <strong>frightened</strong> (just add -ed; frighten is present tense)</li>\n<li>surprise → <strong>surprised</strong> (not sprise or supprised)</li>\n<li>plot → <strong>plotted</strong> (double the t; not ploted)</li>\n<li>carry → <strong>carried</strong> (not carryed)</li>\n</ul>"
+      },
+      {
+        "id": "future",
+        "short": "Future Tense",
+        "title": "Lesson 19: Simple Tense — Future",
+        "html": "<h2>Lesson 19: Simple Tense — Future</h2>\n<p>The <strong>simple future tense</strong> tells about an action that <strong>will happen later</strong>.</p>\n<p><strong>Time clue words:</strong> tomorrow, next week, next Monday, next year, later, soon, in the future, tonight.</p>\n<h3>How to form it</h3>\n<p>Use the helping verb <strong>will</strong> or <strong>shall</strong> plus the <strong>plain verb</strong> (no -s, no -ed).</p>\n<ul>\n<li>The senator <strong>will sign</strong> the bill tomorrow.</li>\n<li>Next week Annie <strong>will write</strong> a letter and <strong>will mail</strong> a photo.</li>\n<li>Tomorrow I <strong>shall help</strong> (or <strong>will help</strong>) with the play.</li>\n</ul>\n<h3>Will vs. shall</h3>\n<ul>\n<li>Use <strong>shall</strong> with <strong>I</strong> or <strong>we</strong>: I shall, we shall.</li>\n<li>Use <strong>will</strong> with <strong>you, he, she, it,</strong> and <strong>they</strong>.</li>\n<li><strong>Will</strong> may also be used with I and we, so <em>I will help</em> and <em>we will visit</em> are also correct.</li>\n<li>After will or shall, use the plain verb: will <strong>sign</strong>, not will signs or will signed.</li>\n</ul>\n<h3>How to choose the tense</h3>\n<ul>\n<li><strong>yesterday / last ___ / ago</strong> → past (watch the -ed spelling rules)</li>\n<li><strong>now / every day / always / often</strong> → present (and check agreement: -s for he, she, it)</li>\n<li><strong>tomorrow / next ___ / later / soon</strong> → future (<strong>will</strong> or <strong>shall</strong> + the plain verb)</li>\n</ul>\n<p>Read the whole sentence. If it has more than one verb, each verb has to match its own time clue.</p>"
+      }
+    ],
+    "flashcards": [
+      {
+        "term": "carry",
+        "def": "carried — ends in a consonant + y, so change y to i and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "hurry",
+        "def": "hurried — ends in a consonant + y, so change y to i and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "bury",
+        "def": "buried — change y to i and add -ed. Not burried.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "study",
+        "def": "studied — ends in a consonant + y, so change y to i and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "cry",
+        "def": "cried — ends in a consonant + y, so change y to i and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "reply",
+        "def": "replied — ends in a consonant + y, so change y to i and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "stop",
+        "def": "stopped — one-syllable CVC verb, so double the p and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "plan",
+        "def": "planned — one-syllable CVC verb, so double the n and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "wrap",
+        "def": "wrapped — one-syllable CVC verb, so double the p and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "drop",
+        "def": "dropped — one-syllable CVC verb, so double the p and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "trip",
+        "def": "tripped — one-syllable CVC verb, so double the p and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "hop",
+        "def": "hopped — one-syllable CVC verb, so double the p and add -ed. Not hoped.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "plot",
+        "def": "plotted — one-syllable CVC verb, so double the t and add -ed. Not ploted.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "drag",
+        "def": "dragged — one-syllable CVC verb, so double the g and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "hope",
+        "def": "hoped — ends in e, so drop the e and add -ed. Not hopped.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "smile",
+        "def": "smiled — ends in e, so drop the e and add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "frighten",
+        "def": "frightened — just add -ed. Frighten is present tense, not past.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "surprise",
+        "def": "surprised — ends in e, so drop the e and add -ed. Not sprise or supprised.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "play",
+        "def": "played — most verbs just add -ed. Play ends in a vowel + y, so keep the y.",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "visit",
+        "def": "visited — most verbs just add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "mail",
+        "def": "mailed — most verbs just add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "watch",
+        "def": "watched — most verbs just add -ed",
+        "lesson": 18,
+        "front": "Verb",
+        "back": "Past tense"
+      },
+      {
+        "term": "Most verbs: how do you make the past tense?",
+        "def": "Add -ed. play → played, look → looked, visit → visited.",
+        "lesson": 18,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "The verb ends in silent e. Now what?",
+        "def": "Drop the e and add -ed. hope → hoped, smile → smiled, surprise → surprised.",
+        "lesson": 18,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "The verb ends in a consonant + y. Now what?",
+        "def": "Change the y to i and add -ed. carry → carried, bury → buried, study → studied.",
+        "lesson": 18,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "One-syllable CVC verb (stop, plan, hop). Now what?",
+        "def": "Double the final consonant and add -ed. stop → stopped, plan → planned, hop → hopped.",
+        "lesson": 18,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "hope vs. hop",
+        "def": "hope → hoped (drop the e). hop → hopped (double the p). They are different words!",
+        "lesson": 18,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "Simple past tense",
+        "def": "Tells about an action that already happened. Time clues: yesterday, last night, last week, ago.",
+        "lesson": 18,
+        "front": "Term",
+        "back": "Definition"
+      },
+      {
+        "term": "Simple present tense",
+        "def": "Tells about an action that happens now or happens often. Time clues: now, today, every day, always, often.",
+        "lesson": 17,
+        "front": "Term",
+        "back": "Definition"
+      },
+      {
+        "term": "Simple future tense",
+        "def": "Tells about an action that will happen later. Use will or shall + the plain verb. Time clues: tomorrow, next week, later, soon.",
+        "lesson": 19,
+        "front": "Term",
+        "back": "Definition"
+      },
+      {
+        "term": "When do you use shall?",
+        "def": "With I or we: I shall, we shall. Will can also be used with I and we.",
+        "lesson": 19,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "When do you use will?",
+        "def": "With you, he, she, it, and they. Will may also be used with I and we. After will or shall, use the plain verb (will sign, not will signs or will signed).",
+        "lesson": 19,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "Singular subject-verb agreement",
+        "def": "A singular subject takes a present-tense verb with -s or -es: she studies, he knows, Jane Goodall studies.",
+        "lesson": 17,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "Plural subject-verb agreement",
+        "def": "A plural subject takes the base form, with no extra -s: they study, the students know, the chimps live.",
+        "lesson": 17,
+        "front": "Rule",
+        "back": "Remember"
+      },
+      {
+        "term": "The class will visit the Capitol tomorrow.",
+        "def": "Future tense (will visit). Tomorrow is a future time clue.",
+        "lesson": 19,
+        "front": "What tense?",
+        "back": "Answer"
+      },
+      {
+        "term": "Denise watched Peter Pan last night.",
+        "def": "Past tense (watched). Last night is a past time clue.",
+        "lesson": 18,
+        "front": "What tense?",
+        "back": "Answer"
+      },
+      {
+        "term": "Jane Goodall studies chimps.",
+        "def": "Present tense (studies). Jane Goodall is singular, so the verb has -s.",
+        "lesson": 17,
+        "front": "What tense?",
+        "back": "Answer"
+      },
+      {
+        "term": "Spelling watch-outs",
+        "def": "buried (not burried); frightened (not frighten); surprised (not sprise); plotted (not ploted); carried (not carryed).",
+        "lesson": 18,
+        "front": "Remember",
+        "back": "Correct spellings"
+      },
+      {
+        "term": "How do you choose the tense?",
+        "def": "Look at the time clue. yesterday / last / ago → past. every day / now / always → present. tomorrow / next / later → future.",
+        "lesson": 19,
+        "front": "Question",
+        "back": "Answer"
+      },
+      {
+        "term": "sign in the future tense",
+        "def": "will sign (or shall sign with I or we). Use the plain verb after will or shall — not will signs or will signed.",
+        "lesson": 19,
+        "front": "Verb",
+        "back": "Future tense"
+      }
+    ],
+    "tests": [
+      {
+        "id": "practice",
+        "name": "Practice Test",
+        "desc": "40 questions · fill-in and multiple choice · simple present, past, and future tenses",
+        "shuffle": true,
+        "questions": [
+          {
+            "id": "vt_carry",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. Yesterday Maya _____ the bags into the kitchen. (carry)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "carried"
+                  ]
+                ],
+                "alsoAccept": [
+                  "carried"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "carried",
+            "explain": "Carry ends in a consonant + y, so change y to i and add -ed: carried."
+          },
+          {
+            "id": "vt_hurry",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The students _____ to get to the theater on time. (hurry)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "hurried"
+                  ]
+                ],
+                "alsoAccept": [
+                  "hurried"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "hurried",
+            "explain": "Hurry ends in a consonant + y, so change y to i and add -ed: hurried."
+          },
+          {
+            "id": "vt_bury",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The pirates _____ the treasure under the sand. (bury)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "buried"
+                  ]
+                ],
+                "alsoAccept": [
+                  "buried"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "buried",
+            "explain": "Bury ends in a consonant + y, so change y to i and add -ed: buried. Be careful — it is buried, not burried."
+          },
+          {
+            "id": "vt_stop",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The bus _____ at the red light. (stop)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "stopped"
+                  ]
+                ],
+                "alsoAccept": [
+                  "stopped"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "stopped",
+            "explain": "Stop is a one-syllable CVC verb, so double the p and add -ed: stopped."
+          },
+          {
+            "id": "vt_plan",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The class _____ a surprise party for the teacher. (plan)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "planned"
+                  ]
+                ],
+                "alsoAccept": [
+                  "planned"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "planned",
+            "explain": "Plan is a one-syllable CVC verb, so double the n and add -ed: planned."
+          },
+          {
+            "id": "vt_wrap",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. Dad _____ the birthday present in colorful paper. (wrap)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "wrapped"
+                  ]
+                ],
+                "alsoAccept": [
+                  "wrapped"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "wrapped",
+            "explain": "Wrap is a one-syllable CVC verb, so double the p and add -ed: wrapped."
+          },
+          {
+            "id": "vt_drop",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The glass _____ off the table during rehearsal. (drop)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "dropped"
+                  ]
+                ],
+                "alsoAccept": [
+                  "dropped"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "dropped",
+            "explain": "Drop is a one-syllable CVC verb, so double the p and add -ed: dropped."
+          },
+          {
+            "id": "vt_trip",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The actor _____ over a prop on stage. (trip)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "tripped"
+                  ]
+                ],
+                "alsoAccept": [
+                  "tripped"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "tripped",
+            "explain": "Trip is a one-syllable CVC verb, so double the p and add -ed: tripped."
+          },
+          {
+            "id": "vt_hope",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. We _____ the rain would stop before the play. (hope)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "hoped"
+                  ]
+                ],
+                "alsoAccept": [
+                  "hoped"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "hoped",
+            "explain": "Hope ends in e, so drop the e and add -ed: hoped. Do not double the p — hopped is the past tense of hop."
+          },
+          {
+            "id": "vt_hop",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The bunny _____ across the garden. (hop)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "hopped"
+                  ]
+                ],
+                "alsoAccept": [
+                  "hopped"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "hopped",
+            "explain": "Hop is a one-syllable CVC verb, so double the p and add -ed: hopped. Hoped (from hope) is a different word."
+          },
+          {
+            "id": "vt_study",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. Elizabeth _____ her grammar words last night. (study)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "studied"
+                  ]
+                ],
+                "alsoAccept": [
+                  "studied"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "studied",
+            "explain": "Study ends in a consonant + y, so change y to i and add -ed: studied."
+          },
+          {
+            "id": "vt_frighten",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the past-tense verb",
+            "q": "Type the past tense of the verb in parentheses. The loud thunder _____ the dogs. (frighten)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "frightened"
+                  ]
+                ],
+                "alsoAccept": [
+                  "frightened"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "frightened",
+            "explain": "For frighten, just add -ed: frightened. Don't leave it as frighten — that is present tense, not past."
+          },
+          {
+            "id": "vt_sign_fut",
+            "lesson": 19,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Tomorrow the senator _____ the new bill. (sign)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "will sign"
+                  ]
+                ],
+                "alsoAccept": [
+                  "will sign"
+                ],
+                "placeholder": "e.g. will sign"
+              }
+            ],
+            "answerText": "will sign",
+            "explain": "Tomorrow is a future time clue, so use will + the plain verb: will sign. (Not will signs or will signed.)"
+          },
+          {
+            "id": "vt_mail_past",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Yesterday Annie _____ a letter to her friend. (mail)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "mailed"
+                  ]
+                ],
+                "alsoAccept": [
+                  "mailed"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "mailed",
+            "explain": "Yesterday is a past time clue, so add -ed: mailed."
+          },
+          {
+            "id": "vt_start_pres",
+            "lesson": 17,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Every morning the class _____ at 8:00. (start)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "starts"
+                  ]
+                ],
+                "alsoAccept": [
+                  "starts"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "starts",
+            "explain": "Every morning is a present time clue (it happens often). The subject class is singular, so use starts, not start."
+          },
+          {
+            "id": "vt_visit_fut",
+            "lesson": 19,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Next Monday we _____ the Capitol. (visit)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "will visit",
+                    "shall visit"
+                  ]
+                ],
+                "alsoAccept": [
+                  "will visit",
+                  "shall visit"
+                ],
+                "placeholder": "e.g. will visit"
+              }
+            ],
+            "answerText": "will visit or shall visit",
+            "explain": "Next Monday is a future time clue. With we, you may write will visit or shall visit."
+          },
+          {
+            "id": "vt_watch_past",
+            "lesson": 18,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Last night Denise _____ a play about Peter Pan. (watch)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "watched"
+                  ]
+                ],
+                "alsoAccept": [
+                  "watched"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "watched",
+            "explain": "Last night is a past time clue, so add -ed: watched."
+          },
+          {
+            "id": "vt_help_fut",
+            "lesson": 19,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Tomorrow I _____ with the scenery for the play. (help)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "will help",
+                    "shall help"
+                  ]
+                ],
+                "alsoAccept": [
+                  "will help",
+                  "shall help"
+                ],
+                "placeholder": "e.g. will help"
+              }
+            ],
+            "answerText": "will help or shall help",
+            "explain": "Tomorrow is a future time clue. With I, you may write will help or shall help."
+          },
+          {
+            "id": "vt_listen_pres",
+            "lesson": 17,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Each day the judge _____ carefully to every case. (listen)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "listens"
+                  ]
+                ],
+                "alsoAccept": [
+                  "listens"
+                ],
+                "placeholder": "Type the verb"
+              }
+            ],
+            "answerText": "listens",
+            "explain": "Each day is a present time clue. The subject judge is singular, so use listens, not listen."
+          },
+          {
+            "id": "vt_move_fut",
+            "lesson": 19,
+            "type": "input",
+            "label": "Type the correct verb form",
+            "q": "Type the correct tense of the verb in parentheses. Next year they _____ to a new school. (move)",
+            "fields": [
+              {
+                "kind": "text",
+                "keywords": [
+                  [
+                    "will move"
+                  ]
+                ],
+                "alsoAccept": [
+                  "will move"
+                ],
+                "placeholder": "e.g. will move"
+              }
+            ],
+            "answerText": "will move",
+            "explain": "Next year is a future time clue. Use will with they (not shall): will move."
+          },
+          {
+            "id": "vt_id_fut",
+            "lesson": 19,
+            "q": "What tense is the verb in this sentence?  \"The class will visit the Capitol tomorrow.\"",
+            "choices": [
+              "Present",
+              "Past",
+              "Future",
+              "It has no tense"
+            ],
+            "answer": 2,
+            "explain": "Will visit tells about an action that will happen later, and tomorrow is a future time clue. This is the simple future tense.",
+            "label": "Identify the tense"
+          },
+          {
+            "id": "vt_id_past",
+            "lesson": 18,
+            "q": "What tense is the verb in this sentence?  \"Denise watched Peter Pan last night.\"",
+            "choices": [
+              "Present",
+              "Past",
+              "Future",
+              "It has no tense"
+            ],
+            "answer": 1,
+            "explain": "Watched tells about an action that already happened, and last night is a past time clue. This is the simple past tense.",
+            "label": "Identify the tense"
+          },
+          {
+            "id": "vt_id_pres",
+            "lesson": 17,
+            "q": "What tense is the verb in this sentence?  \"Jane Goodall studies chimps in the forest.\"",
+            "choices": [
+              "Present",
+              "Past",
+              "Future",
+              "It has no tense"
+            ],
+            "answer": 0,
+            "explain": "Studies tells about something she does as a habit, in the present. The singular subject Jane Goodall takes studies with an -s.",
+            "label": "Identify the tense"
+          },
+          {
+            "id": "vt_id_fut2",
+            "lesson": 19,
+            "q": "What tense is the verb in this sentence?  \"Next week I shall write a letter to Grandma.\"",
+            "choices": [
+              "Present",
+              "Past",
+              "Future",
+              "It has no tense"
+            ],
+            "answer": 2,
+            "explain": "Shall write tells about an action that will happen later, and next week is a future time clue. Shall is used with I. This is the simple future tense.",
+            "label": "Identify the tense"
+          },
+          {
+            "id": "vt_id_past2",
+            "lesson": 18,
+            "q": "What tense is the verb in this sentence?  \"The actors practiced their lines yesterday.\"",
+            "choices": [
+              "Present",
+              "Past",
+              "Future",
+              "It has no tense"
+            ],
+            "answer": 1,
+            "explain": "Practiced tells about an action that already happened, and yesterday is a past time clue. This is the simple past tense.",
+            "label": "Identify the tense"
+          },
+          {
+            "id": "vt_sp_buried",
+            "lesson": 18,
+            "q": "Which is the correctly spelled past tense of bury?",
+            "choices": [
+              "burried",
+              "buryed",
+              "buried",
+              "buryd"
+            ],
+            "answer": 2,
+            "explain": "Bury ends in a consonant + y, so change y to i and add -ed: buried. Not burried or buryed.",
+            "label": "Pick the correct spelling"
+          },
+          {
+            "id": "vt_sp_surprised",
+            "lesson": 18,
+            "q": "Which is the correctly spelled past tense of surprise?",
+            "choices": [
+              "sprise",
+              "surprised",
+              "supprised",
+              "surprized"
+            ],
+            "answer": 1,
+            "explain": "Surprise ends in e, so drop the e and add -ed: surprised. Not sprise, supprised, or surprized.",
+            "label": "Pick the correct spelling"
+          },
+          {
+            "id": "vt_sp_plotted",
+            "lesson": 18,
+            "q": "Which is the correctly spelled past tense of plot?",
+            "choices": [
+              "ploted",
+              "plot",
+              "plotted",
+              "ploteed"
+            ],
+            "answer": 2,
+            "explain": "Plot is a one-syllable CVC verb, so double the t and add -ed: plotted. Not ploted.",
+            "label": "Pick the correct spelling"
+          },
+          {
+            "id": "vt_sp_carried",
+            "lesson": 18,
+            "q": "Which is the correctly spelled past tense of carry?",
+            "choices": [
+              "carryed",
+              "carried",
+              "carryied",
+              "caried"
+            ],
+            "answer": 1,
+            "explain": "Carry ends in a consonant + y, so change y to i and add -ed: carried. Not carryed.",
+            "label": "Pick the correct spelling"
+          },
+          {
+            "id": "vt_sp_hope_hop",
+            "lesson": 18,
+            "q": "Which sentence uses the correct past-tense spellings?",
+            "choices": [
+              "We hoped for good weather, and the rabbit hopped away.",
+              "We hopped for good weather, and the rabbit hoped away.",
+              "We hoppped for good weather, and the rabbit hopeed away.",
+              "We hopd for good weather, and the rabbit hoppped away."
+            ],
+            "answer": 0,
+            "explain": "Hope ends in e, so drop the e: hoped. Hop is a one-syllable CVC verb, so double the p: hopped.",
+            "label": "Pick the correct spelling"
+          },
+          {
+            "id": "vt_sent_green",
+            "lesson": 19,
+            "q": "Which sentence has all of its verbs in the correct tense?",
+            "choices": [
+              "Yesterday Senator Hal Green will sign two bills and visits a school.",
+              "Yesterday Senator Hal Green signed two bills and visited a school.",
+              "Yesterday Senator Hal Green signs two bills and will visited a school.",
+              "Yesterday Senator Hal Green sign two bills and visit a school."
+            ],
+            "answer": 1,
+            "explain": "Yesterday is a past time clue, so both verbs should be past tense: signed and visited.",
+            "label": "Pick the correct sentence"
+          },
+          {
+            "id": "vt_sent_annie",
+            "lesson": 19,
+            "q": "Which sentence has all of its verbs in the correct tense?",
+            "choices": [
+              "Next week I write to you and mailed a photo.",
+              "Next week I wrote to you and mail a photo.",
+              "Next week I will write to you and will mail a photo.",
+              "Next week I writes to you and will mailed a photo."
+            ],
+            "answer": 2,
+            "explain": "Next week is a future time clue, so both verbs need will (or shall, with I) plus the plain verb: will write and will mail.",
+            "label": "Pick the correct sentence"
+          },
+          {
+            "id": "vt_sent_play",
+            "lesson": 19,
+            "q": "Which sentence has all of its verbs in the correct tense?",
+            "choices": [
+              "Last Saturday the actors will rehearse, and tomorrow they practiced again.",
+              "Last Saturday the actors rehearse, and tomorrow they practice again.",
+              "Last Saturday the actors rehearsed, and tomorrow they will rehearse again.",
+              "Last Saturday the actors rehearsed, and tomorrow they rehearsed again."
+            ],
+            "answer": 2,
+            "explain": "Last Saturday is a past time clue, so use rehearsed. Tomorrow is a future time clue, so use will rehearse. Each verb has to match its own time clue.",
+            "label": "Pick the correct sentence"
+          },
+          {
+            "id": "vt_sent_gov",
+            "lesson": 19,
+            "q": "Which sentence has all of its verbs in the correct tense?",
+            "choices": [
+              "Every day the mayor speaks to reporters, and tomorrow she will answer more questions.",
+              "Every day the mayor spoke to reporters, and tomorrow she answered more questions.",
+              "Every day the mayor will speaks to reporters, and tomorrow she answer more questions.",
+              "Every day the mayor speak to reporters, and tomorrow she shall answers more questions."
+            ],
+            "answer": 0,
+            "explain": "Every day is a present time clue, so use speaks (singular). Tomorrow is a future time clue, so use will answer (plain verb after will).",
+            "label": "Pick the correct sentence"
+          },
+          {
+            "id": "vt_ag_studies",
+            "lesson": 17,
+            "q": "Choose the verb that agrees with the subject. Jane Goodall _____ chimps in Africa.",
+            "choices": [
+              "study",
+              "studies",
+              "studying",
+              "study's"
+            ],
+            "answer": 1,
+            "explain": "Jane Goodall is a singular subject, so the present-tense verb takes -s: studies, not study.",
+            "label": "Subject-verb agreement"
+          },
+          {
+            "id": "vt_ag_know",
+            "lesson": 17,
+            "q": "Choose the verb that agrees with the subject. The students _____ the grammar rules.",
+            "choices": [
+              "knows",
+              "knowing",
+              "know",
+              "known"
+            ],
+            "answer": 2,
+            "explain": "The students is a plural subject, so use the base form know, not knows.",
+            "label": "Subject-verb agreement"
+          },
+          {
+            "id": "vt_ag_lives",
+            "lesson": 17,
+            "q": "Choose the verb that agrees with the subject. A young chimp _____ with its family.",
+            "choices": [
+              "live",
+              "lives",
+              "living",
+              "liven"
+            ],
+            "answer": 1,
+            "explain": "A young chimp is a singular subject, so the present-tense verb takes -s: lives, not live.",
+            "label": "Subject-verb agreement"
+          },
+          {
+            "id": "vt_ag_watch",
+            "lesson": 17,
+            "q": "Choose the verb that agrees with the subject. The actors _____ their cues during every rehearsal.",
+            "choices": [
+              "watches",
+              "watch",
+              "watching",
+              "was watch"
+            ],
+            "answer": 1,
+            "explain": "The actors is a plural subject, so use the base form watch, not watches.",
+            "label": "Subject-verb agreement"
+          },
+          {
+            "id": "vt_shall_we",
+            "lesson": 19,
+            "q": "Which sentence uses shall correctly?",
+            "choices": [
+              "The dogs shall bark at the mail carrier.",
+              "She shall plays the piano tonight.",
+              "We shall practice the play after school.",
+              "They shall to help us tomorrow."
+            ],
+            "answer": 2,
+            "explain": "Use shall with I or we. We shall practice is correct. Shall is not used with they, she, or the dogs, and the verb after shall must be the plain form (practice, not plays or to help).",
+            "label": "Will or shall?"
+          },
+          {
+            "id": "vt_will_they",
+            "lesson": 19,
+            "q": "Which is the correct future-tense sentence?",
+            "choices": [
+              "They shall arrive tomorrow morning.",
+              "They will arrive tomorrow morning.",
+              "They will arrives tomorrow morning.",
+              "They will arrived tomorrow morning."
+            ],
+            "answer": 1,
+            "explain": "Use will (not shall) with they. After will, use the plain verb arrive, not arrives or arrived.",
+            "label": "Will or shall?"
+          }
+        ]
+      }
+    ]
   }
 ];
